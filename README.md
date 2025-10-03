@@ -1,6 +1,6 @@
 # Testudo++ 🐢⚡
 
-AI-powered campus companion for UMD students. Built for hackathon in 48 hours.
+AI-powered campus companion for UMD students. Built for Claude Sonnet 4.5 Challenge.
 
 ## Features
 - 🗓️ **Smart Schedule Builder** - Natural language course scheduling
@@ -29,4 +29,4 @@ uvicorn main:app --reload
 ## Tech Stack
 - Frontend: React + Vite + Tailwind
 - Backend: FastAPI + Claude AI
-- Data: UMD Schedule of Classes API + mock data
+- Data: UMD Schedule of Classes, PlanetTerp API, UMD Event Calendar
