@@ -1,0 +1,131 @@
+{
+  "cached_at": "2025-10-03T16:58:49.025243",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 4,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0132",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0142",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "PHY 1412",
+      "open_seats": 3,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0212",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0222",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 2,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 1,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0232",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0242",
+      "instructor": "Arnaja Mitra",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 30
+    }
+  ]
+}

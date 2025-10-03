@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T16:55:46.947205",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Shin Song",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "MTH 0101",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Harry Tamvakis",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "BPS 1238",
+      "open_seats": 1,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Christian Zickert",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "MTH 0103",
+      "open_seats": 5,
+      "total_seats": 30
+    }
+  ]
+}

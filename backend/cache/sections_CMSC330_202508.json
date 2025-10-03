@@ -1,0 +1,158 @@
+{
+  "cached_at": "2025-10-03T16:55:33.256339",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 1,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0104",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0105",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 1,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0106",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0107",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 3,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0202",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0203",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 1,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0204",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0205",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0206",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 12,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "CSI 1115",
+      "open_seats": 2,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0302",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "CSI 1115",
+      "open_seats": 1,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0303",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "CSI 1115",
+      "open_seats": 2,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0304",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "CSI 1115",
+      "open_seats": 0,
+      "total_seats": 35
+    }
+  ]
+}

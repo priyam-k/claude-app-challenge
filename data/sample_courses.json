@@ -1,0 +1,52 @@
+[
+  {
+    "code": "CMSC131",
+    "title": "Object-Oriented Programming I",
+    "days": "MWF",
+    "time": "10:00-10:50",
+    "credits": 4,
+    "type": "core",
+    "professor": "Nelson Padua-Perez",
+    "rating": 4.5
+  },
+  {
+    "code": "CMSC132",
+    "title": "Object-Oriented Programming II",
+    "days": "MWF",
+    "time": "11:00-11:50",
+    "credits": 4,
+    "type": "core",
+    "professor": "Fawzi Emad",
+    "rating": 4.7
+  },
+  {
+    "code": "COMM107",
+    "title": "Oral Communication",
+    "days": "TuTh",
+    "time": "14:00-15:15",
+    "credits": 3,
+    "type": "gen-ed",
+    "category": "FSOC",
+    "rating": 4.2
+  },
+  {
+    "code": "HIST156",
+    "title": "History of American Civilization",
+    "days": "MWF",
+    "time": "13:00-13:50",
+    "credits": 3,
+    "type": "gen-ed",
+    "category": "FSAW",
+    "rating": 4.0
+  },
+  {
+    "code": "BSCI105",
+    "title": "Principles of Biology",
+    "days": "TuTh",
+    "time": "09:30-10:45",
+    "credits": 4,
+    "type": "gen-ed",
+    "category": "FSMA",
+    "rating": 3.8
+  }
+]

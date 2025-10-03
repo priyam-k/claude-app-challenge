@@ -1,0 +1,125 @@
+{
+  "cached_at": "2025-10-03T15:48:23.603063",
+  "data": [
+    {
+      "code": "ARCH403",
+      "title": "Architecture Design Studio IV",
+      "credits": 6,
+      "description": "Prerequisite:Minimum grade of C- in ARCH402.Restriction:Must be in Architecture (B.S.) program. Investigations into the relationship between the man-made and the natural world including introductory issues of assembly and material value. Design of the site and the building are combined into an integral process delimiting and probing the boundaries of each and exploring their reciprocal relationship. The architect's obligations to the natural and urban contexts are explored in many dimensions inc",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "ARCH"
+    },
+    {
+      "code": "BSST340",
+      "title": "Oral Communication for National Security Careers",
+      "credits": 3,
+      "description": "Credit only granted for:BSST340 or BSST338E.Formerly:BSST338E. Students will discuss perspectives on strategic communication and national security, while discussing and practicing public speaking skills and developing proficiency in three genres of security-related briefings.  Students will work with the technical, scientific, and/or specialized data, vocabularies, processes, and products of the academic disciplines and/or fields of expertise relevant to national and international security caree",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "BSST"
+    },
+    {
+      "code": "COMM107",
+      "title": "Oral Communication: Principles and Practices",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285. A study of and practice in oral communication, including principles of interviewing, group discussion, listening, informative briefings, and persuasive speeches.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "COMM107B",
+      "title": "Oral Communication: Principles and Practices",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285. A study of and practice in oral communication, including principles of interviewing, group discussion, listening, informative briefings, and persuasive speeches.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "COMM107C",
+      "title": "Oral Communication: Principles and Practices",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285. A study of and practice in oral communication, including principles of interviewing, group discussion, listening, informative briefings, and persuasive speeches.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "COMM200",
+      "title": "Critical Thinking and Speaking",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, ENES143, INAG110, JOUR130, OR THET285. Theory and practice of persuasive discourse analysis and composition. Research techniques, logical and rhetorical conceptions of argument, and technical principles for persuading in public venues.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "CPBE225",
+      "title": "Enterprise Communications",
+      "credits": 3,
+      "description": "Prerequisite:CPBE100.Restriction:Must be enrolled in College Park Scholars' Business, Society and Entrepreneurship (CPBE) program.Formerly:CPSP220. Examines basic interpersonal communication processes within written and oral channels, with practical applications for the business environment.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "CPBE"
+    },
+    {
+      "code": "HLTH420",
+      "title": "Effective Strategies for Public Health Practice",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in HLTH140 and HLTH230; and must have completed with a minimum grade of C- or be concurrently enrolled in HLTH212.Restriction:Must be in the Public Health Practice program. The purpose of this course is to present the interrelationships of curriculum planning, methodology and the selection and use of successful public health presentation strategies. Special problems associated with public health presentations are discussed, and students become familiar with a var",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "INAG110",
+      "title": "Oral Communication",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, INAG110, JOUR130, THET285. A study of how perception, self-concept, and verbal and nonverbal communications affect the communication process as it emerges in the workplace.  The course provides skill training in speech writing, public speaking, group communication, interpersonal communication, listening, and responding.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "INAG"
+    },
+    {
+      "code": "INAG110S",
+      "title": "Oral Communication",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, INAG110, JOUR130, THET285. A study of how perception, self-concept, and verbal and nonverbal communications affect the communication process as it emerges in the workplace.  The course provides skill training in speech writing, public speaking, group communication, interpersonal communication, listening, and responding.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "INAG"
+    },
+    {
+      "code": "JOUR130",
+      "title": "Self-Presentation in the Age of YouTube",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285.Additional information:May not count toward the Journalism major. Students, as they make use of evolving technologies, need to be able to present themselves effectively in front of any number of different audiences through any number of different outlets. Whether in an interview on radio, a guest presentation at a conference, in comments on a video blog, in commentary on TV, in the lead on a self-produced YouTube vide",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "THET285",
+      "title": "The Art of Communication and Presentation",
+      "credits": 3,
+      "description": "Credit only granted for:COMM107, COMM200, INAG110, JOUR130, or THET285. An introduction to the fundamental practice and theory of public speaking and oral communication using theatrical techniques of both performance and the craft of storytelling.",
+      "geneds": [
+        "FSOC"
+      ],
+      "department": "THET"
+    }
+  ]
+}

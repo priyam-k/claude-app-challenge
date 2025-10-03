@@ -1,0 +1,374 @@
+{
+  "cached_at": "2025-10-03T16:58:53.801004",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 1,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0112",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 4,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0113",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 4,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0122",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 2,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0123",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0132",
+      "instructor": "Anna Szczekutowicz",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0202",
+      "open_seats": 2,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0126",
+      "open_seats": 2,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0213",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0126",
+      "open_seats": 3,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0126",
+      "open_seats": 4,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0223",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0126",
+      "open_seats": 4,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Todd Rowland",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0311",
+      "instructor": "Dong Quan Nguyen",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "PHY 1412",
+      "open_seats": 1,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0313",
+      "instructor": "Dong Quan Nguyen",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0321",
+      "instructor": "Dong Quan Nguyen",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0323",
+      "instructor": "Dong Quan Nguyen",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0331",
+      "instructor": "Dong Quan Nguyen",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0411",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 5,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0421",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 3,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0423",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 3,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0431",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0432",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 20,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0433",
+      "instructor": "Matthew Wilson",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0511",
+      "instructor": "Steven Chadwick",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "ARM 0135",
+      "open_seats": 8,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0513",
+      "instructor": "Steven Chadwick",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "ARM 0135",
+      "open_seats": 5,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0521",
+      "instructor": "Steven Chadwick",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "ARM 0135",
+      "open_seats": 3,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0523",
+      "instructor": "Steven Chadwick",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "ARM 0135",
+      "open_seats": 9,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0531",
+      "instructor": "Steven Chadwick",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "ARM 0135",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 4,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 6,
+      "total_seats": 26
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 5,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC04",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 8,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC05",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 7,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC06",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 17,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC07",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 3,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC08",
+      "instructor": "Mirna Pinsky",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "SKN 0200",
+      "open_seats": 4,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC09",
+      "instructor": "Craig Schlenoff",
+      "days": "MWTh",
+      "time": "4:30pm-5:45pm",
+      "location": "PHY 0405",
+      "open_seats": 0,
+      "total_seats": 13
+    },
+    {
+      "section_id": "FC10",
+      "instructor": "Craig Schlenoff",
+      "days": "MWTh",
+      "time": "4:30pm-5:45pm",
+      "location": "PHY 0405",
+      "open_seats": 0,
+      "total_seats": 13
+    },
+    {
+      "section_id": "0101",
+      "instructor": "Aditya Kumar",
+      "days": "MF",
+      "time": "10:00am-10:50am",
+      "location": "MTH 1313",
+      "open_seats": 2,
+      "total_seats": 22
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Aditya Kumar",
+      "days": "WF",
+      "time": "1:00pm-1:50pm",
+      "location": "MTH 0103",
+      "open_seats": 13,
+      "total_seats": 22
+    }
+  ]
+}

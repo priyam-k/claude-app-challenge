@@ -1,0 +1,14 @@
+{
+  "cached_at": "2025-10-03T17:15:01.110685",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Aaron Kyei-Asare",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "CSI 3117",
+      "open_seats": 85,
+      "total_seats": 85
+    }
+  ]
+}

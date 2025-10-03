@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T17:24:00.571174",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Maksym Morawski",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "ARM 0135",
+      "open_seats": 240,
+      "total_seats": 240
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Fardina Alam",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "IRB 0324",
+      "open_seats": 240,
+      "total_seats": 240
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Anna Evtushenko",
+      "days": "MW",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 1116",
+      "open_seats": 94,
+      "total_seats": 94
+    }
+  ]
+}

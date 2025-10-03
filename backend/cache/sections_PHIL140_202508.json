@@ -1,0 +1,95 @@
+{
+  "cached_at": "2025-10-03T17:35:12.090965",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 3,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 1,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 2,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0104",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 1,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0105",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 7,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0106",
+      "instructor": "Hallie Liberto",
+      "days": "MW",
+      "time": "11:00am-11:50am",
+      "location": "TMH 0301",
+      "open_seats": 7,
+      "total_seats": 20
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Kodie Lustig",
+      "days": "MW",
+      "time": "6:00pm-7:15pm",
+      "location": "ASY 3207",
+      "open_seats": 1,
+      "total_seats": 32
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Lia Curtis Fine",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "ARC 1105",
+      "open_seats": 1,
+      "total_seats": 32
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Nathan Lauffer",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "BPS 1236",
+      "open_seats": 0,
+      "total_seats": 32
+    },
+    {
+      "section_id": "FC04",
+      "instructor": "Xu Jiang",
+      "days": "TuTh",
+      "time": "7:30pm-8:45pm",
+      "location": "ASY 3207",
+      "open_seats": 8,
+      "total_seats": 32
+    }
+  ]
+}

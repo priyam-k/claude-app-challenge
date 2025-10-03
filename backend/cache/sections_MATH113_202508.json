@@ -1,0 +1,149 @@
+{
+  "cached_at": "2025-10-03T16:58:40.045187",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0112",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 4,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 4,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0122",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 4,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0132",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 5,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0142",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "ESJ 0224",
+      "open_seats": 5,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ESJ 0224",
+      "open_seats": 2,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Barbara Michelato",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ESJ 0224",
+      "open_seats": 2,
+      "total_seats": 28
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Jocelyn Menecio",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "PLS 1140",
+      "open_seats": 5,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Jocelyn Menecio",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "PLS 1140",
+      "open_seats": 4,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Jocelyn Menecio",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "PLS 1140",
+      "open_seats": 6,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC04",
+      "instructor": "Jocelyn Menecio",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "PLS 1140",
+      "open_seats": 8,
+      "total_seats": 24
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:app.testudo.umd.edu)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

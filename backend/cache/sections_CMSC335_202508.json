@@ -1,0 +1,23 @@
+{
+  "cached_at": "2025-10-03T16:55:35.205573",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Nelson Padua-Perez",
+      "days": "TuTh",
+      "time": "8:00am-9:15am",
+      "location": "IRB 0324",
+      "open_seats": 5,
+      "total_seats": 260
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Nelson Padua-Perez",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "IRB 0318",
+      "open_seats": 0,
+      "total_seats": 100
+    }
+  ]
+}

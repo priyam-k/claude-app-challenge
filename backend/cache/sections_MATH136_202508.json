@@ -1,0 +1,41 @@
+{
+  "cached_at": "2025-10-03T16:58:51.187638",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Panagiotis Dimakis",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0135",
+      "open_seats": 13,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Panagiotis Dimakis",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Panagiotis Dimakis",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0135",
+      "open_seats": 2,
+      "total_seats": 28
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Panagiotis Dimakis",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0135",
+      "open_seats": 12,
+      "total_seats": 28
+    }
+  ]
+}

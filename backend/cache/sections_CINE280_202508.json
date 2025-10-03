@@ -1,0 +1,23 @@
+{
+  "cached_at": "2025-10-03T17:35:06.745693",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Joshua Weiss",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "TWS 0234",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Porter Olsen",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "TWS 0234",
+      "open_seats": 3,
+      "total_seats": 30
+    }
+  ]
+}

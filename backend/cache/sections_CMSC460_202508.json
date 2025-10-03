@@ -1,0 +1,41 @@
+{
+  "cached_at": "2025-10-03T16:55:39.133350",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Jonathan Rosenberg",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "HJP 2242",
+      "open_seats": 2,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Tobias von Petersdorff",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHE 2118",
+      "open_seats": 2,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Ramani Duraiswami",
+      "days": "MW",
+      "time": "3:30pm-4:45pm",
+      "location": "PHY 2213",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Abba Gumel",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "ESJ B0322",
+      "open_seats": 0,
+      "total_seats": 35
+    }
+  ]
+}

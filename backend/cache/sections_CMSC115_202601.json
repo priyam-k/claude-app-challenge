@@ -1,0 +1,41 @@
+{
+  "cached_at": "2025-10-03T17:17:22.157350",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Alexis Lothian",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Alexis Lothian",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Alexis Lothian",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0104",
+      "instructor": "Alexis Lothian",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    }
+  ]
+}

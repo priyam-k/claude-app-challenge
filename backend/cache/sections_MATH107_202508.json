@@ -1,0 +1,50 @@
+{
+  "cached_at": "2025-10-03T16:58:37.597135",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Bilal Aytekin",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "MTH B0425",
+      "open_seats": 5,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Alexander Yordanov",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "MTH B0425",
+      "open_seats": 4,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Alexander Yordanov",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "MTH B0425",
+      "open_seats": 4,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Ayala Nuriely Kimel",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "MTH 0105",
+      "open_seats": 0,
+      "total_seats": 26
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Julie Daberkow",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "MTH 0103",
+      "open_seats": 18,
+      "total_seats": 23
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T17:35:34.055042",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Nathan Lauffer",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ANS 0408",
+      "open_seats": 0,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Nathan Lauffer",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ANS 0408",
+      "open_seats": 0,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Nathan Lauffer",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ANS 0408",
+      "open_seats": 0,
+      "total_seats": 20
+    }
+  ]
+}

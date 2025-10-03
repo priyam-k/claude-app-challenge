@@ -1,0 +1,104 @@
+{
+  "cached_at": "2025-10-03T17:14:19.931572",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "David Hamilton",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "PHY 4221",
+      "open_seats": 50,
+      "total_seats": 50
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Matei Machedon",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0135",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Matei Machedon",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0135",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Matei Machedon",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0135",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Matei Machedon",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0135",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0311",
+      "instructor": "Rodrigo Trevino",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0126",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0321",
+      "instructor": "Rodrigo Trevino",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0126",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0331",
+      "instructor": "Rodrigo Trevino",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0126",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0341",
+      "instructor": "Rodrigo Trevino",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "ARM 0126",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0101",
+      "instructor": "Guillaume Dumas",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "PHY 2106",
+      "open_seats": 22,
+      "total_seats": 22
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Rodrigo Trevino",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "MTH 0307",
+      "open_seats": 22,
+      "total_seats": 22
+    }
+  ]
+}

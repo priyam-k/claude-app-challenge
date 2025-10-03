@@ -1,0 +1,59 @@
+{
+  "cached_at": "2025-10-03T16:55:41.094958",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "ARM 0135",
+      "open_seats": 3,
+      "total_seats": 26
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "ARM 0135",
+      "open_seats": 22,
+      "total_seats": 26
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 26
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "ARM 0135",
+      "open_seats": 7,
+      "total_seats": 26
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0126",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Terence Long",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0126",
+      "open_seats": 0,
+      "total_seats": 30
+    }
+  ]
+}

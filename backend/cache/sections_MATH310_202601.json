@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T17:23:47.030890",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Kathryn Truman",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "PHY 2106",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Zengrui Han",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "MTH B0429",
+      "open_seats": 27,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Salman Safdar",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "MTH B0421",
+      "open_seats": 27,
+      "total_seats": 27
+    }
+  ]
+}

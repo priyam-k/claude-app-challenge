@@ -1,0 +1,301 @@
+{
+  "cached_at": "2025-10-03T15:58:48.613990",
+  "data": [
+    {
+      "code": "ANTH222",
+      "title": "Introduction to Ecological and Evolutionary Anthropology",
+      "credits": 4,
+      "description": "Credit only granted for:ANTH220 or ANTH222. An introduction to the evolution of human physiology and human behavior, the relationship between hominid and non-hominid primates, and the study of relationships between a population of humans and their biophysical environment.",
+      "geneds": [
+        "DSNL",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "AOSC200",
+      "title": "Weather and Climate",
+      "credits": 3,
+      "description": "Prerequisite:MATH107, MATH110, or MATH115.Recommended:Concurrent enrollment in AOSC201. What are weather and climate? Most people think they know but if you ask people to explain the differences and similarities you're bound to get a range of answers. Weather affects not just our daily activities but other important aspects of society such as transportation, commerce, security and agriculture. Most people understand what weather is to some extent. Climate and climate change are concepts that evo",
+      "geneds": [
+        "DSNL",
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "AOSC"
+    },
+    {
+      "code": "ASTR101",
+      "title": "General Astronomy",
+      "credits": 4,
+      "description": "Credit only granted for:ASTR100, ASTR101, or ASTR120. Descriptive astronomy, appropriate for non-science majors. Sun, moon, planets, stars, nebulae, galaxies and evolution. Laboratory exercises include use of photographic material, computer simulations, and standard laboratory equipment.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "BSCI135",
+      "title": "Amazing Green: Plants that Transformed the World",
+      "credits": 4,
+      "description": "In what profound ways have plants changed humanity and the world we live in today? An interactive way to learn about plants and science, focusing on how plants have changed human history, the biology of their growth, and the science behind their use.",
+      "geneds": [
+        "DSNL",
+        "SCIS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI160",
+      "title": "Principles of Ecology and Evolution",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH120 or higher.Recommended:For Science majors.Credit only granted for:BSCI106 or BSCI160.Formerly:BSCI106. Basic principles of biology with special emphasis on  ecological and evolutionary biology.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI170",
+      "title": "Principles of Molecular & Cellular Biology",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH120 or higher.Recommended:For Science majors.Credit only granted for:BSCI105 or BSCI170.Formerly:BSCI105. Basic principles of biology with special emphasis on cellular and molecular biology.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI201",
+      "title": "Human Anatomy and Physiology I",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in BSCI170; or students who have taken courses with comparable content may contact the CMNS-Biology department. Anatomy and physiology of the skeletal, muscular, neural, endocrine, and sensory systems. Course not acceptable toward major requirements in Biological Sciences, Chemistry or Biochemistry.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI223",
+      "title": "General Microbiology",
+      "credits": 4,
+      "description": "Prerequisite:BSCI170 and BSCI171; or BSCI105.Credit only granted for:BSCI223 or BSCI283. How have microorganisms exploited every conceivable ecological niche, and how have humans harnessed this diversity to improve medicine, agriculture, and biotechnology? The course covers fundamental concepts in morphology, physiology, genetics, immunology, ecology, and pathogenic microbiology. Applications of microbiology to medicine, the food industry, and biotechnology.",
+      "geneds": [
+        "DSNL",
+        "SCIS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSST240",
+      "title": "Understanding The Principles and Perils of CBRN Weapons",
+      "credits": 3,
+      "description": "Additional information:If taken in the same term as BSST241 these courses will count for General Education Natural Sciences Lab. Explores the 'dark side' of scientific applications. Students will gain an understanding of CBRN Weapons, through the exploration of the scientific method, and certain fundamental principles of chemistry, biology, and physics. Students will also learn how to test hypotheses, use basic statistics, interpret results, and apply their new knowledge through discussions of p",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSST"
+    },
+    {
+      "code": "CHEM131",
+      "title": "Chemistry I - Fundamentals of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH120 or higher.Corequisite:CHEM132.Recommended:For Science majors.Credit only granted for:CHEM103, CHEM131, CHEM135, CHEM153 or CHEM146.Formerly:CHEM103. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM131 is the first course in a four-semester sequence for students majoring in the sciences, other than Chemistry and Biochemistry ma",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM135",
+      "title": "General Chemistry for Engineers",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH120 or higher.Credit only granted for:CHEM103, CHEM113, CHEM131, CHEM135, or CHEM146. The nature and composition of matter, solutions, chemical reactions, equilibria, and electrochemistry, with applications to various fields of engineering.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM146",
+      "title": "Principles of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH140 or higher.Corequisite:CHEM177.Restriction:Must be in one of the following programs (Chemistry; Biochemistry).Credit only granted for:CHEM103, CHEM131, CHEM135, CHEM143, or CHEM146.Formerly:CHEM143. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM146 is the first course in a four-semester sequence for Chemistry and Biochemistry",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "ENST200",
+      "title": "Fundamentals of Soil Science",
+      "credits": 4,
+      "description": "Corequisite:CHEM131 and CHEM132; or permission of AGNR-Environmental Science & Technology department.Credit only granted for:ENST200 or NRSC200.Formerly:NRSC200. Study and management of soils as natural bodies, media for plant growth, and ecosystem components. Morphology, composition, formation, and conservation of soils. Chemical, biological, and physical properties are discussed in relation to the production of plants, the functioning of hydrologic and nutrient cycles, the protection of enviro",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "ENST"
+    },
+    {
+      "code": "GEOG201",
+      "title": "Geography of Environmental Systems",
+      "credits": 3,
+      "description": "A systematic introduction to the processes and associated forms of the atmosphere and earth's surfaces emphasizing the interaction between climatology, hydrology and geomorphology.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GEOL100",
+      "title": "Physical Geology",
+      "credits": 3,
+      "description": "Credit only granted for:GEOL100 or GEOL120.Additional information:CORE Distributive Studies Physical Science Laboratory Course only when taken concurrently with GEOL 110. A general survey of the rocks and minerals composing the earth, its surface features and the agents that form them, and the dynamic forces of plate tectonics.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL120",
+      "title": "Environmental Geology",
+      "credits": 3,
+      "description": "Credit only granted for:GEOL100 or GEOL120. A review of geologic factors underlying many environmental problems and the interactions between population and physical environment: geologic hazards, land-use planning, conservation, mineral resources, waste disposal, land reclamation, and the geologic aspects of health and disease. The course is aimed at lower division students in education and liberal arts, and should be useful to any student concerned with geologic perspectives of environmental pr",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "INAG100",
+      "title": "Introduction to Plant Science",
+      "credits": 4,
+      "description": "Restriction:Must be a student in the Institute of Applied Agriculture; or permission of AGNR-Institute of Applied Agriculture department.Credit only granted for:INAG100, PLSC100, PLSC101, PLSC110 or PLSC112. A general introduction to plant science designed to provide the students with a working knowledge of the fundamental structures and processes of plants. Content includes plant anatomy, physiology, genetics and environmental relationships.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "INAG"
+    },
+    {
+      "code": "PHYS102",
+      "title": "Physics of Music",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH107 or higher.Credit only granted for:PHYS102 and PHYS499C.Additional information:CORE Distributive Studies Physical Sciences Laboratory Course only when taken concurrently with PHYS103. A study of the physical basis of sound, acoustical properties of sound, the human ear and voice, reproduction of sound, electronic music, acoustical properties of auditoriums, and other selected topics.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS115",
+      "title": "Inquiry into Physics",
+      "credits": 4,
+      "description": "Recommended:High School Physics.Restriction:Must not have completed PHYS117; and must be in one of the following programs (Elementary Education; Early Childhood Education; Middle School Education).Credit only granted for:PHYS115 or PHYS117. Intended for students majoring in neither the physical nor the biological sciences. Use of laboratory-based and inquiry-based methods to study some of the basic ideas of physical sciences.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS121",
+      "title": "Fundamentals of Physics I",
+      "credits": 4,
+      "description": "Prerequisite:MATH113 or MATH115.Credit only granted for:PHYS121, PHYS131, or PHYS331. The first part of a two-semester course in general physics treating the fields of mechanics, heat, sound, electricity, magnetism, optics, and modern physics. Together with PHYS122, this generally satisfies the minimum requirement of medical and dental schools.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS122",
+      "title": "Fundamentals of Physics II",
+      "credits": 4,
+      "description": "Prerequisite:PHYS121; or students who have taken courses with comparable content may contact the department.Credit only granted for:PHYS122, PHYS132, or PHYS332. A continuation of PHYS121, which together with it, generally satisfies the minimum requirement of medical and dental schools.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS161",
+      "title": "General Physics: Mechanics and Particle Dynamics",
+      "credits": 3,
+      "description": "Prerequisite:Must have completed or be concurrently enrolled in MATH141.Credit only granted for:PHYS141, PHYS161, or PHYS171.Additional information:General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three-semester calculus-based general physics course. Laws of motion, force, and energy; principles of mechanics, collisions, linear momentum, rotation, and gravitation.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS171",
+      "title": "Introductory Physics: Mechanics",
+      "credits": 3,
+      "description": "Prerequisite:MATH140; or permission of CMNS-Physics department.Credit only granted for:PHYS141, PHYS161, or PHYS171.Additional information:General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three semester sequence for physics majors and those desiring a rigorous preparation in the physical sciences: kinematics, Newton's laws, energy and work, linear and angular momenta.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS171H",
+      "title": "Introductory Physics: Mechanics",
+      "credits": 3,
+      "description": "Prerequisite:MATH140; or permission of CMNS-Physics department.Credit only granted for:PHYS141, PHYS161, or PHYS171.Additional information:General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three semester sequence for physics majors and those desiring a rigorous preparation in the physical sciences: kinematics, Newton's laws, energy and work, linear and angular momenta.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS260",
+      "title": "General Physics: Electricity, Magnetism and Thermodynamics",
+      "credits": 3,
+      "description": "Prerequisite:PHYS161 and MATH141.Corequisite:PHYS261.Credit only granted for:PHYS142, PHYS260, or PHYS272. Second semester of a three-semester calculus-based general physics course. Electrostatics, magnetism, induction, DC and AC circuits; Maxwell's Equations, heat, and thermodynamics.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS260H",
+      "title": "General Physics: Electricity, Magnetism and Thermodynamics",
+      "credits": 3,
+      "description": "Prerequisite:PHYS161 and MATH141.Corequisite:PHYS261.Credit only granted for:PHYS142, PHYS260, or PHYS272. Second semester of a three-semester calculus-based general physics course. Electrostatics, magnetism, induction, DC and AC circuits; Maxwell's Equations, heat, and thermodynamics.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS270",
+      "title": "General Physics: Waves, Optics, Relativity and Modern Physics",
+      "credits": 3,
+      "description": "Prerequisite:PHYS261, MATH241, and PHYS260.Corequisite:PHYS271. Third semester of a three-semester calculus-based general physics course. Waves, sound, electromagnetic waves, optics, special theory of relativity, and modern physics.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PLSC205",
+      "title": "Introduction to Turf Science and Management",
+      "credits": 4,
+      "description": "Credit only granted for:PLSC205 or PLSC305.Formerly:PLSC305. Principals of turf science and culture with emphasis on turfgrass anatomy, morphology, and physiology. The role of cultural interventions in achieving specific aesthetic and functional objectives is examined for multiple turf uses. Pest problems typically encountered in turfgrass management are also covered.",
+      "geneds": [
+        "DSNL"
+      ],
+      "department": "PLSC"
+    }
+  ]
+}

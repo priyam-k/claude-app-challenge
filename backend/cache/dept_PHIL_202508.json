@@ -1,0 +1,327 @@
+{
+  "cached_at": "2025-10-03T17:34:12.889581",
+  "data": [
+    {
+      "code": "PHIL100",
+      "title": "Introduction to Philosophy",
+      "credits": 3,
+      "description": "An introduction to the literature, problems, and methods of philosophy either through a study of some of the main figures in philosophic thought or through an examination of some of the central and recurring problems of philosophy.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL140",
+      "title": "Contemporary Moral Issues",
+      "credits": 3,
+      "description": "The uses of philosophical analysis in thinking clearly about such widely debated moral issues as abortion, euthanasia, homosexuality, pornography, reverse discrimination, the death penalty, business ethics, sexual equality, and economic justice.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL170",
+      "title": "Introduction to Symbolic Logic",
+      "credits": 3,
+      "description": "This course will introduce the basic concepts and techniques of modern symbolic logic, with an emphasis on developing skills in two areas: first, translating between ordinary language and logical notation; second, establishing the validity or invalidity of arguments using the methods of truth tables, deductions, and countermodels. Although the subject of symbolic logic was developed by mathematicians and philosophers for their own special purposes (which we will discuss), logical concepts and te",
+      "geneds": [
+        "FSAR"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL202",
+      "title": "Know Thyself: Wisdom Through Cognitive Science",
+      "credits": 3,
+      "description": "Credit only granted for:PHIL209N or PHIL202.Formerly:PHIL209N. How do we improve our decision making? Cognitive science demonstrates that self-knowledge isn't as easy as we think, and that there are numerous biases and fallacies that impact our decision-making in ways that are hard for us to be aware of. In this course you will learn what some of these are and how they have been discovered, and you will explore potential strategies for avoiding these fallacies and for making wiser choices.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL203",
+      "title": "The Rights and Wrongs of Killing People",
+      "credits": 3,
+      "description": "Credit only granted for:PHIL209J or PHIL203.Formerly:PHIL209J. Virtually everyone thinks it's permissible to kill people only in special circumstances. But why is killing usually wrong? Is it ever acceptable to kill an innocent human being intentionally? This course raises these and related questions and examines cases such as terrorism, suicide, abortion, euthanasia, the death penalty, war. Except for a brief discussion of animals, all the controversies considered deal with killing and causing ",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL209F",
+      "title": "Philosophical Issues; Fairness",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL209M",
+      "title": "Philosophical Issues; AI and the Human Experience",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL211",
+      "title": "AI & ETHICS",
+      "credits": 3,
+      "description": "Credit only granted for:PHIL209D or PHIL211.Formerly:PHIL209D. An introduction to a major subfield of contemporary Philosophy, namely applied ethics, and the experience of using some major tools in the practice of philosophy more generally, namely, the construction and formal evaluation of arguments, conceptual analysis, the use of thought experiments, and clear, direct and persuasive writing. Learning how to execute the latter will involve an intense iterative process. The substantive focus of ",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL220",
+      "title": "Bioethics: Regulating Right and Wrong",
+      "credits": 3,
+      "description": "Credit only granted for:PHIL209A or PHIL220.Formerly:PHIL209A. Bioethicists formulate ethical guidelines. They answer questions such as: When life-saving health resources are scarce, who should get them? Should we increase supply of one such resource, kidneys, by buying them from living \"donors\"? If drug trials in developing countries benefit patients who consent to participate, are the trials ethical, even if the same research would be forbidden in the US? If a sick person aims to hasten her de",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL236",
+      "title": "Philosophy of Religion",
+      "credits": 3,
+      "description": "Cross-listed with:RELS236.Credit only granted for:PHIL236 or RELS236. A philosophical study of some of the main problems of religious thought: the nature of religious experience, the justification of religious belief, the conflicting claims of religion and science, and the relation between religion and morality.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL245",
+      "title": "Political and Social Philosophy I",
+      "credits": 3,
+      "description": "A critical examination of such classical political theories as those of Plato, Hobbes, Locke, Rousseau, Mill, Marx, and such contemporary theories as those of Hayek, Rawls, and recent Marxist thinkers.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL310",
+      "title": "Ancient Greek and Roman Philosophy",
+      "credits": 3,
+      "description": "Prerequisite:Must have completed 6 credits in philosophy or classics.Cross-listed with:CLAS310, PHPE308Y.Credit only granted for:PHIL310, CLAS310, or PHPE308Y. A study of the origins and development of philosophy in ancient Greece and Rome, focusing on Socrates, Plato, Aristotle, the Epicureans, and Stoics.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL338R",
+      "title": "Studies in Value Theory; Life's Meaning",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL341",
+      "title": "Ethical Theory",
+      "credits": 3,
+      "description": "Prerequisite:6 credits in PHIL courses. A critical examination of classical and contemporary systems of ethics, such as those of Aristotle, Kant, Mill, and Rawls.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL344",
+      "title": "Philosophy of Race",
+      "credits": 3,
+      "description": "Credit only granted for:PHIL344 or PHIL308Y.Formerly:PHIL308Y. A survey of philosophical arguments involving race and racism. Guiding questions will include: How have philosophers and scientists conceived of the concept of race? Is race a coherent concept? Does it help us explain differences in performance and behavior? What makes racism, racial prejudice, and discrimination wrong? What is the point of equality? Do we owe reparations to victims of racism?",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL364",
+      "title": "Metaphysics",
+      "credits": 3,
+      "description": "Prerequisite:6 credits in PHIL courses.Formerly:PHIL464. The study of some central metaphysical concepts and issues including the nature and validity of metaphysical thinking, universals, identity, substance, time, God, and reality.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL366",
+      "title": "Philosophy of Mind",
+      "credits": 3,
+      "description": "Prerequisite:6 credits in PHIL courses. An introduction to core issues in the philosophy of mind, focusing especially on the basic metaphysical question of dualism versus physicalism.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL370",
+      "title": "Logical Theory I: Metatheory",
+      "credits": 3,
+      "description": "Prerequisite:PHIL271 or CMSC250; or permission of the instructor. This course is an introduction to logical \"metatheory\", that is, to logical reasoning about logic systems themselves.  Topics include alternative alternative proof-theoretic presentations of logical systems as well as soundness and completeness theorems for propositional and first-order logic.  Along the way, we will deepen our understanding of the elementary set-theoretic concepts underlying first order logic. Other topics may in",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL386",
+      "title": "Experiential Learning",
+      "credits": 3,
+      "description": "Restriction:Permission of ARHU-Philosophy department; and junior standing or higher.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL412",
+      "title": "The Philosophy of Plato",
+      "credits": 3,
+      "description": "Prerequisite:6 credits in PHIL courses. A critical study of selected dialogues.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL418O",
+      "title": "Topics in Epistemology/Metaphysics; Heidegger: Ontology, Temporality and Truth",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL428D",
+      "title": "Topics in the History of Philosophy; Political Realism",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL445",
+      "title": "Contemporary Political Philosophy",
+      "credits": 3,
+      "description": "Restriction:Must have completed 3 credits in philosophy or political theory; or permission of ARHU-Philosophy department. And sophomore standing or higher. Major trends in contemporary political philosophy: liberal, libertarian, communitarian, socialist, feminist.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL498F",
+      "title": "Topical Investigations; Topical Investigation",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL498G",
+      "title": "Topical Investigations; Topical Investigation",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL660",
+      "title": "Metaphysics, Mind, and Language",
+      "credits": 3,
+      "description": "A basic course on selected issues in metaphysics, philosophy of mind, and philosophy of language for beginning graduate students, covering a number of topics in depth, to provide a springboard for further study and research in the area.",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL788G",
+      "title": "Research in Philosophy; Research in Philosophy",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL788I",
+      "title": "Research in Philosophy; Research in Philosophy",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL799",
+      "title": "Master's Thesis Research; Masters Thesis Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL808B",
+      "title": "Seminar in the Problems of Philosophy",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL808K",
+      "title": "Seminar in the Problems of Philosophy",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL848B",
+      "title": "Seminar in Ethics",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL878B",
+      "title": "Seminar in Cognitive Studies",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL888",
+      "title": "Professional Mentoring for Doctoral Students",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL889",
+      "title": "Pedagogical Mentoring for Doctoral Students",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL898",
+      "title": "Pre-Candidacy Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL899",
+      "title": "Doctoral Dissertation Research; Doctoral Dissertation Research",
+      "credits": 6,
+      "description": "",
+      "geneds": [],
+      "department": "PHIL"
+    }
+  ]
+}

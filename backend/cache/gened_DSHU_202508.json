@@ -1,0 +1,1820 @@
+{
+  "cached_at": "2025-10-03T17:49:49.409469",
+  "data": [
+    {
+      "code": "AAAS200",
+      "title": "African Civilization",
+      "credits": 3,
+      "description": "Credit only granted for: AASP200 or AAAS200. Formerly: AASP200. A survey of African civilizations from 4500 B.C. to present. Analysis of traditional social systems. Discussion of the impact of European colonization on these civilizations. Analysis of the influence of traditional African social systems on modern African institutions as well as discussion of contemporary processes of Africanization.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS234",
+      "title": "African-American Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL234. Credit only granted for: ENGL234, AAAS234 or AASP298L. An exploration of the stories black authors tell about themselves, their communities, and the nation as informed by time and place, gender, sexuality, and class. African American perspective themes such as art, childhood, sexuality, marriage, alienation and mortality, as well as representations of slavery, Reconstruction, racial violence and the Nadir, legalized racism and segregation, black patriotism and black e",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAST355",
+      "title": "Asian Americans in Film",
+      "credits": 3,
+      "description": "Cross-listed with: AMST328W. Credit only granted for: AAST355, AAST398L or AMST328W. Formerly: 398L. Explores how Asian Americans have historically been represented in the U.S. by Hollywood, and in turn, how independent and Hollywood Asian American filmmakers have represented themselves. It covers the history of racial, gendered, and sexualized representations of Asian Americans in Hollywood, as well as Asian American filmic responses within and outside Hollywood. It also introduces how four bas",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST440",
+      "title": "South Asian American Literature and Culture",
+      "credits": 3,
+      "description": "Credit only granted for: AAST440 or AAST498W. Formerly: AAST498W. Examines writing by South Asian American authors and authors writing about South Asian American issues. It explores major South Asian diaspora themes, considering how migration, war, the events of 9/11, global capitalism, and the changing socio-political and racial scene have affected South Asians in the United States. We will use a transnational approach to consider how writers and filmmakers explore gender, class, religious, cas",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AMST101",
+      "title": "Introduction American Studies",
+      "credits": 3,
+      "description": "Credit only granted for: AMST101 or AMST201. Formerly: AMST201. Introduces students to the interdisciplinary field of American Studies by examining concepts such as culture, identity, cultural practices, and globalization, as well as theories underlying these concepts. Engages key themes, especially constructions of difference and identity, cultures of everyday life, and America and the world.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST203",
+      "title": "Popular Culture in America",
+      "credits": 3,
+      "description": "An introduction to American popular culture, its historical development, and its role as a reflection of and influence on our culture and society.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST204",
+      "title": "Film and American Culture Studies",
+      "credits": 3,
+      "description": "Exploration of the American film from a historical perspective, illustrating the motion picture's role as an institutional phenomenon, as a form of communication, and as a source of cross-cultural study.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST205",
+      "title": "American Material Culture: The Study of People, Places, and Things",
+      "credits": 3,
+      "description": "Historical survey of American material culture. Ways of describing and interpreting accumulated material evidence (e.g., buildings, town plans) introduced by stressing relationship between artifact and culture.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST298Q",
+      "title": "U.S. Latinx Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL235. Credit only granted for: ENGL235 or AMST298Q. Examines the poetry, prose, and theater of Latinx communities in the United States from their origins in the Spanish colonization of North America to their ongoing development in the 21st century. Considers how authors use literary form to gain insight into human experience, including mortality, religious belief, gender and sexuality, war and peace, family, language use, scientific inquiry, cultural tradition, ecology, and",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST320",
+      "title": "(Dis)ability in American Film",
+      "credits": 3,
+      "description": "Credit only granted for: AMST320 or AMST328X. Formerly: AMST328X. Explores the connection between film and disability through an analysis of independent and mainstream American films in various film genres. Specifically, we will consider how these film representations reflect and/or challenge the shifting social perspectives of disability over the 20th and 21st centuries.  Beginning with the presentation of disability as theatrical spectacle in the traveling sideshow and early cinema, we will wo",
+      "geneds": [
+        "DSHU",
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST328W",
+      "title": "Asian Americans in Film",
+      "credits": 3,
+      "description": "Cross-listed with: AAST355. Credit only granted for: AAST355, AAST398L or AMST328W. Formerly: 398L. Explores how Asian Americans have historically been represented in the U.S. by Hollywood, and in turn, how independent and Hollywood Asian American filmmakers have represented themselves. It covers the history of racial, gendered, and sexualized representations of Asian Americans in Hollywood, as well as Asian American filmic responses within and outside Hollywood. It also introduces how four basi",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "ARAB190",
+      "title": "Introduction to Arab Cultures & Societies",
+      "credits": 3,
+      "description": "Provides an introduction to key topics related to the study of the Arabic-speaking world, including features of Arab identity in the Middle East & North Africa as well as in the diaspora. Addresses religious, racial, and ethnic diversity, the history of language and culture, political economy, and migration. Students will learn about the diverse cultures and societies that have formed the changing conceptions of the Arab world through history and across different geographies. A fundamental premi",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARAB"
+    },
+    {
+      "code": "ARCH170",
+      "title": "Design Thinking and Architecture",
+      "credits": 3,
+      "description": "Examines conceptual, perceptual, behavioral, and technical aspects of the built environment, and methods of analysis, problem-solving, and design implementation.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARCH"
+    },
+    {
+      "code": "ARCH226",
+      "title": "History of World Architecture II",
+      "credits": 3,
+      "description": "Post-1500 - History of Architecture survey course - History of Architecture structured to develop critical thinking and visually literacy with regard to the worldwide legacy of design thinking and building innovation in architecture",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARCH"
+    },
+    {
+      "code": "ARHU230",
+      "title": "Introduction to Humanities, Health, and Medicine",
+      "credits": 3,
+      "description": "Restriction: Permission of ARHU-History Department. Cross-listed with: ENGL254, HIST219N, WGSS230. Credit only granted for: ARHU230 , ENGL289C, ENGL254, ARHU298A, HIST219N, or WGSS230. An overview of the historical, cultural, ethical, and spiritual dimensions of medicine, human health, disease, and death from the points of view of various humanistic disciplines.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARHU"
+    },
+    {
+      "code": "ARHU275",
+      "title": "Writing for the Stage and Screen: An Introductory Workshop",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL275. Credit only granted for: ENGL275 or ARHU275. Introduction to the theory and practice of scriptwriting with an opportunity to read, view, evaluate, write, and revise texts meant to be performed. Students will practice writing for the stage, film, and television and also examine selected scripts, performances, and film and television clips as models for their own creative work. Students will complete frequent writing exercises, participate in workshops, and learn to app",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ARHU"
+    },
+    {
+      "code": "ARHU319D",
+      "title": "Writers' House Second Year Colloquium: Form and Theory of Creative Writing; Exploring the Contemporary Revolution in Poetic Practice",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ARHU"
+    },
+    {
+      "code": "ARTH200",
+      "title": "Art and Society in Ancient and Medieval Europe and the Mediterranean",
+      "credits": 3,
+      "description": "Examines the material culture and visual expressions of Mediterranean and European societies from early times until ca. 1300 CE, emphasizing the political, social, and religious context of the works studied, the relationships of the works to the societies that created them, and the interrelationship of these societies.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH201",
+      "title": "Art and Society in the West from the Renaissance to the Present",
+      "credits": 3,
+      "description": "Examines representative European and American works of art from the later Middle Ages to the present, highlighting the dynamic exchange between artistic and cultural traditions both within periods and across time.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH261",
+      "title": "Monuments, Monumentality, and the Art of Memorial",
+      "credits": 3,
+      "description": "Why do societies create monuments? And why do they preserve and destroy, change and remove them? How do monuments embody cultural values, shape historical narratives, and become sites of mourning and memory? This course investigates the political and cultural work of monuments across time and space, from the ancient world to European empires to the contemporary United States. The issues we consider include intercultural exchange and religious contexts, race and representation, and appropriation ",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH262",
+      "title": "Public Art",
+      "credits": 3,
+      "description": "How does public art function on a university campus, in major cities, and across the United States? This course invites students to empirically study the modern history and civic values of public art spanning sculpture, painting, mixed-media, and installation. We consider the nature of public space, the politics of representation and community, and the civic and memorial functions of art. The course is built around a semester-long project in which students will commission a work of public art fo",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH265",
+      "title": "How (and Why) to Look at Art in the Era of Climate Change",
+      "credits": 3,
+      "description": "Credit only granted for: ARTH265 or ARTH465. Formerly: ARTH465. How can art help us build the mindset necessary for fashioning a sustainable civilization? Paintings, photographs, films, novels, songs, and other creative works as they shape beliefs related to sustainability and justice.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH303",
+      "title": "Roman Art and Archaeology",
+      "credits": 3,
+      "description": "Sites and monuments of painting, sculpture, architecture, and the minor arts from the earliest times through the third century A.D. with emphasis on the Italian peninsula from the Etruscan period through that of Imperial Rome.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH313",
+      "title": "Medieval Art: Cultural Exchanges in the Byzantine World",
+      "credits": 3,
+      "description": "Recommended: ARTH200 or ARTH201. Focuses on the art and architecture from the eastern Mediterranean, specifically, the Byzantine empire. Our broad focus will be on the formation and evolution of the visual arts in Byzantium as a result of exchanges with various cultural, ethnic, and religious entities and traditions. In this context, we will be looking at the legacy of the Graeco-Roman past, contacts with Islamic world, as well as with people and cultures along the periphery of Byzantium: from t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH351",
+      "title": "Picturing Contemporary Life: Art Since 1945",
+      "credits": 3,
+      "description": "Visual art since 1945, with an emphasis on North America and Europe.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH392",
+      "title": "Contemporary Chinese Art and Film",
+      "credits": 3,
+      "description": "Cross-listed with: CINE337. Credit only granted for: ARTH392, FILM329L or CINE337. Formerly: FILM329L. Contemporary Chinese art and film are arguably the most vibrant of all national arts at the turn of the millennium and have become the face - both figuratively and literally - of contemporary China, a complex society with historic overlays of Confucianism, Taoism, Buddhism, Communism, Post-socialism, and state capitalism. Students will consider a wide range of art forms (painting, photography, ",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTT150",
+      "title": "Introduction to Art Theory",
+      "credits": 3,
+      "description": "Fundamental concepts of global, philosophic, and critical art theory examined through various historic and contemporary texts, and the analysis of works of art.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ARTT"
+    },
+    {
+      "code": "CHIN307",
+      "title": "Linguistic Landscape of China",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed CHIN204 or above; or permission of Chinese Program Advisor. Comprehensive introduction to Chinese and other major languages in the Sino-Tibetan, Altaic, Austroasiatic, and Austronesian families, all of which are spoken in China. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CHIN"
+    },
+    {
+      "code": "CHIN315",
+      "title": "Modern Chinese Literature in Translation",
+      "credits": 3,
+      "description": "Major works of fiction and drama from 1920 to the present read in the context of social and literary change. Emphasis on western and traditional Chinese influences on the writers and their works. No knowledge of Chinese required.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CHIN"
+    },
+    {
+      "code": "CINE245",
+      "title": "Film Form and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL245. Credit only granted for: ENGL245, CINE245 or FILM245. Formerly: FILM245. Introduction to film as art form and how films create meaning. Basic film terminology; fundamental principles of film form, film narrative, and film history. Examination of film technique and style over past one hundred years. Social and economic functions of film within broader institutional, economic, and cultural contexts.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with: CMLT280. Credit only granted for: CINE280, FILM298D or CMLT280. Formerly: FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE283",
+      "title": "Iranian Cinema",
+      "credits": 3,
+      "description": "Cross-listed with: PERS283. Credit only granted for: PERS283, CINE283 or FILM298B. Introduction to Iranian cinema, society, and culture. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE299L",
+      "title": "Special Topics in Film Studies; The 'Jew' in American Literature and Culture",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE337",
+      "title": "Contemporary Chinese Art and Film",
+      "credits": 3,
+      "description": "Cross-listed with: ARTH392. Credit only granted for: ARTH392, FILM329L or CINE337. Formerly: FILM329L. Contemporary Chinese art and film are arguably the most vibrant of all national arts at the turn of the millennium and have become the face - both figuratively and literally - of contemporary China, a complex society with historic overlays of Confucianism, Taoism, Buddhism, Communism, Post-socialism, and state capitalism. Students will consider a wide range of art forms (painting, photography, ",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CLAS170",
+      "title": "Ancient Myths and Modern Lives",
+      "credits": 3,
+      "description": "Cross-listed with: RELS170. Credit only granted for: CLAS170 or RELS170. Additional information: This course cannot be taken for language credit. What are myths and why do we tell them? What powers do myths have? We will tackle these questions by looking at the enduring and fascinating myths from ancient Greece and Rome. In addition to studying how they shaped ancient societies, we will also look at their modern influence and reflect upon the power that myths still hold in our contemporary world",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS180",
+      "title": "Discovering the World of Ancient Greece",
+      "credits": 3,
+      "description": "An exploration of the cultural traits and developments of ancient Greek civilization and its forerunners, from the Bronze Age Mycenaeans and Minoans, through the rise of the classical Greek city-states, to the expansion of Greek cultural influence in the wake of the conquests of Alexander the Great.  Drawing upon the evidence of the archaeological remains as well as ancient historical and literary documents, students gain a basic familiarity with the principal monuments and artifacts of classica",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS274",
+      "title": "What is Romance?",
+      "credits": 3,
+      "description": "What is romance? This course approaches the question by reading ancient Greek romance novels in tandem with works inspired by them from a range of times and places. We will attempt to identify which traits define romance in a society and how romance narratives change in translation and adaptation.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS310",
+      "title": "Ancient Greek and Roman Philosophy",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed 6 credits in philosophy or classics. Cross-listed with: PHIL310, PHPE308Y. Credit only granted for: PHIL310, CLAS310, or PHPE308Y. A study of the origins and development of philosophy in ancient Greece and Rome, focusing on Socrates, Plato, Aristotle, the Epicureans, and Stoics.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS312",
+      "title": "The Modernity of Athenian Democracy",
+      "credits": 3,
+      "description": "Examines the question of how Ancient Greek thought can be a tool for facing the challenges of the modern world. Topics such as political participation and engagement in politics, lawfulness and justice, freedom and autonomy, democracy and civic responsibility are found at the core of Ancient Greek thought.  In addition to these topics, the course explores, through the teachings of ancient Greek philosophers, historians, and poets, the questions of virtue and happiness at a personal level and the",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS340",
+      "title": "Ancient Slavery and its American Impacts",
+      "credits": 3,
+      "description": "Cross-listed with: HIST339J. Credit only granted for: CLAS340 or HIST339J. Interrogates how slavery permeated the ancient Mediterranean societies of Greece and Rome. We will pay particular attention to how hierarchical inequalities are institutionalized, experienced, and represented and to how different marginalized and dominant groups interacted. Enslaved persons performed necessary labor in Greece and Rome and their work was essential for the formation of ancient society in agriculture, mining",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CMLT235",
+      "title": "Black Diaspora Literature and Culture",
+      "credits": 3,
+      "description": "Examination of key works by writers of the African Diaspora. Relationship among black people across multiple geographic spaces; Africa, the Caribbean, the United States, Europe, Latin America, and Asia. Specific historical, cultural, and literary contexts; themes such as gender, sexuality, migration, slavery, freedom, and equality. Readings may include literary texts (fiction, poetry, drama), music and film. All readings in English, but drawn from multiple languages of the black diaspora, includ",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT270",
+      "title": "Global Literature and Social Change",
+      "credits": 3,
+      "description": "Comparative study of literature through selected literary works from several non-Western cultures, viewed cross-culturally in light of particular social, political, and economic perspectives.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT275",
+      "title": "World Literature by Women",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS275. Credit only granted for: WMST275, CMLT275 or WGSS275. Formerly: WMST275. Comparative study of selected works by women writers of several countries, exploring points of intersection and divergence in women's literary representations.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT277",
+      "title": "Literatures of the Americas",
+      "credits": 3,
+      "description": "Comparative study of several North, South, and Central American cultures with a focus on the specificities, similarities, and divergences of their literary and cultural texts.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with: CINE280. Credit only granted for: CINE280, FILM298D or CMLT280. Formerly: FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "COMM296",
+      "title": "Deliberative Democracy",
+      "credits": 3,
+      "description": "Credit only granted for: HNUH238A, COMM398I (Fall 2022), or COMM296. Formerly: COMM398I. How do we change our politics, save democracy, and move beyond the \"us vs. them\" culture that divides us? This course begins with the premise that how we talk to one another and debate controversial issues can promote the public good or erode it in irreparable ways. Students in each class session will put principles of public dialogue into practice as they learn deliberative theories and skills that can help",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "COMM324",
+      "title": "Communication and Gender",
+      "credits": 3,
+      "description": "Explores how communication shapes constructions of gender, sex, sexuality and other identity markers. Topics include issues of oppression, identity, and power and social, political, and economic situations and examines how these issues impact our daily lives.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "ENEE200",
+      "title": "Technology and Consequences: Engineering, Ethics, and Humanity",
+      "credits": 3,
+      "description": "Credit only granted for: ENEE200 or ENES200. What makes a technology socially responsible? At UMD, the Fearless Ideas campaign asks us to aim our enthusiasm for technology at big real problems. At the same time, we are coming to appreciate the increasingly complex nature of technological systems as they become integrated into all forms of infrastructure, we realize they may be unpredictable, interdependent on social and biological systems, and have unintended consequences. In this midst of this ",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "ENEE"
+    },
+    {
+      "code": "ENES200",
+      "title": "Technology and Consequences: Engineering, Ethics and Humanity",
+      "credits": 3,
+      "description": "Credit only granted for: ENEE200 or ENES200. What makes a technology socially responsible? At UMD, the Fearless Ideas campaign asks us to aim our enthusiasm for technology at big real problems. At the same time, we are coming to appreciate the increasingly complex nature of technological systems as they become integrated into all forms of infrastructure, we realize they may be unpredictable, interdependent on social and biological systems, and have unintended consequences. In this midst of this ",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "ENES"
+    },
+    {
+      "code": "ENGL120",
+      "title": "Acting Human: Shakespeare and the Drama of Identity",
+      "credits": 3,
+      "description": "Shakespeare's ideas of dramatic realism studied through close examination of literary and dramatic techniques. How Shakespeare generates the fiction of a living, thinking person in the space of five acts, and how readers participate in the making of that fiction. Some attention to Shakespeare on film and what the playwright can teach us about different media.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL126",
+      "title": "Why Fiction Matters",
+      "credits": 3,
+      "description": "Consider how short stories, novellas, and novels are vital to understanding our world and ourselves. Read and analyze a diverse range of twentieth- and twenty-first-century fiction, and apply the techniques of form and craft to your own experiments in fiction writing. Use critical analysis and hands-on creative experimentation to explore how fiction helps us understand the past, engage in the present, and build a better future.",
+      "geneds": [
+        "DSHU",
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL134",
+      "title": "The Rites of Discovery: Science, Law, and Literature, 1492-1992",
+      "credits": 3,
+      "description": "History of idea of \"discovery\" from sixteenth-century debate about European \"rights of discovery\" to 500th anniversary, in 1992, of Columbus' landfall in New World. Evolution of modern concept of discovery, both as part of history of science and in legal context of history of European colonialism and cultural encounter with Native peoples of Americas, Africa, and Asia. Exploration of primary and secondary sources relating to international law, science, and literature.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL143",
+      "title": "Visualizing Knowledge: From Data to Images",
+      "credits": 3,
+      "description": "Explores how technology and people shape our current age of information through the various forms of visually representing information. Visualizations do not show us things that are evident--visualizations make things evident. We will thus examine the history of visualization practices, the theories of image-making that guide their production, and the current state of the art. Students will engage critically with a wide range of information visualization practices to gain an understanding of the",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL154",
+      "title": "Race, Children's Television, and the Legacies of Jim Henson",
+      "credits": 3,
+      "description": "Credit only granted for: ENGL154 or ENGL439J. Formerly: ENGL439J. How do children form ideas about race from television? We will approach this question by studying representations of race in children's television from the founding of the animation industry in the 1910s to educational programming epitomized by Sesame Street and the work of Jim Henson. We will also explore representations of race in the \"Saturday Morning Cartoon Lineup\" and in the subsequent proliferation of computer-generated ima",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL201",
+      "title": "The Medieval Imagination",
+      "credits": 3,
+      "description": "How and why do the Middle Ages resonate with us now? Explore a wide range of narratives, poems, artworks, and songs from ancient, medieval, and Renaissance cultures. Study popular culture, manuscript and print technologies, and the relationship between the sacred and the profane over a millenium. Learn about modern and contemporary medievalist revivals that might include authors such as J.R.R. Tolkien and N.K. Jemisin, television series such as Game of Thrones, and more.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL222",
+      "title": "American Literature(s)",
+      "credits": 3,
+      "description": "Explore American literary traditions in a variety of poetic and narrative forms and in diverse historical contexts, ranging from colonization to the Civil Rights Movement and beyond. Genres examined in this course might include lyric poems, travel narratives, gothic short fiction, slave narratives, and science fiction. Emphasis on developing skills of literary interpretation and critical writing, while attending to the place of race, class, gender, and sexuality in American literary culture. Aut",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL234",
+      "title": "African-American Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: AAAS234. Credit only granted for: ENGL234, AAAS234 or AASP298L. An exploration of the stories black authors tell about themselves, their communities, and the nation as informed by time and place, gender, sexuality, and class. African American perspective themes such as art, childhood, sexuality, marriage, alienation and mortality, as well as representations of slavery, Reconstruction, racial violence and the Nadir, legalized racism and segregation, black patriotism and black e",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL235",
+      "title": "U.S. Latinx Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: AMST298Q. Credit only granted for: ENGL235 or AMST298Q. Examines the poetry, prose, and theater of Latinx communities in the United States from their origins in the Spanish colonization of North America to their ongoing development in the 21st century. Considers how authors use literary form to gain insight into human experience, including mortality, religious belief, gender and sexuality, war and peace, family, language use, scientific inquiry, cultural tradition, ecology, an",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL243",
+      "title": "What is Poetry?",
+      "credits": 3,
+      "description": "An exploration of arguably the most complex, profound, and ubiquitous expression of human experience. Study through close reading of significant forms and conventions of Western poetic tradition. Poetry's roots in oral and folk traditions and connections to popular song forms.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL244",
+      "title": "Drama, Performance, and Spectacle",
+      "credits": 3,
+      "description": "Exploration of drama through a consideration of plot, narrative flow, analytical flow, staging, performance, manuscript and printing history, text and textual change over time, and interpretation. Plays will be approached as public attempts to understand what it means to be alive.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL245",
+      "title": "Film Form and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: CINE245. Credit only granted for: ENGL245, CINE245 or FILM245. Formerly: FILM245. Introduction to film as art form and how films create meaning. Basic film terminology; fundamental principles of film form, film narrative, and film history. Examination of film technique and style over past one hundred years. Social and economic functions of film within broader institutional, economic, and cultural contexts.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL250",
+      "title": "Reading Women Writing",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS255. Credit only granted for: ENGL250, WMST255 or WGSS255. Formerly: WMST255. Explores literary and cultural expressions by women and their receptions within a range of historical periods and genres. Topics such as what does a woman need in order to write, what role does gender play in the production, consumption, and interpretation of texts, and to what extent do women comprise a distinct literary subculture. Interpretation of texts will be guided by feminist and gender t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL251",
+      "title": "Detective Fiction",
+      "credits": 3,
+      "description": "Explore \"whodunnit\" fiction from its nineteenth-century beginnings to the contemporary moment. Why are readers intrigued by the methodical discovery of the exact circumstances of a mysterious event? How does the figure of the eccentric, intelligent, often unofficial investigator take prominence? How does detective fiction emerge from and react to global imperialism, the modern metropolis, forensic science, and the modern legal system? How does the genre represent and respond to gender, class, an",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL255",
+      "title": "Literature, Science, and Technology",
+      "credits": 3,
+      "description": "Consider the relationship between fiction and science. How does science as we know it depend on certain fictions or narratives? How do we come to know science through the fictions we encounter? How do literary works represent the ethics of science and technology? What role does science play in the oppression of peoples? What alternative, more liberatory ways of using science are possible?",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL256",
+      "title": "Fantasy Literature",
+      "credits": 3,
+      "description": "How fantasy employs alternate forms of representation, such as the fantastical, estranging, or impossible, which other genres would not allow. Through novels, short stories, graphic novels, and film, traces fantasy's roots in mythology and folklore, then explores how modern texts build upon or challenge these origins. Examination of literary strategies texts use to represent the world through speculative modes. How to distinguish fantasy from, and relate it to, other genres such as horror, fairl",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL257",
+      "title": "Children's Literature",
+      "credits": 3,
+      "description": "Literature of the nineteenth through the twenty-first century concerned with, and written for, children and young adults. How such narratives speak to themes of changing social, religious, political, and personal identity. Through poetry, novels, graphic novels, and film, explores how children's tales encapsulate and reflect on human existence, while pushing boundaries of what constitutes \"children's literature\" and what exactly defines the \"child.\" Considers questions of literary classification",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL262",
+      "title": "Introduction to the Hebrew Bible/Old Testament",
+      "credits": 3,
+      "description": "Cross-listed with: JWST262, HEBR298B. Credit only granted for: JWST262, HEBR298B, or ENGL262. Origins of the Hebrew Bible (Old Testament), with attention to literary formations, archaeology, and social-political settings. Explorations of major questions, including who wrote the Bible, and when; relationships of the biblical tradition to the mythology and religious structures of ancient Israel's near eastern neighbors; and dynamics of politics, religious leadership, and law.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL265",
+      "title": "LGBTQ+ Literatures and Media",
+      "credits": 3,
+      "description": "Restriction: Must not have completed LGBT265. Cross-listed with: LGBT265. Credit only granted for: ENGL265 or LGBT265. A study of literary and cultural expressions of queer and trans identities, positionalities, and analytics through an exploration of literature, art, and media. We will examine historical and political power relations by considering the intersections of sexuality and gender with race, class, nation, and disability. Topics include the social construction and regulation of sexuali",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL275",
+      "title": "Writing for the Stage and Screen: An Introductory Workshop",
+      "credits": 3,
+      "description": "Cross-listed with: ARHU275. Credit only granted for: ENGL275 or ARHU275. Introduction to the theory and practice of scriptwriting with an opportunity to read, view, evaluate, write, and revise texts meant to be performed. Students will practice writing for the stage, film, and television and also examine selected scripts, performances, and film and television clips as models for their own creative work. Students will complete frequent writing exercises, participate in workshops, and learn to app",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL289I",
+      "title": "Gender and Science in Film and Media",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS280. Credit only granted for: ENGL289I or WGSS280. Isaac Azimov once said of science fiction that it is the genre that \"deals with the reaction of human beings to changes in science and technology.\" With this definition in mind, we will embark on a critical exploration of sci-fi film and other media, using it as a lens for analyzing society's deepest fears and most furtive hopes. Our investigation will center on the liminal space between hegemonic culture and its prescribe",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL290",
+      "title": "Introduction to Digital Studies",
+      "credits": 3,
+      "description": "Introductory course in digital studies. Surveys contemporary humanities work in digital technologies, including the web and social media and their historical antecedents. Explores design and making as analytical tools alongside reading and writing. Situates digital media within power and politics and develops critical awareness of how media shape society and ethics. Interdisciplinary approaches to creativity, analysis, and technology. While the course will include hands-on practice, no prior exp",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL291",
+      "title": "Writing, Revising, Persuading",
+      "credits": 3,
+      "description": "Prerequisite: Must have satisfied Fundamental Studies Academic Writing requirement. Intermediate-level, writing-intensive course for students who have successfully satisfied the Fundamental Studies Academic Writing requirement but wish to hone skills in analyzing and producing rhetorically attuned, well-styled prose. Deeper study of rhetorical theory and its application to a wide variety of arguments and situations. Additional writing practice, techniques of revision, study of effect of stylisti",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL293",
+      "title": "Digital Writing and Content Creation",
+      "credits": 3,
+      "description": "Recommended: ENGL101. A hands-on exploration of rhetoric, technology, and digital expression. Study a variety of digital writing and content creation platforms, and learn about theories and practices in digital communication. Learn to analyze and create the kinds of multimodal documents (websites, podcasts, videos) that constitute communication in a digital world.",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL294",
+      "title": "Persuasion through Social Media",
+      "credits": 3,
+      "description": "Recommended: Fundamental Studies Academic Writing requirement. Why are influencers canceled? What role does social media play in the spread of (mis)information? What is possible through social media activism? How does advertising work in online spaces? How do people use social media to discover and craft identity? What role do social media play in user wellbeing? Explore questions like these using ideas from rhetoric to develop critical awareness about power, ideology, and digital content. Learn",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL295",
+      "title": "Introduction to Digital Storytelling and Poetics",
+      "credits": 3,
+      "description": "What is the thread weaving through an animated visualization of economic data in a popular newspaper, an indie text-based videogame, a saucy twitter bot spitting out haikus, and an interactive digital essay? Storytelling--using whatever is at hand to communicate with audiences in evocative and connected ways. Combining technical and textual analysis with their own experiments in digital composition, students will learn to use new media techniques for the interpretation, creation, and disseminati",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL296",
+      "title": "Reading and Writing Disability: Rights and Representation",
+      "credits": 3,
+      "description": "Locate and analyze disability in various settings, modes, and texts. Investigate the material and cultural effects of the language, stories, and myths of disability. Explore the many definitions and frameworks of disability: as dynamic lived experiences, as a political identity, as a rich culture, as socially constructed barriers, and as an oppressed minority group. Examine how disability is portrayed, controlled, stereotyped, and celebrated across social, medical, political, cultural, and perso",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL362",
+      "title": "Caribbean Literature in English",
+      "credits": 3,
+      "description": "Cross-listed with: LACS348E. Credit only granted for: ENGL362, LASC348E, or LACS348E. Political and literary traditions that intersect in the fiction, poetry, and drama written in English by Caribbean writers, primarily during the 20th century.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "FREN242",
+      "title": "Francophone Writers of Africa and the African Diaspora",
+      "credits": 3,
+      "description": "An analysis of the works and ideas of 20th and 21st century Francophone writers (Africa, the Caribbeans, France). Taught in English.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "FREN"
+    },
+    {
+      "code": "FREN243",
+      "title": "Masterpieces in French and Francophone Cinemas",
+      "credits": 3,
+      "description": "This course, taught in English, will present a large array of films directed by famous French directors (Jean Renoir, Robert Bresson, Jean-Luc Godard, Agnes Varda, etc..) and Francophone filmmakers (Arcand, Sembene) who were internationally known in their time and have had a considerable influence on today's filmmakers in the U.S. (Tarantino, Lynch, Lee, etc..) and abroad (Sissoko, Angelopoulos, VonTrier, ect..).",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "FREN"
+    },
+    {
+      "code": "FREN250",
+      "title": "Introduction to Cultural and Textual Analysis",
+      "credits": 3,
+      "description": "Prerequisite: FREN204; or students who have taken courses with comparable content may contact the department. Restriction: Must not be a native/fluent speaker of French. Credit only granted for: FREN250 or FREN250H. Introduction to cultural and textual analysis of selected readings from various genres in French literature. Taught in French.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "FREN"
+    },
+    {
+      "code": "FREN250H",
+      "title": "Introduction to Cultural and Textual Analysis",
+      "credits": 3,
+      "description": "Prerequisite: FREN204; or students who have taken courses with comparable content may contact the department. Restriction: Must not be a native/fluent speaker of French. Credit only granted for: FREN250 or FREN250H. Introduction to cultural and textual analysis of selected readings from various genres in French literature. Taught in French.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "FREN"
+    },
+    {
+      "code": "GERS255",
+      "title": "Once Upon a Time: Fairy Tales of the Brothers Grimm",
+      "credits": 3,
+      "description": "Credit only granted for: GERM255 or GERS255. Formerly: GERM255. A critical examination of how fairy tales and folklore pervade and influence diverse facets of Western culture, ranging from issues of politics and national identity, ethics and morality, violence and fear, education and pedagogy, to gender and sexuality in the establishment and regulation of social norms. Taking the German tales collected by Jacob and Wilhelm Grimm as its focal point, the magical and often terrifying world of fairy",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "GERS"
+    },
+    {
+      "code": "GERS322",
+      "title": "Highlights of German Literature and Culture",
+      "credits": 3,
+      "description": "Prerequisite: GERS302; or students who have taken courses with comparable content may contact the department. Credit only granted for: GERM322 or GERS322. Formerly: GERM322. Selected literary masterworks, social and cultural issues, and historical events in German-speaking countries from the Enlightenment, Romanticism, Junges Deutschland, Realism, Naturalism and its counter currents, Expressionism to the present. Taught in German.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "GERS"
+    },
+    {
+      "code": "GERS322H",
+      "title": "Highlights of German Literature and Culture",
+      "credits": 3,
+      "description": "Prerequisite: GERS302; or students who have taken courses with comparable content may contact the department. Credit only granted for: GERM322 or GERS322. Formerly: GERM322. Selected literary masterworks, social and cultural issues, and historical events in German-speaking countries from the Enlightenment, Romanticism, Junges Deutschland, Realism, Naturalism and its counter currents, Expressionism to the present. Taught in German.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "GERS"
+    },
+    {
+      "code": "HEBR298B",
+      "title": "Introduction to the Hebrew Bible/Old Testament",
+      "credits": 3,
+      "description": "Cross-listed with: JWST262, ENGL262. Credit only granted for: JWST262, HEBR298B, or ENGL262. Origins of the Hebrew Bible (Old Testament), with attention to literary formations, archaeology, and social-political settings. Explorations of major questions, including who wrote the Bible, and when; relationships of the biblical tradition to the mythology and religious structures of ancient Israel's near eastern neighbors; and dynamics of politics, religious leadership, and law.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HEBR"
+    },
+    {
+      "code": "HEBR313",
+      "title": "Conversation and Composition I",
+      "credits": 3,
+      "description": "Prerequisite: HEBR212; or students who have taken courses with comparable content may contact the department. A practical language course recommended for all students continuing with Hebrew. Review of grammar and composition. Selected readings. Oral and written exercises.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HEBR"
+    },
+    {
+      "code": "HHUM105",
+      "title": "Honors Humanities: Introduction to the Arts and Humanities",
+      "credits": 3,
+      "description": "Restriction: Must be an entering freshmen in the Honors Humanities Program. Credit only granted for: ARHU105 or HHUM105. Formerly: ARHU105. Introduction to the university, the different fields of the arts and humanities, and the history of how the university and the humanities have evolved across the world from ancient times to the present. Primary emphasis on reading and discussion of literary artifacts to assess the meaning and social status of the arts and humanities in the past and their per",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HHUM"
+    },
+    {
+      "code": "HISP200",
+      "title": "The Everyday and the American Environment",
+      "credits": 3,
+      "description": "Jointly offered with HISP615. An introduction to the theories of the everyday within the context of the American built environment. Focuses primarily on the American experience of underrepresented, minority, and/or immigrant communities; both historical and contemporary. Attempts to challenge what is meant by American in describing the American everyday built environment.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HISP"
+    },
+    {
+      "code": "HIST110",
+      "title": "The Ancient World",
+      "credits": 3,
+      "description": "Interpretation of select literature and art of the ancient Mediterranean world with a view to illuminating the antecedents of modern culture; religion and myth in the ancient Near East; Greek philosophical, scientific, and literary invention; and the Roman tradition in politics and administration.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST120",
+      "title": "Islamic Civilization",
+      "credits": 3,
+      "description": "Cross-listed with: RELS120. Credit only granted for: HIST120 or RELS120. Introduction to society and culture in the Middle East since the advent of Islam: as a personal and communal faith; as artistic and literary highlights of intellectual and cultural life; and as the interplay between politics and religion under the major Islamic regimes.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST132",
+      "title": "Fighting Slavery",
+      "credits": 3,
+      "description": "An examination of the different tools and tactics, means and methods that Americans have used to escape slavery or try to eliminate it.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST134",
+      "title": "Spies, Assassins, Martyrs, and Witches: Famous Trials in American History",
+      "credits": 3,
+      "description": "Examination of some of the most famous trials in American history and their enduring hold on the imagination.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST134S",
+      "title": "Spies, Assassins, Martyrs, and Witches: Famous Trials in American History",
+      "credits": 3,
+      "description": "Examination of some of the most famous trials in American history and their enduring hold on the imagination.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST200",
+      "title": "Interpreting American History: Beginnings to 1877",
+      "credits": 3,
+      "description": "Credit only granted for: HIST156 or HIST200. Formerly: HIST156. The United States from colonial times to the end of the Civil War. Establishment and development of American institutions.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST201",
+      "title": "Interpreting American History: From 1865 to the Present",
+      "credits": 3,
+      "description": "Credit only granted for: HIST157 or HIST201. Formerly: HIST157. The United States from the end of the Civil War to the present. Economic, social, intellectual, and political developments. Rise of industry and emergence of the United States as a world power.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST219I",
+      "title": "Religions of the Ancient Near East",
+      "credits": 3,
+      "description": "Cross-listed with: RELS225, JWST225. Credit only granted for: JWST225, HIST219I, RELS225, or RELS219A. Formerly: RELS219A. Introduction to ancient Near Eastern religious systems and mythology, from the third millennium BCE through the fourth century BCE. Particular emphasis on Mesopotamia and ancient Israel.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST281",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: JWST230, RELS230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST363",
+      "title": "Mobility in History: Planes, Trains, Automobiles",
+      "credits": 3,
+      "description": "Credit only granted for: HIST329X or HIST363. Formerly: HIST329X. From walking, bicycling, riding ships and trains to driving cars and to flying: Humans and their modes of transportation have changed dramatically in history. In this class, students will explore the social, cultural, and environmental aspects of passenger and freight transportation in the 19th and 20th centuries. The focus is on the societal expectations and imaginations that have shaped how humans move about.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST407",
+      "title": "Technology and Inequality",
+      "credits": 3,
+      "description": "How are social inequality and technology related? Have technologies exacerbated social tensions or have they ameliorated them? In the age of climate change, pandemics, and economic transformations, this class looks at technology in history to examine previous transitions in production, infrastructures, computing, and pollution. The emphasis is on the interplay between society and technology in the 19th and 20th centuries.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HNUH228C",
+      "title": "The Fiction of Fact: Race, Science and Storytelling",
+      "credits": 3,
+      "description": "What is a fact? Science is often viewed as an unbiased, fact-based, analytical discipline. However, throughout history, science has sometimes been the most potent weapon for creating and supporting political fictions and social hierarchies. Not unlike the discipline of the humanities, the sciences practice interpretation: scientists observe behaviors, of subject or objects, and necessarily provide an interpretation of the data. But it is the recourse to the \"real\" that has made science so powerf",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH228R",
+      "title": "The Picture of Health and Illness: Modern Medicine in Illustration",
+      "credits": 3,
+      "description": "From prehistoric carvings, through King Tut's burial mask and Michelangelo's David, to the Lincoln Memorial and Body Worlds, images have long been used to communicate what people can and should be. After the \"Scientific Revolution\" in Europe, when identity was increasingly tied to biology, medical illustrations communicated theories of the ideal body and how it should, and should not, look. Doctors working in the midst of scientific revolution unequivocally tied health to race, gender, and sexua",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH248R",
+      "title": "Artificial Intelligence: Critical Examinations through Science Fiction and Technology",
+      "credits": 3,
+      "description": "AI permeates our world, but science fiction (SF) told stories about it centuries before AI became a reality in the 1950s, shaping our understanding and expectations through words and images. In this course, students will trace AI's evolution through SF to critically examine how key SF works have shaped how we think about AI and intelligence. Through an exploration of existing AI, like autonomous weapon systems, generative AI, and AI assistants, as well as a visit to UMD's AI department, students",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH268C",
+      "title": "Inclusion and Exclusion: Deportation in American Life",
+      "credits": 3,
+      "description": "What is the \"American Dream\" under threat of deportation? The United States proclaims to be welcoming but ideas about sovereignty, the nation, the border, good and bad immigrants, and crime in the United States coalesce to support the retention of some people and the displacement of others from its territory. Who the US deports is related to why it deports and on whose behalf such policies are made. This course acquaints students with current theories, methodologies, and debates in the field of ",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "IMDM150",
+      "title": "Digital Media Theory and Culture",
+      "credits": 3,
+      "description": "Restriction: Must be in the Immersive Media Design program; or permission of IMDM - Immersive Media Design program. An introduction to the fundamental structures and themes of digital culture in contemporary society. This course will provide you with a theoretical grounding in which to understand the current landscape of digital media culture, design and art. As an introductory course for the Immersive Media Design major, the focus will be on contextualizing immersive digital media such as virtu",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "IMDM"
+    },
+    {
+      "code": "INST104",
+      "title": "Design Across Campus",
+      "credits": 3,
+      "description": "What is design, who does it, and how is it done? There is no one answer to this question--it depends on who you ask. The answers to these questions vary across disciplines and across the University campus. This course, designed with modules from contributors in UMD programs including Information Studies, Human-Computer Interaction, Graphic Design, Immersive Media Arts, Journalism, Architecture, Landscape Architecture, Engineering, and Policy, will introduce students to the goals and values, appr",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "ISRL372",
+      "title": "Jewry of Muscle: Zionism and Jewish Masculinity",
+      "credits": 3,
+      "description": "Cross-listed with: JWST372. Credit only granted for: JWST319K, ISRL329K, JWST372 or ISRL372. Formerly: JWST319K or ISRL329K. Part of the Zionist cultural project involved creating a new Jewish masculinity that would replace the diasporic \"sissy Jew\" with a strong, healthy new \"Jewry of Muscle.\" Using literary and cinematic sources, we will analyze how these Zionist and Israeli cultural productions served to build (and sometimes undermine) this new model of Jewish masculinity.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ISRL"
+    },
+    {
+      "code": "ITAL441",
+      "title": "The Dark Side of the Italian Renaissance",
+      "credits": 3,
+      "description": "Recommended: Some knowledge of Italian at the elementary or intermediate level. Examines the dark aspects of the Italian Renaissance, focusing on artistic and literary patronage as a strategy of self-promotion and as a means to achieve and preserve power. From the Northern court of Milan to the Southern Kingdom of Naples, we journey through the Italian peninsula, a land that gave birth to illustrious artists and poets in one of the most troubled periods of Italian history, marked by political co",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "ITAL"
+    },
+    {
+      "code": "JOUR282",
+      "title": "Beyond Facebook: How Social Media are Transforming Society, Culture, Business and Politics",
+      "credits": 3,
+      "description": "Credit only granted for: JOUR289F or JOUR282. Formerly: JOUR289F. How has social media changed the world, and how has the world changed social media? This course explores how social media has influenced relationships, culture, industry, politics, and the information environment, as well as how significant global events and technological advancements have contributed to the evolution of social media. This course gives students a broad contextual understanding of social media that they may apply i",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JOUR283",
+      "title": "Probing War: Investigative Narratives and American Conflicts",
+      "credits": 3,
+      "description": "Credit only granted for: JOUR283 or JOUR289J. Formerly: JOUR289J. What role should the American news media play when the United States is at war? Students will explore the realities of war through the work of journalists who pushed beyond the daily headlines, some risking life and limb, to challenge official versions and document uncomfortable realities about American conflicts.",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JOUR456",
+      "title": "Literature in Journalism",
+      "credits": 3,
+      "description": "Credit only granted for: JOUR456 or JOUR673. From Truman Capote's In Cold Blood to Mark Bowden's Black Hawk Down, students will examine how literary works can help writers approach a subject in a different way than more traditional forms of journalism, including the advantages and limitations of the style.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JWST225",
+      "title": "Religions of the Ancient Near East",
+      "credits": 3,
+      "description": "Cross-listed with: RELS225, HIST219I. Credit only granted for: JWST225, HIST219I, RELS225, or RELS219A. Formerly: RELS219A. Introduction to ancient Near Eastern religious systems and mythology, from the third millennium BCE through the fourth century BCE. Particular emphasis on Mesopotamia and ancient Israel.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST230",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: HIST281, RELS230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST262",
+      "title": "Introduction to the Hebrew Bible/Old Testament",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL262, HEBR298B. Credit only granted for: JWST262, HEBR298B, or ENGL262. Origins of the Hebrew Bible (Old Testament), with attention to literary formations, archaeology, and social-political settings. Explorations of major questions, including who wrote the Bible, and when; relationships of the biblical tradition to the mythology and religious structures of ancient Israel's near eastern neighbors; and dynamics of politics, religious leadership, and law.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST274",
+      "title": "Jerusalem in Antiquity: The History of Sacred Space in a Holy City",
+      "credits": 3,
+      "description": "Cross-listed with: RELS274. Credit only granted for: JWST274, RELS274, JWST289J or RELS289J. Formerly: JWST289J, RELS289J. Examines the complex history of Jerusalem's status as a holy city, with a focus on constructions of sacred space in Judaism, Christianity, and Islam.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST372",
+      "title": "Jewry of Muscle: Zionism and Jewish Masculinity",
+      "credits": 3,
+      "description": "Cross-listed with: ISRL372. Credit only granted for: JWST319K, ISRL329K, JWST372 or ISRL372. Formerly: JWST319K or ISRL329K. Part of the Zionist cultural project involved creating a new Jewish masculinity that would replace the diasporic \"sissy Jew\" with a strong, healthy new \"Jewry of Muscle.\" Using literary and cinematic sources, we will analyze how these Zionist and Israeli cultural productions served to build (and sometimes undermine) this new model of Jewish masculinity.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST374",
+      "title": "Yiddish and the Supernatural: Demons, Golems, and Dybbuks",
+      "credits": 3,
+      "description": "Yiddish folklore is marked by a fascination with the mystical world and a rich tapestry of supernatural tales. Explore how Jewish communities have used storytelling to grapple with questions of faith, morality, identity, and the unknown, and how the golems, demons, and dybbuks of this tradition have been adapted in literary translations and cinematic adaptations. Through literary analysis, historical inquiry, and creative interpretation, this course examines the enduring power of these stories i",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST430",
+      "title": "Dead Sea Scrolls",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed one JWST course  or one RELS course; or permission of ARHU-Meyerhoff Program & Center for Jewish Studies. Cross-listed with RELS430. Credit only granted for: JWST430 or RELS430. A study of the Dead Sea Scrolls in their ancient and modern settings, and in terms of contemporary scholarly interpretations of their meaning. Interpretations of the historical significance of these documents, their connections to ancient Jewish sectarian movements, and their implication",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "KNES285",
+      "title": "History of Physical Culture, Sport, & Science in America",
+      "credits": 3,
+      "description": "Restriction: Restricted to majors or non-majors with less than or equal to 60 credits. Credit only granted for: KNES285 or KNES293. Examines the history of physical culture in America, focusing on the period from the end of the Civil War to the Cold War. Physical culture refers to a broad range of movement practices including sport, play, rehabilitative exercise, health and fitness training, and recreation and leisure. More specifically, we challenge the idea that historical physical culture pra",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "LACS234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS348E",
+      "title": "Caribbean Literature in English",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL362. Credit only granted for: ENGL362, LASC348E, or LACS348E. Political and literary traditions that intersect in the fiction, poetry, and drama written in English by Caribbean writers, primarily during the 20th century.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LARC160",
+      "title": "Introduction to Landscape Architecture and Environmental Design",
+      "credits": 3,
+      "description": "History, theory, philosophy and current practice of the profession of landscape architecture. Explores the interactive relationship between humans and their environment by examining people's perceptions of and changing attitude towards the landscape, as well as, an examination of how these are related to ecological and cultural influences. Topics include urban, ecological, community and creative design.",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "LARC"
+    },
+    {
+      "code": "LGBT265",
+      "title": "LGBTQ+ Literatures and Media",
+      "credits": 3,
+      "description": "Restriction: Must not have completed LGBT265. Cross-listed with: ENGL265. Credit only granted for: ENGL265 or LGBT265. A study of literary and cultural expressions of queer and trans identities, positionalities, and analytics through an exploration of literature, art, and media. We will examine historical and political power relations by considering the intersections of sexuality and gender with race, class, nation, and disability. Topics include the social construction and regulation of sexuali",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LING240",
+      "title": "Language and Mind",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in LING200. Additional information: Required for Linguistics majors and recommended for students in related fields. The study of language as a cognitive phenomenon. Ways of representing people's knowledge of their native language, ways in which that knowledge is attained naturally by children, and how it is used in speaking and listening. Additional topics may include: animal communication, language and the brain, language and thought.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "LING"
+    },
+    {
+      "code": "LING260",
+      "title": "Meaning through Language: Why are we so good at it?",
+      "credits": 3,
+      "description": "What is it about us humans and our languages that allows us to communicate in ways unmatched by other animals or powerful AI models? The question is ancient, but recent decades have seen great progress in the cognitive science of language, while expanding the diversity of languages investigated. We know much more about how languages vary, how they develop in children, how they are encoded in the mind, and relate to other domains of cognition. Major developments in statistical computation and res",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "LING"
+    },
+    {
+      "code": "MUSC204",
+      "title": "Popular Music in Black America",
+      "credits": 3,
+      "description": "Traces black popular music in the U.S. with a special focus on spirituals, ragtime, the blues, early jazz, R&B, Motown, funk, soul, and rap. Examines how these styles have been borrowed by the American music industry.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC205",
+      "title": "History of Popular Music, 1950-Present",
+      "credits": 3,
+      "description": "A historical survey of rock music (blues, rock, soul, metal, rap, etc.) from circa 1950 to the present, with emphasis on popular music as music and popular music as social history.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC210",
+      "title": "The Impact of Music on Life",
+      "credits": 3,
+      "description": "Credit only granted for: MUET210 or MUSC210. Formerly: MUET210. Music as a part of culture. Materials drawn from traditions throughout the globe to illustrate issues of historical and contemporary significance, including the impact of race, class and gender on the study of music.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC215",
+      "title": "World Popular Musics and Identity",
+      "credits": 3,
+      "description": "Credit only granted for: MUET200 or MUSC215. Formerly: MUET200. Focus on popular musics in different cultures with an emphasis on cross-cultural comparisons and analysis of how musics and identity intersect.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC260",
+      "title": "Music as Global Culture",
+      "credits": 3,
+      "description": "Prerequisite: MUSC151. Restriction: Must be in a major within the ARHU-School of Music department. Credit only granted for: MUSC220 or MUSC260. Explores how and why people create, transform, and move music around the globe. Taking a comparative approach to Western art musics and other musics of the world, course will examine a variety of musical practices in their social, political, and economic contexts. Experiential knowledge will be developed through hands-on ethnographic research.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "NAVY200",
+      "title": "Leadership and Management",
+      "credits": 3,
+      "description": "Restriction: Permission of UGST-Navy ROTC. Additional information: Priority enrollment will be given to students enrolled in the NROTC program. Introductory course designed to familiarize students with the theories, processes, and behaviors that enable effective leadership and managerial competence. Students will engage in analytical discussions, review leadership development and education, and Navy/Marine Corps-based case study discussions in order to develop their understanding of personal str",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "NAVY"
+    },
+    {
+      "code": "PERS283",
+      "title": "Iranian Cinema",
+      "credits": 3,
+      "description": "Cross-listed with: CINE283. Credit only granted for: PERS283, CINE283 or FILM298B. Introduction to Iranian cinema, society, and culture. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PERS"
+    },
+    {
+      "code": "PERS353",
+      "title": "Iranian Life in Literature and Film",
+      "credits": 3,
+      "description": "Treats major themes in modern literature and life of Iranians. Topics examined include Iranian identity, religious traditions, modern life, and expatriate communities. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PERS"
+    },
+    {
+      "code": "PHIL100",
+      "title": "Introduction to Philosophy",
+      "credits": 3,
+      "description": "An introduction to the literature, problems, and methods of philosophy either through a study of some of the main figures in philosophic thought or through an examination of some of the central and recurring problems of philosophy.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL140",
+      "title": "Contemporary Moral Issues",
+      "credits": 3,
+      "description": "The uses of philosophical analysis in thinking clearly about such widely debated moral issues as abortion, euthanasia, homosexuality, pornography, reverse discrimination, the death penalty, business ethics, sexual equality, and economic justice.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL202",
+      "title": "Know Thyself: Wisdom Through Cognitive Science",
+      "credits": 3,
+      "description": "Credit only granted for: PHIL209N or PHIL202. Formerly: PHIL209N. How do we improve our decision making? Cognitive science demonstrates that self-knowledge isn't as easy as we think, and that there are numerous biases and fallacies that impact our decision-making in ways that are hard for us to be aware of. In this course you will learn what some of these are and how they have been discovered, and you will explore potential strategies for avoiding these fallacies and for making wiser choices.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL203",
+      "title": "The Rights and Wrongs of Killing People",
+      "credits": 3,
+      "description": "Credit only granted for: PHIL209J or PHIL203. Formerly: PHIL209J. Virtually everyone thinks it's permissible to kill people only in special circumstances. But why is killing usually wrong? Is it ever acceptable to kill an innocent human being intentionally? This course raises these and related questions and examines cases such as terrorism, suicide, abortion, euthanasia, the death penalty, war. Except for a brief discussion of animals, all the controversies considered deal with killing and causi",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL220",
+      "title": "Bioethics: Regulating Right and Wrong",
+      "credits": 3,
+      "description": "Credit only granted for: PHIL209A or PHIL220. Formerly: PHIL209A. Bioethicists formulate ethical guidelines. They answer questions such as: When life-saving health resources are scarce, who should get them? Should we increase supply of one such resource, kidneys, by buying them from living \"donors\"? If drug trials in developing countries benefit patients who consent to participate, are the trials ethical, even if the same research would be forbidden in the US? If a sick person aims to hasten her",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL236",
+      "title": "Philosophy of Religion",
+      "credits": 3,
+      "description": "Cross-listed with: RELS236. Credit only granted for: PHIL236 or RELS236. A philosophical study of some of the main problems of religious thought: the nature of religious experience, the justification of religious belief, the conflicting claims of religion and science, and the relation between religion and morality.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL245",
+      "title": "Political and Social Philosophy I",
+      "credits": 3,
+      "description": "A critical examination of such classical political theories as those of Plato, Hobbes, Locke, Rousseau, Mill, Marx, and such contemporary theories as those of Hayek, Rawls, and recent Marxist thinkers.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHIL310",
+      "title": "Ancient Greek and Roman Philosophy",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed 6 credits in philosophy or classics. Cross-listed with: CLAS310, PHPE308Y. Credit only granted for: PHIL310, CLAS310, or PHPE308Y. A study of the origins and development of philosophy in ancient Greece and Rome, focusing on Socrates, Plato, Aristotle, the Epicureans, and Stoics.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHPE308Y",
+      "title": "Ancient Greek and Roman Philosophy",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed 6 credits in philosophy or classics. Cross-listed with: PHIL310, CLAS310. Credit only granted for: PHIL310, CLAS310, or PHPE308Y. A study of the origins and development of philosophy in ancient Greece and Rome, focusing on Socrates, Plato, Aristotle, the Epicureans, and Stoics.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "PHPE"
+    },
+    {
+      "code": "PORT234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "PORT"
+    },
+    {
+      "code": "RELS120",
+      "title": "Islamic Civilization",
+      "credits": 3,
+      "description": "Cross-listed with: HIST120. Credit only granted for: HIST120 or RELS120. Introduction to society and culture in the Middle East since the advent of Islam: as a personal and communal faith; as artistic and literary highlights of intellectual and cultural life; and as the interplay between politics and religion under the major Islamic regimes.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS170",
+      "title": "Ancient Myths and Modern Lives",
+      "credits": 3,
+      "description": "Cross-listed with: CLAS170. Credit only granted for: CLAS170 or RELS170. Additional information: This course cannot be taken for language credit. What are myths and why do we tell them? What powers do myths have? We will tackle these questions by looking at the enduring and fascinating myths from ancient Greece and Rome. In addition to studying how they shaped ancient societies, we will also look at their modern influence and reflect upon the power that myths still hold in our contemporary world",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS225",
+      "title": "Religions of the Ancient Near East",
+      "credits": 3,
+      "description": "Cross-listed with: HIST219I, JWST225. Credit only granted for: JWST225, HIST219I, RELS225, or RELS219A. Formerly: RELS219A. Introduction to ancient Near Eastern religious systems and mythology, from the third millennium BCE through the fourth century BCE. Particular emphasis on Mesopotamia and ancient Israel.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS230",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: HIST281, JWST230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS274",
+      "title": "Jerusalem in Antiquity: The History of Sacred Space in a Holy City",
+      "credits": 3,
+      "description": "Cross-listed with: JWST274. Credit only granted for: JWST274, RELS274, JWST289J or RELS289J. Formerly: JWST289J, RELS289J. Examines the complex history of Jerusalem's status as a holy city, with a focus on constructions of sacred space in Judaism, Christianity, and Islam.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS430",
+      "title": "Dead Sea Scrolls",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed one JWST course or one RELS course; or permission of ARHU-Meyerhoff Program & Center for Jewish Studies. Cross-listed with JWST430. Credit only granted for: JWST430 or RELS430. A study of the Dead Sea Scrolls in their ancient and modern settings, and in terms of contemporary scholarly interpretations of their meaning. Interpretations of the historical significance of these documents, their connections to ancient Jewish sectarian movements, and their implications",
+      "geneds": [
+        "DSHU",
+        "DSSP"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "SLLC200",
+      "title": "Global Movements",
+      "credits": 3,
+      "description": "This interdisciplinary and cross-cultural course introduces students to a variety of frameworks for understanding our interconnected world by focusing on one or more issues of global relevance today, including but not limited to conflict, revolution, and war; democracy, citizenship, and human rights; migration; and climate change. Focusing on the interpretive methods of the humanities, including critical analysis, close readings, and engagement with theoretical approaches, we will discuss the hi",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "SLLC"
+    },
+    {
+      "code": "SLLC286",
+      "title": "Living the Good Life: Chinese Philosophy in the Modern World",
+      "credits": 3,
+      "description": "Additional information: Taught in English. Confucius, Mencius, Zhuangzi and other Chinese thinkers who lived more than 2,000 years ago would argue that the contemporary Western emphasis on self-discovery (Find yourself) and self-acceptance has led you astray. See what they have to say and discuss what relevance it has for the modern world as we study how early Chinese thinkers wrestled with questions of existence, morality, and governance. No previous knowledge of Chinese philosophy and history ",
+      "geneds": [
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "SLLC"
+    },
+    {
+      "code": "SPAN207",
+      "title": "Reading and Writing in Spanish",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in SPAN204; or must have appropriate World Language Placement (WLP) score. Selected readings with emphasis on reading comprehension and the development of reading strategies. Work in composition writing and a review of selected grammatical topics. Complements material of SPAN204.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN303",
+      "title": "Approaches to Cultural Materials in the Hispanic World",
+      "credits": 3,
+      "description": "Prerequisite: SPAN301. Recommended: May elect to take SPAN311 and/or SPAN316 in same semester as SPAN303. Development of proficiency in critical thought through the reading, viewing, and analytical discussion of major genres and styles of cultural materials selected from Spanish-speaking world. Taught in Spanish.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN331",
+      "title": "Spanish Culture, Civilization and Literature I: Medieval Times",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). The exploration of cultures of the Iberian Peninsula from its origins until the 15th century as well as the study of historical and political events that gave rise to the Spanish state. Taught in Spanish.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN333",
+      "title": "Spanish Culture, Civilization and Literature III: Modern Times",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). An overview of cultural and literary production of Spain from the late 17th century through the present day, exploring the production of literary texts in their socio-historical, political, religious and cultural contexts and development. Taught in Spanish.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN361",
+      "title": "Latin American Literatures and Cultures I: From Pre-Columbian to Colonial Times",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). Overview of cultural history of Latin America from pre-Columbian civilizations to the Colonial period, exploring the foundations of the Spanish American cultural and literary tradition to approximately 1770. Taught in Spanish.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN363",
+      "title": "Latin American Literatures and Cultures III: From Modernism  to Neo-Liberalism",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). An overview of cultural and literary production of Latin America from the late 19th through the early 21st centuries, exploring the production of literary texts in their socio-historical, political, and cultural contexts and development. Taught in Spanish.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "THET110",
+      "title": "Introduction to the Theatre",
+      "credits": 3,
+      "description": "In the age of pop music and blockbuster films, of memes and viral videos, we often forget that theatre was one of the original forms of popular entertainment.   We will focus on theatre practitioners including actors, directors, designers and backstage personnel to understand how theatre is produced.  We will also consider popular entertainment in Europe and America, with a particular focus on musical theatre and Broadway to explore how theatre communicates, resonates, and remains relevant to al",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "THET251",
+      "title": "Broadway Mashup: Remixing America Through Musical Theater",
+      "credits": 3,
+      "description": "Interrogate musical theater's political history, investigating how this uniquely American genre uses narrative, song, and dance to weave critical differences across race, ethnicity, immigration status, religion, gender, sexuality, and ability into our national fabric.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "THET293",
+      "title": "Black Theatre and Performance I",
+      "credits": 3,
+      "description": "Thematic and historical survey of African-American drama from the late nineteenth century to the 1960s. Emphasis on sociopolitical context, thematic thrust, issues, styles, the aesthetic reflected in the work, impact on African-American and general theatre audiences.",
+      "geneds": [
+        "DSHU",
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "TLPL250",
+      "title": "Historical and Philosophical Perspectives on Education",
+      "credits": 3,
+      "description": "Credit only granted for: EDPS210 or TLPL250. Formerly: EDPS210. An examination of illustrative historical and philosophical examples of the interplay of ideas and events in the shaping of educational aims and practices from ancient cultures to modern technological societies.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "TLPL457",
+      "title": "Literature for Adolescents",
+      "credits": 3,
+      "description": "Restriction: Minimum cumulative GPA of 2.75; and permission of EDUC-Teaching and Learning, Policy and Leadership department. Credit only granted for: EDCI466 or TLPL457. Formerly: EDCI466. Reading and analysis of fiction and nonfiction; methods for critically assessing quality and appeal; current theory and methods of instruction; research on response to literature; curriculum design and selection of books.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "WGSS230",
+      "title": "Introduction to Humanities, Health, and Medicine",
+      "credits": 3,
+      "description": "Restriction: Permission of ARHU-History Department. Cross-listed with: ARHU230, ENGL254, HIST219N. Credit only granted for: ARHU230 , ENGL289C, ENGL254, ARHU298A, HIST219N, or WGSS230. An overview of the historical, cultural, ethical, and spiritual dimensions of medicine, human health, disease, and death from the points of view of various humanistic disciplines.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS250",
+      "title": "Introduction to WGSS: Art and Culture",
+      "credits": 3,
+      "description": "Credit only granted for: WMST250 or WGSS250. Formerly: WMST250. Provides students with a critical introduction to the ways that art and art activism have served as a conduit to understanding and challenging systems of inequity and practices of normativity. Interrogating the categories of gender, sexuality, race, class, ability, the course will provide students with an examination of how artists have responded to pressing social justice issues of their eras. While the course centers visual art, s",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS255",
+      "title": "Reading Women Writing",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL250. Credit only granted for: ENGL250, WMST255 or WGSS255. Formerly: WMST255. Explores literary and cultural expressions by women and their receptions within a range of historical periods and genres. Topics such as what does a woman need in order to write, what role does gender play in the production, consumption, and interpretation of texts, and to what extent do women comprise a distinct literary subculture. Interpretation of texts will be guided by feminist and gender t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS275",
+      "title": "World Literature by Women",
+      "credits": 3,
+      "description": "Cross-listed with: CMLT275. Credit only granted for: WMST275, CMLT275 or WGSS275. Formerly: WMST275. Comparative study of selected works by women writers of several countries, exploring points of intersection and divergence in women's literary representations.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS280",
+      "title": "Gender and Science in Film and Media",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL289I. Credit only granted for: ENGL289I or WGSS280. Isaac Azimov once said of science fiction that it is the genre that \"deals with the reaction of human beings to changes in science and technology.\" With this definition in mind, we will embark on a critical exploration of sci-fi film and other media, using it as a lens for analyzing society's deepest fears and most furtive hopes. Our investigation will center on the liminal space between hegemonic culture and its prescrib",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    }
+  ]
+}

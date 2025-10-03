@@ -1,0 +1,55 @@
+{
+  "cached_at": "2025-10-03T17:34:15.039322",
+  "data": [
+    {
+      "code": "CPSS100",
+      "title": "College Park Scholars: Science, Technology & Society First-Year Colloquium I",
+      "credits": 2,
+      "description": "Restriction:Students must be enrolled in the College Park Scholars Science, Technology & Society (CPSS) program. Introductory colloquium: Examination of issues related to science, technology and society.",
+      "geneds": [],
+      "department": "CPSS"
+    },
+    {
+      "code": "CPSS220",
+      "title": "The Future of Communicating Science",
+      "credits": 3,
+      "description": "Restriction:Must be in the College Park Scholars Science, Technology or Society program or have permission of the program. How can scientists communicate their work effectively? The field of science communication ventures that the answer is not simply a matter of improving capacity (e.g., because people lack scientific information, scientists lack communication skills, or both). Rather, it calls for sustained collaboration and empathy between laypersons and experts. In this hands-on, experientia",
+      "geneds": [
+        "DVCC"
+      ],
+      "department": "CPSS"
+    },
+    {
+      "code": "CPSS225",
+      "title": "College Park Scholars Capstone: Science, Technology, and Society",
+      "credits": 3,
+      "description": "Prerequisite:CPSS100.Restriction:Must be in the College Park Scholars Science, Technology & Society (CPSS) program.Formerly:CPSP227. Exploration and understanding of ways science and technology shape and are shaped by society.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "CPSS"
+    },
+    {
+      "code": "CPSS240",
+      "title": "College Park Scholars: Science, Technology & Society - Service-Learning Practicum",
+      "credits": 3,
+      "description": "Restriction:Matriculation into the College Park Scholars Science, Technology & Society (CPSS) program; or permission of instructor. Supervised Service-Learning practicum in issues related to science, technology and society.",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "CPSS"
+    },
+    {
+      "code": "CPSS340",
+      "title": "College Park Scholars: Infrastructure and Society",
+      "credits": 3,
+      "description": "Restriction:Must be currently enrolled in a College Park Scholars program.Credit only granted for:CPSP349T or CPSS340.Formerly:CPSP349T. One of the most important, and underappreciated, aspects of our society is its infrastructure (roads, buildings, communication systems, water delivery systems, sanitation systems, energy systems, etc.). We often take for granted the services infrastructure bring us. As a consequence, the United States, which at one time was a world leader in creating infrastruc",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "CPSS"
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "cached_at": "2025-10-03T15:48:22.981038",
+  "data": [
+    {
+      "code": "CMSC100",
+      "title": "Bits and Bytes of Computer and Information Sciences",
+      "credits": 1,
+      "description": "Restriction:For first time freshmen and first time transfer students; or permission of CMNS-Computer Science department.Cross-listed with:INST101.Credit only granted for:CMSC100 or INST101. Students are introduced to the fields (and disciplines) of computer science and information science within a small classroom setting. They will learn to make a successful transition from high school to the university, while exploring study skills, student success plans and research opportunities.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC106",
+      "title": "Introduction to C Programming",
+      "credits": 4,
+      "description": "Prerequisite:MATH115.Restriction:Must not be in Computer Science program; and must not have completed any courses from CMSC131-499 course range.Credit only granted for:CMSC106 or CMSC122. Design and analysis of programs in C. An introduction to computing using structured programming concepts. Intended for students with no or minimal programming experience.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC122",
+      "title": "Introduction to Computer Programming via the Web",
+      "credits": 3,
+      "description": "Restriction:Must not have completed any courses from CMSC131-499 course range; and must not be concurrently enrolled in CMSC131.Credit only granted for:CMSC106, or CMSC122. Introduction to computer programming in the context of developing full featured dynamic web sites. Uses a problem solving approach to teach basics of program design and implementation using JavaScript; relates these skills to creation of dynamic web sites; then explores both the potential and limits of web-based information s",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC125",
+      "title": "Introduction to Computing",
+      "credits": 3,
+      "description": "Prerequisite:Must have completed or be concurrently enrolled in MATH115 or higher.Restriction:Must not be in the Computer Science program; and must not have completed any courses from CMSC131-499; and must not have completed BMGT302, IMDM127 or INST126.Credit only granted for:IMDM127 or CMSC125. Introduces you to the computing field as a whole. You will gain skills used across the spectrum of computing majors and learn about the great variety of routes into the various areas of study and employm",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC131",
+      "title": "Object-Oriented Programming I",
+      "credits": 4,
+      "description": "Corequisite:MATH140.Credit only granted for:CMSC131, CMSC133 or CMSC141. Introduction to programming and computer science. Emphasizes understanding and implementation of applications using object-oriented techniques. Develops skills such as program design and testing as well as implementation of programs using a graphical IDE. Programming done in Java.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC132",
+      "title": "Object-Oriented Programming II",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in CMSC131; or must have earned a score of 5 on the A Java AP exam; or must have earned a satisfactory score on the departmental placement exam; and minimum grade of C- in MATH140.Credit only granted for:CMSC132 or CMSC142. Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficie",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC133",
+      "title": "Object Oriented Programming I Beyond Fundamentals",
+      "credits": 2,
+      "description": "Prerequisite:Must have completed or be concurrently enrolled in MATH140.Restriction:Permission of CMNS-Computer Science department; and student must have earned a 4 on the AP Computer Science A exam or a satisfactory score on the CMSC131 department placement exam.Credit only granted for:CMSC131 or CMSC133. An introduction to computer science and object-oriented programming for students with prior Java programming knowledge (conditionals, loops, methods). Program design, implementation, and testi",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC216",
+      "title": "Introduction to Computer Systems",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in CMSC132; and minimum grade of C- in MATH141.Restriction:Must be in a major within the CMNS-Computer Science department; or must be in Engineering: Computer program; or must be in the Computer Science Minor program; and Permission of CMSC - Computer Science department. Introduction to the interaction between user programs and the operating system/hardware. Major topics include C programming, introductory systems programming, and assembly language. Other concept",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC250",
+      "title": "Discrete Structures",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in CMSC131; and minimum grade of C- in MATH141.Restriction:Must be in a major within the CMNS-Computer Science department; or must be in Engineering: Computer program; or must be in the Computer Science Minor program; and Permissions of CMSC - Computer Science department. Fundamental mathematical concepts related to computer science, including finite and infinite sets, relations, functions, and propositional logic. Introduction to other techniques, modeling and s",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC298A",
+      "title": "Special Topics in Computer Science",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC320",
+      "title": "Introduction to Data Science",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC216 and CMSC250.Restriction:Permission of CMNS-Computer Science department.Credit only granted for:CMSC320, DATA320 or STAT426. An introduction to the data science pipeline, i.e., the end-to-end process of going from unstructured, messy data to knowledge and actionable insights. Provides a broad overview of several topics including statistical data analysis, basic data mining and machine learning algorithms, large-scale data management, cloud computing, an",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC330",
+      "title": "Organization of Programming Languages",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC250 and CMSC216.Restriction:Must be in a major within the CMNS-Computer Science department; or must be in the Computer Science Minor program; or must be in Engineering: Computer program; and Permission of CMSC - Computer Science department. A study of programming languages, including their syntax, semantics, and implementation. Several different models of languages are discussed, including dynamic, scripting (e.g., Ruby, Python) functional (e.g., OCaml, Ha",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC335",
+      "title": "Web Application Development with JavaScript",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC216 and CMSC250.Restriction:Permission of CMNS-Computer Science Department.Credit only granted for:CMSC389N or CMSC335.Formerly:CMSC389N. Provides an introduction to modern ways of developing Web Applications/Services using JavaScript for both front-end and back-end. The course covers topics on fundamental JavaScript language constructs, server-side JavaScript, back-end data persistence, and client-side JavaScript to build Web Applications that interact wi",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC351",
+      "title": "Algorithms",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC250 and CMSC216.Restriction:Must be in a major within the CMNS-Computer Science department; or must be in Engineering: Computer program; or must be in the Computer Science Minor program; and Permission from the CMSC - Computer Science department. A systematic study of the complexity of some elementary algorithms related to sorting, graphs and trees, and combinatorics. Algorithms are analyzed using mathematical techniques to solve recurrences and summations",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC388J",
+      "title": "Special Topics in Computer Science; Building Secure Web Applications",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC389B",
+      "title": "Special Topics in Computer Science; A Tour of Programming Languages",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC389E",
+      "title": "Special Topics in Computer Science; Digital Logic Design Through Minecraft",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC389L",
+      "title": "Special Topics in Computer Science; Reinforcement Learning",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC389O",
+      "title": "Special Topics in Computer Science; The Coding Interview",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC389P",
+      "title": "Special Topics in Computer Science; Mastering the PM Interview",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC396H",
+      "title": "Computer Science Honors Seminar",
+      "credits": 1,
+      "description": "Prerequisite:Must have admission into Computer Science Departmental Honors Program.Restriction:Permission of CMNS-Computer Science department. Overview of computer science research activities, techniques, and tools. Diverse research areas will be covered, including systems, networks, artificial intelligence, human-computer interaction, software engineering, graphics, vision, and theory.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398L",
+      "title": "Special Topics in Computer Science; Introduction to Competitive Programming",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398M",
+      "title": "Special Topics in Computer Science; Introduction to Product Design with Figma",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398P",
+      "title": "Special Topics in Computer Science; Practical Cloud Computing with AWS",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398R",
+      "title": "Special Topics in Computer Science; Binary Exploitation",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398W",
+      "title": "Special Topics in Computer Science; Practical Tools for Efficient Development",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC398Z",
+      "title": "Special Topics in Computer Science; Effective use of AI Coding Assistants and Agents",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC411",
+      "title": "Computer Systems Architecture",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.Restriction:Permission of CMNS-Computer Science department.Credit only granted for:ENEE446 or CMSC411. Input/output processors and techniques. Intra-system communication, buses, caches. Addressing and memory hierarchies. Microprogramming, parallelism, and pipelining.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC412",
+      "title": "Operating Systems",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; and 1 course with a minimum grade of C- from (CMSC414, CMSC417, CMSC420, CMSC430, CMSC433, CMSC435, ENEE440, ENEE457).Restriction:Permission of CMNS-Computer Science department; or must be in one of the following programs (Computer Science (Master's); Computer Science (Doctoral)).Credit only granted for:CMSC412 or ENEE447. A hands-on introduction to operating systems, including topics in: multiprogramming, communication and synchronization",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC414",
+      "title": "Computer and Network Security",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.Restriction:Permission of CMNS-Computer Science department.Credit only granted for:CMSC414, ENEE459C, or ENEE457. An introduction to the topic of security in the context of computer systems and networks. Identify, analyze, and solve network-related security problems in computer systems. Fundamentals of number theory, authentication, and encryption technolo",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC416",
+      "title": "Introduction to Parallel Computing",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; or permission of instructor.Restriction:Permission of CMNS-Computer Science department.Jointly offered with:CMSC616.Credit only granted for:CMSC416, CMSC498X, CMSC616, or CMSC818X.Formerly:CMSC498X. Introduction to parallel computing. Topics include programming for shared memory and distributed memory parallel architectures, and fundamental issues in design, development, and performance analysis of parallel programs.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC417",
+      "title": "Computer Networks",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Computer networks and architectures. The OSI model including discussion and examples of various network layers. A general introduction to existing network protocols. Communication protocol specification, analysis, and testing.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC420",
+      "title": "Advanced Data Structures",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Description, properties, and storage allocation functions of data structures including balanced binary trees, B-Trees, hash tables, skiplists, tries, KD-Trees and Quadtrees. Algorithms for manipulating structures. Applications from areas such as String Processing, Computer Graphics, Information Retrieval",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC421",
+      "title": "Introduction to Artificial Intelligence",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Introduces a range of ideas and methods in AI, varying semester to semester but chosen largely from: automated heuristic search, planning, games, knowledge representation, logical and statistical inference, learning, natural language processing, vision, robotics, cognitive modeling, and intelligent agent",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC422",
+      "title": "Introduction to Machine Learning",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC320, CMSC330, and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461, ENEE290); and permission of CMNS-Computer Science department. Machine Learning studies representations and algorithms that allow machines to improve their performance on a task from experience. This is a broad overview of existing methods for machine learning and an introduction to adaptive systems in general. Emphasis is given to practical aspects of machin",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC423",
+      "title": "Bioinformatic Algorithms, Databases, and Tools",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. An introduction to the main algorithms, databases, and tools used in bioinformatics. Topics may include assembly and analysis of genome sequences, reconstructing evolutionary histories, predicting protein structure, and clustering of biological data. Use of scripting languages to perform analysis tasks o",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC424",
+      "title": "Database Design",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Students are introduced to database systems and motivates the database approach as a mechanism for modeling the real world. An in-depth coverage of the relational model, logical database design, query languages, and other database concepts including query optimization, concurrency control; transaction ma",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC425",
+      "title": "Game Programming",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351.Restriction:Permission of CMNS-Computer Science department. An introduction to the principles and practice of computer game programming and design. This includes an introduction to game hardware and systems, the principles of game design, object and terrain modeling, game physics, artificial intelligence for games, networking for games, rendering and animation, and aural rendering. Course topics are reinforced through the design and impleme",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC426",
+      "title": "Computer Vision",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351 and 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461, ENEE290); or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program; or permission of the instructor.Restriction:Permission of CMNS-Computer Science department. An introduction to basic concepts and techniques in computervision. This includes low-level operations such as image filtering and edge detection, 3D reconstruction of scenes using st",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC430",
+      "title": "Introduction to Compilers",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Topics include lexical analysis, parsing, intermediate representations, program analysis, optimization, and code generation.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC433",
+      "title": "Programming Language Technologies and Paradigms",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.Restriction:Permission of CMNS-Computer Science department. Programming language technologies (e.g., object-oriented programming), their implementations and use in software design and implementation.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC434",
+      "title": "Introduction to Human-Computer Interaction",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Assess usability by quantitative and qualitative methods. Conduct task analyses, usability tests, expert reviews, and continuing assessments of working products by interviews, surveys, and logging. Apply design processes and guidelines to develop professional quality user interfaces. Build low-fidelity p",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC435",
+      "title": "Software Engineering",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (CMSC412, CMSC417, CMSC420, CMSC430, CMSC433, ENEE447); and permission of CMNS-Computer Science department. State-of-the-art techniques in software design and development. Laboratory experience in applying the techniques covered. Structured design, structured programming, top-down design and development, segmentation and modularization techniques, iterative enhancement, design and code inspection techniques, correctness, and chief-programmer ",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC436",
+      "title": "Programming Handheld Systems",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.Restriction:Permission of CMNS-Computer Science department. Fundamental principles and concepts that underlie the programming of handheld systems, such as mobile phones, personal digital assistants, and tablet computers. Particular emphasis will be placed on concepts such as limited display size, power, memory and CPU speed; and new input modalities, where",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC451",
+      "title": "Design and Analysis of Computer Algorithms",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program. Fundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their complexity. General topics include graph algorithms, basic algorithm design paradigms (such as greedy algorithms, divide-and-conquer, and dynamic programming), network flows, NP-completeness, and other ",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC454",
+      "title": "Algorithms for Data Science",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351.Restriction:Permission of CMSC-Computer Science department. Fundamental methods for processing a high volume of data. Methods include stream processing, locally sensitive hashing, web search methods, page rank computation, network and link analysis, dynamic graph algorithms as well as methods to handle high dimensional data/dimensionality reduction.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC456",
+      "title": "Cryptography",
+      "credits": 3,
+      "description": "Prerequisite:(CMSC106, CMSC131, or ENEE150; or equivalent programming experience); and (2 courses from (CMSC330, CMSC351, ENEE324, or ENEE382); or any one of these courses and a 400-level MATH course, or two 400-level MATH courses); and Permission of CMNS-Mathematics department or permission of  instructor.Cross-listed with:MATH456, ENEE456.Credit only granted for:MATH456, CMSC456 or ENEE456. The theory, application, and implementation of mathematical techniques used to secure modern communicati",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC460",
+      "title": "Computational Methods",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (CMSC106, CMSC131); and 1 course with a minimum grade of C- from (MATH246, MATH341).Cross-listed with:AMSC460.Credit only granted for:AMSC460, AMSC466, CMSC460, or CMSC466. Basic computational methods for interpolation, least squares, approximation, numerical quadrature, numerical solution of polynomial an",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC466",
+      "title": "Introduction to Numerical Analysis I",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (CMSC106, CMSC131); and minimum grade of C- in MATH410.Cross-listed with:AMSC466.Credit only granted for:AMSC460, CMSC460, AMSC466, or CMSC466. Floating point computations, direct methods for linear systems, interpolation, solution of nonlinear equations.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC470",
+      "title": "Introduction to Natural Language Processing",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC320, CMSC330, and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461, ENEE290).Restriction:Permission of CMNS-Computer Science department. Introduction to fundamental techniques for automatically processing and generating natural language with computers. Machine learning techniques, models, and algorithms that enable computers to deal with the ambiguity and implicit structure of natural language. Application of these technique",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC471",
+      "title": "Introduction to Data Visualization",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science Department.Restriction:Permission of the CMNS-Computer Science Department.Credit only granted for:CMSC471 or CMSC498O.Formerly:CMSC498O. Datasets are becoming increasingly large and complex, requiring intuitive ways to explore and interpret them quickly and efficiently. In this case, a picture is worth a thousand words: visualizations enable us to transform data into images that are easier to underst",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC473",
+      "title": "Capstone in Machine Learning",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- or higher in CMSC421 or CMSC422.Recommended:Background or exposure to machine learning topics is strongly encouraged.Restriction:Permission of instructor and Permission of CMSC - Computer Science department.Credit only granted for:CMSC498P or CMSC473.Formerly:CMSC498P.Additional information:Students will be paired with project advisors from the UMD faculty or alternatively, an industry advisor. Students are encouraged to plan for projects results that can be publ",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC474",
+      "title": "Introduction to Computational Game Theory",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.Credit only granted for:CMSC474, ECON414, GVPT390 or GVPT399A. Game theory deals with interactions among agents (either human or computerized) whose objectives and preferences may differ from the objectives and preferences of the other agents. It will also provide a comprehensive introduction to game theo",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC475",
+      "title": "Combinatorics and Graph Theory",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340). And permission of CMNS-Computer Science department; or permission of CMNS-Mathematics department.Cross-listed withMATH475 . General enumeration methods, difference equations, generating functions. Elements of graph theory, matrix representations of graphs, applications of graph theory to transport networks, matching theory and graphical algorithms.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC498A",
+      "title": "Selected Topics in Computer Science",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC498B",
+      "title": "Selected Topics in Computer Science; Cloud Computing",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC498J",
+      "title": "Selected Topics in Computer Science; Human-Robot Interaction, Device Prototyping, and Embodied AI",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC498K",
+      "title": "Selected Topics in Computer Science; Introduction to Multimodal Deep Learning",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC498Z",
+      "title": "Selected Topics in Computer Science; Differentiable Programming for Agentic AI and Physical Intelligence",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC499A",
+      "title": "Independent Undergraduate Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC616",
+      "title": "Foundations of Parallel Computing",
+      "credits": 3,
+      "description": "Prerequisite:CMSC411 and CMSC412; or permission of instructor.Restriction:Must be in the Computer Science or Applied Mathematics and Scientific Computation master's or doctoral programs.Credit only granted for:CMSC616 or CMSC818X.Formerly:CMSC818X. Covers the foundations of parallel computing. Topics include programming for shared memory and distributed memory parallel architectures, and fundamental issues in design, development and analysis of parallel programs.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC631",
+      "title": "Program Analysis and Understanding",
+      "credits": 3,
+      "description": "Prerequisite:CMSC330; or students who have taken courses with comparable content may contact the department; or permission of instructor. Techniques for static analysis of source code and modern programming paradigms. Analysis techniques: data flow analysis, program dependence graphs, program slicing, abstract interpretation. The meaning of programs: denotational semantics, partial evaluation. Advanced treatment of abstraction mechanisms: polymorphic types, operation overloading, inheritance, ob",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC634",
+      "title": "Empirical Research Methods for Computer Science",
+      "credits": 3,
+      "description": "Recommended:An introductory statistics class.Restriction:Must be in Computer Science (Master's) program; or must be in Computer Science (Doctoral) program; or permission of instructor.Credit only granted for:CMSC838G (Fall2005) or CMSC634. A graduate-level introductory course on empirical reseach methods for computer scientists. Experimental techniques for evaluating software systems and processes, human performance using interfaces, programming environments, and software engineering methods. In",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC657",
+      "title": "Introduction to Quantum Information Processing",
+      "credits": 3,
+      "description": "Prerequisite:Familiarity with complex numbers and basic concepts in linear algebra (e.g., eigenvalues, eigenvectors, Hermitian and unitary matrices) is required.Credit only granted for:CMSC657 or CMSC858K.Formerly:CMSC858K.Additional information:Previous background in quantum mechanics or theory of computation is not required. An introduction to the field of quantum information processing. Students will be prepared to pursue further study in quantum computing, quantum information theory, and rel",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC660",
+      "title": "Scientific Computing I",
+      "credits": 3,
+      "description": "Prerequisite:Must have knowledge of Matlab or Python.Cross-listed with:AMSC660.Credit only granted for:AMSC660 or CMSC660. Fundamental techniques in scientific computation with an introduction to theory and software for each topic. Computer numbers and sources of errors, numerical linear algebra, optimization, and Monte Carlo methods.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC673",
+      "title": "Capstone in Machine Learning",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C-in CMSC421 or CMSC422.Jointly offered with:CMSC473.Credit only granted for:CMSC673, CMSC798P, CMSC473, or CMSC498P.Formerly:CMSC798P. Semester-long project course in which each student will identify and carry out a project related to machine learning, with the goal of publishing a research paper or software tool.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC722",
+      "title": "Artificial Intelligence Planning",
+      "credits": 3,
+      "description": "Prerequisite:CMSC421; or students who have taken courses with comparable content may contact the department; or permission of CMNS-Computer Science department. Automated planning of actions to accomplish some desired goals. Basic algorithms, important systems, and new directions in the field of artificial intelligence planning systems.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC723",
+      "title": "Natural Language Processing",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in CMSC422; and permission of CMNS-Computer Science department.Cross-listed with:INST735, LING723.Credit only granted for:CMSC723, LING723, or INST735.Additional information:CMSC students may only receive PhD Comp. credit for CMSC723 or CMSC823, not both. Introduce fundamental concepts, techniques, and algorithms for the computational handling of natural language. Statistical and machine learning techniques, models, and algorithms that enable computers to deal wi",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC740",
+      "title": "Advanced Computer Graphics",
+      "credits": 3,
+      "description": "Prerequisite:MATH240 and CMSC420; or permission of instructor. An introduction to advanced concepts in computer graphics. Includes an introduction to realistic rendering based on physical properties of light transport, radiometric concepts, and the rendering equation; Monte Carlo integration techniques to solve the rendering equation such as path tracing and multiple importance sampling; and neural network techniques for efficient sampling and denoising. Further discusses recent advances in 3D m",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC798",
+      "title": "Master's Non-Thesis Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC799",
+      "title": "Master's Thesis Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC801",
+      "title": "Department Internal Research Seminar",
+      "credits": 1,
+      "description": "Credit only granted for:CMSC798E or CMSC801.Formerly:CMSC798E. Research overviews from faculty to help introduce departmental research to graduate students.",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC818I",
+      "title": "Advanced Topics in Computer Systems; Large Language Models, Security, and Privacy",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC818J",
+      "title": "Advanced Topics in Computer Systems; Domain Specific Architecture",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC818T",
+      "title": "Advanced Topics in Computer Systems; Applied Cryptographic Systems and Privacy Enhancing Technologies.",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC818V",
+      "title": "Advanced Topics in Computer Systems; Machine Learning for Physical Sensing and Perception",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC828J",
+      "title": "Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC828V",
+      "title": "Advanced Topics in Information Processing; Numerical Methods for Data Science and Machine Learning",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC838B",
+      "title": "Advanced Topics in Programming Languages; Differentiable Programming for Agentic AI and Physical Intelligence",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC838L",
+      "title": "Advanced Topics in Programming Languages; Programming Languages and Computer Architecture",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC839A",
+      "title": "Advanced Topics in Human-Computer Interaction; Embodied Media Design",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC839C",
+      "title": "Advanced Topics in Human-Computer Interaction; Governing Algorithms & Algorithmic Governance",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC839E",
+      "title": "Advanced Topics in Human-Computer Interaction; Uncertainty Communication for Decision-Making",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848B",
+      "title": "Selected Topics in Information Processing; Computational Imaging",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848I",
+      "title": "Selected Topics in Information Processing; AI Agents and Sequential Decision Making",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848K",
+      "title": "Selected Topics in Information Processing; Multimodal Foundation Models",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848N",
+      "title": "Selected Topics in Information Processing; Generative AI Agents",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848P",
+      "title": "Selected Topics in Information Processing; Machine Learning Theory",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848R",
+      "title": "Selected Topics in Information Processing; Language Model Interpretability",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC848W",
+      "title": "Selected Topics in Information Processing; Foundations of Interpretable Artificial Intelligence",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC858J",
+      "title": "Advanced Topics in Theory of Computing; Algorithmic Game Theory",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC898",
+      "title": "Pre-Candidacy Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    },
+    {
+      "code": "CMSC899",
+      "title": "Doctoral Dissertation Research",
+      "credits": 6,
+      "description": "",
+      "geneds": [],
+      "department": "CMSC"
+    }
+  ]
+}

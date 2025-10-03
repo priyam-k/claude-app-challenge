@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T16:55:31.137143",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Maksym Morawski",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "MMH 1400",
+      "open_seats": 0,
+      "total_seats": 120
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Maksym Morawski",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 220
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Fardina Alam",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 254
+    }
+  ]
+}

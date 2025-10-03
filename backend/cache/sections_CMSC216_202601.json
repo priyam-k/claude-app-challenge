@@ -1,0 +1,140 @@
+{
+  "cached_at": "2025-10-03T17:13:23.525376",
+  "data": [
+    {
+      "section_id": "0202",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0203",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0204",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0205",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0206",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0207",
+      "instructor": "Christopher Kauffman",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "SKN 0200",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "CSI 1115",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0302",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "CSI 1115",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0303",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "CSI 1115",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0304",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "CSI 1115",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0403",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0404",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 30,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0405",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 29,
+      "total_seats": 29
+    },
+    {
+      "section_id": "0406",
+      "instructor": "Larry Herman",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "IRB 0324",
+      "open_seats": 30,
+      "total_seats": 30
+    }
+  ]
+}

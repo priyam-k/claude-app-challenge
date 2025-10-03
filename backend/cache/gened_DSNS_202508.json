@@ -1,0 +1,560 @@
+{
+  "cached_at": "2025-10-03T17:49:50.803095",
+  "data": [
+    {
+      "code": "AOSC123",
+      "title": "Causes and Consequences of Global Change",
+      "credits": 3,
+      "description": "Cross-listed with: GEOL123. Credit only granted for: AOSC123, GEOG123, or GEOL123. Study of the major components of Earth's climate system and climate change history. Discussion of 21st century climate change prediction, mitigation and adaptation efforts.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "AOSC"
+    },
+    {
+      "code": "AOSC200",
+      "title": "Weather and Climate",
+      "credits": 3,
+      "description": "Prerequisite: MATH107, MATH110, or MATH115. Recommended: Concurrent enrollment in AOSC201. What are weather and climate? Most people think they know but if you ask people to explain the differences and similarities you're bound to get a range of answers. Weather affects not just our daily activities but other important aspects of society such as transportation, commerce, security and agriculture. Most people understand what weather is to some extent. Climate and climate change are concepts that ",
+      "geneds": [
+        "DSNL",
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "AOSC"
+    },
+    {
+      "code": "AOSC375",
+      "title": "Introduction to the Blue Ocean",
+      "credits": 3,
+      "description": "Prerequisite: MATH120 or higher. Recommended: MATH121, MATH141, PHYS161, or PHYS171. Cross-listed with: GEOL375. Credit only granted for: AOSC375 or GEOL375. The global ocean is a major component of the Earth System that shapes life on earth, including our weather and climate.  We explore the observation-based interdisciplinary science of oceanography, identifying its strong connections to related sciences like meteorology, and geography.  We apply this developing understanding to environmental ",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "AOSC"
+    },
+    {
+      "code": "AREC200",
+      "title": "The Chesapeake Bay Ecosystem: Intersection of Science, Economics, and Policy",
+      "credits": 3,
+      "description": "The Chesapeake Bay is one of the most studied and monitored ecosystems in the world. To develop effective policies to restore this system to a healthier status requires integrating what we know about the biological and physical properties of the system with our understanding of the human dimension. Issues such as achieving nutrient reduction goals, restoring healthy blue crab and oyster fisheries in the bay will be used to demonstrate how economics interacts with science to guide policies that c",
+      "geneds": [
+        "DSNS",
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "ASTR100",
+      "title": "Introduction to Astronomy",
+      "credits": 3,
+      "description": "Credit only granted for: ASTR100, ASTR101, or ASTR120. Take a tour of the universe!  This course wanders through the night sky, learning about phases of the Moon and eclipses, and then stops by the different planets, moons, and small bodies within our solar system.  After that, it's on to bigger things, with stops by the Sun and other stars, learning about how they live and die - possibly in supernovae! - before exploring the weird objects left behind, such as neutron stars and black holes.  All",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR120",
+      "title": "Introductory Astrophysics - Solar System",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in MATH140. Restriction: Must not have completed ASTR101 or ASTR100. Credit only granted for: ASTR100, ASTR101, or ASTR120. For students majoring in astronomy or with a strong interest in science. Topics include development of astronomy, planetary orbits, electromagnetic radiation, telescopes as well as constituents and origin of the solar system (planets, satellites, comets, asteroids, meteoroids, etc.).",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR230",
+      "title": "The Science and Fiction of Planetary Systems",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH115 or higher; or MATH113. Have you ever wondered if humans will ever terraform Mars or Europa so we could live there without a spacesuit? Has it ever crossed your mind how lucky you are that you live on a water-rich planet with an oxygen-rich atmosphere? Have you ever suspected novelists and scriptwriters of creating ridiculous planets that violate scientific laws? Does the fate of our planet's thin biosphere keep you up at night? How common is li",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR330",
+      "title": "Solar System Astronomy",
+      "credits": 3,
+      "description": "Prerequisite: ASTR100 or ASTR101; and completion of the CORE Distributive Studies requirement in Mathematics and Sciences or the General Education Fundamental Studies requirement in Mathematics. Or permission of CMNS-Astronomy department. Credit only granted for: ASTR330 or GEOL212. Designed primarily for non-science majors. The structure of planets and of their atmospheres, the nature of comets, asteroids, and satellites. Comparison of various theories for the origin of the solar system. Emphas",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR340",
+      "title": "Origin of the Universe",
+      "credits": 3,
+      "description": "Prerequisite: ASTR100 or ASTR101; and completion of the CORE Distributive Studies requirement in Mathematics and Sciences or General Education Fundamental Studies requirement in Mathematics. Or permission of CMNS-Astronomy department. Designed primarily for non-science majors. A study of our progression of knowledge about the universe. Topics include: early cosmological models, geocentric vs. heliocentric theory, curvature of space, Hubble's Law, Big Bang Theory, microwave background radiation, ",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR350",
+      "title": "Black Holes",
+      "credits": 3,
+      "description": "Prerequisite: ASTR100 or ASTR101; and completion of the CORE Distributive Studies requirement in Mathematics and Sciences or General Education Fundamental Studies requirement in Mathematics. Or permission of CMNS-Astronomy department. Credit only granted for: ASTR398B or ASTR350. Formerly: ASTR398B. Black holes are the most exotic prediction of Einstein's Theory of General Relativity and, amazingly, the Universe seems to manufacture these bizarre objects in copious numbers.  As well as being the",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "ASTR380",
+      "title": "Life in the Universe - Astrobiology",
+      "credits": 3,
+      "description": "Designed primarily for non-science majors. Study of the astronomical perspective on the conditions for the origin and existence of life in the universe.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ASTR"
+    },
+    {
+      "code": "BSCI151",
+      "title": "Beyond Race: Human Biological Diversity",
+      "credits": 3,
+      "description": "Credit only granted for: BSCI189I, BSCI150 or BSCI151. Formerly: BSCI150. Do racial labels have any practical use in understanding human biological diversity?  Such categorizations are inextricably linked to racism, including a history of misuse in science going back hundreds of years, yet modern biological research and medicine often include the use of race.  At its core, addressing this question requires understanding the balance between genetic and non-genetic factors underlying human diversi",
+      "geneds": [
+        "DSNS",
+        "DSSP",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI160",
+      "title": "Principles of Ecology and Evolution",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Recommended: For Science majors. Credit only granted for: BSCI106 or BSCI160. Formerly: BSCI106. Basic principles of biology with special emphasis on  ecological and evolutionary biology.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI170",
+      "title": "Principles of Molecular & Cellular Biology",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Recommended: For Science majors. Credit only granted for: BSCI105 or BSCI170. Formerly: BSCI105. Basic principles of biology with special emphasis on cellular and molecular biology.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSCI213",
+      "title": "The Public Microbe",
+      "credits": 3,
+      "description": "Credit only granted for: BSCI213 or BSCI223. How are microbes essential for human health yet cause so much disease? This course covers basic concepts in microbiology as they relate to human- microbe interactions by surveying the diversity of microbial life, the role our resident microbiota play in human health, modes of disease tracking, and prophylactic and therapeutic measures designed to control the spread of infectious disease.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "BSST240",
+      "title": "Understanding The Principles and Perils of CBRN Weapons",
+      "credits": 3,
+      "description": "Additional information: If taken in the same term as BSST241 these courses will count for General Education Natural Sciences Lab. Explores the 'dark side' of scientific applications. Students will gain an understanding of CBRN Weapons, through the exploration of the scientific method, and certain fundamental principles of chemistry, biology, and physics. Students will also learn how to test hypotheses, use basic statistics, interpret results, and apply their new knowledge through discussions of ",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "BSST"
+    },
+    {
+      "code": "CHBE102",
+      "title": "Coffee BEANS: Brewing Engineering and Analysis for Nurturing Sustainability",
+      "credits": 3,
+      "description": "In this interdisciplinary course, students will explore the intricate journey of making one of the world's most-consumed beverage through the combined lens of sustainability and engineering. We will address the critical question: How sustainable is a daily cup of coffee? The course will begin with an overview of coffee production, from cultivation to consumption, examining energy targets, water usage, waste practices, and the environmental impact of coffee farming. Instruction in lectures will p",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "CHBE"
+    },
+    {
+      "code": "CHEM131",
+      "title": "Chemistry I - Fundamentals of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM132. Recommended: For Science majors. Credit only granted for: CHEM103, CHEM131, CHEM135, CHEM153 or CHEM146. Formerly: CHEM103. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM131 is the first course in a four-semester sequence for students majoring in the sciences, other than Chemistry and Bioche",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM135",
+      "title": "General Chemistry for Engineers",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Credit only granted for: CHEM103, CHEM113, CHEM131, CHEM135, or CHEM146. The nature and composition of matter, solutions, chemical reactions, equilibria, and electrochemistry, with applications to various fields of engineering.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM146",
+      "title": "Principles of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH140 or higher. Corequisite: CHEM177. Restriction: Must be in one of the following programs (Chemistry; Biochemistry). Credit only granted for: CHEM103, CHEM131, CHEM135, CHEM143, or CHEM146. Formerly: CHEM143. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM146 is the first course in a four-semester sequence for Chemistry and Bio",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "ENSP101",
+      "title": "Introduction to Environmental Science",
+      "credits": 3,
+      "description": "One of two required courses that introduce students to the topics studied and methods employed in environmental science and policy. Emphasis on scientific ways of knowing; the systems, cycles, flows, and interfaces that characterize the atmosphere, lithosphere, hydrosphere, and biosphere; the analysis of human impacts on these systems; and the nature of scientific uncertainty and methods of quantifying environmental processes.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ENSP"
+    },
+    {
+      "code": "ENST115",
+      "title": "Bats in Society: Human-Wildlife Relationships, Conflicts, & Solutions",
+      "credits": 3,
+      "description": "Credit only granted for: ENST115 or ENST215. Formerly: ENST215. Additional information: Students should expect to spend 1-3 hours across multiple nights deploying bat detectors (which will be provided by the instructor) at a location of their choosing. Safety protocols will be discussed and implemented. How might an understanding of human-wildlife conflicts shape our approach to disease, ecology, and conservation? Should we care that we are losing wildlife, like bats? Across the globe, human soc",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "ENST"
+    },
+    {
+      "code": "ENST233",
+      "title": "Introduction to Environmental Health",
+      "credits": 4,
+      "description": "Examines how humans are affected by the quality of our air, water, soil and food supply as well as how human activities alter these survival necessities.  Students will learn how the evolution and prosperity of human populations have resulted in degradation of our environment and the impact of environmental degradation on the health of people.  The implications of individual and collective choices for sustainable food production, population management, and resource utilization will be explored.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "ENST"
+    },
+    {
+      "code": "GEOG140",
+      "title": "Natural Disasters: Earthquakes, Floods, and Fires",
+      "credits": 3,
+      "description": "Catastrophic Environmental Events (CCE) that are becoming more common in this time of global environmental change and it is essential that today's students be equipped with the knowledge and skills to be leaders as we, as a society, understand the upheaval that these CCEs are causing. Students will examine how CEEs shape human society and ecosystem from the interdisciplinary perspective afforded by the field of Geography. Students will use the latest geographic science concepts and techniques in",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GEOG170",
+      "title": "Mapping our Digital World",
+      "credits": 3,
+      "description": "Introduction to technical methods used in gathering, analyzing, and mapping geospatial information for applications such as urban mobility, environmental monitoring, situational awareness, and disaster management. Topics include Geographic Information Systems (GIS), cartography, map projections, satellite and airborne remote sensing, the global positioning system (GPS), and introductory statistics and probability. The course is a gateway to more advanced technical classes in geospatial science.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GEOG172",
+      "title": "Earth From Space",
+      "credits": 3,
+      "description": "Earth observations from space enable the mapping and monitoring of our changing planet.  This survey course reviews current observational capabilities and examines scientific applications in quantifying global environmental change. Drivers and outcomes of key dynamics will be illustrated and discussed, including sea and continental ice loss, deforestation, ocean warming, urbanization, agricultural expansion and intensification, and vegetation response to climate change.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GEOL100",
+      "title": "Physical Geology",
+      "credits": 3,
+      "description": "Credit only granted for: GEOL100 or GEOL120. Additional information: CORE Distributive Studies Physical Science Laboratory Course only when taken concurrently with GEOL 110. A general survey of the rocks and minerals composing the earth, its surface features and the agents that form them, and the dynamic forces of plate tectonics.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL104",
+      "title": "Dinosaurs: A Natural History",
+      "credits": 3,
+      "description": "Dinosaurs, their evolution, and our understanding of their fossil record. Students will examine the geologic record and the tools used by paleontologists to determine: geologic ages and ancient environments; evolutionary history and extinctions; dinosaurian biology and behavior; and their survival as birds. Mechanisms of global change ranging from plate tectonics to asteroid impact will be discussed.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL120",
+      "title": "Environmental Geology",
+      "credits": 3,
+      "description": "Credit only granted for: GEOL100 or GEOL120. A review of geologic factors underlying many environmental problems and the interactions between population and physical environment: geologic hazards, land-use planning, conservation, mineral resources, waste disposal, land reclamation, and the geologic aspects of health and disease. The course is aimed at lower division students in education and liberal arts, and should be useful to any student concerned with geologic perspectives of environmental p",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL123",
+      "title": "Causes and Consequences of Global Change",
+      "credits": 3,
+      "description": "Cross-listed with: AOSC123. Credit only granted for: AOSC123, GEOG123, or GEOL123. Study of the major components of Earth's climate system and climate change history. Discussion of 21st century climate change prediction, mitigation and adaptation efforts.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL200",
+      "title": "Earth's Fury: Earthquakes, Volcanoes, and Tsunami",
+      "credits": 3,
+      "description": "Earthquakes, volcanic eruptions, and tsunami frequently remind us of the dangers associated with living on a constantly changing planet. How do people prepare for these rare but dramatic events? Student will study the science behind earthquakes and volcanoes, how it guides monitoring, forecasting, prevention, and response, and the cultural and ethical aspects of these events.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL212",
+      "title": "Planetary Geology",
+      "credits": 3,
+      "description": "Credit only granted for: ASTR330 or GEOL212. An examination of the geologic and geochemical processes at work in the solar system from the perspectives supplied by space age exploration of the planets and other solar system bodies.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "GEOL375",
+      "title": "Introduction to the Blue Ocean",
+      "credits": 3,
+      "description": "Prerequisite: MATH120 or higher. Recommended: MATH121, MATH141, PHYS161, or PHYS171. Cross-listed with: AOSC375. Credit only granted for: AOSC375 or GEOL375. The global ocean is a major component of the Earth System that shapes life on earth, including our weather and climate.  We explore the observation-based interdisciplinary science of oceanography, identifying its strong connections to related sciences like meteorology, and geography.  We apply this developing understanding to environmental ",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "GEOL"
+    },
+    {
+      "code": "HLTH212",
+      "title": "Unraveling the Human Body: Anatomy and Physiology from a Public Health Perspective",
+      "credits": 4,
+      "description": "Prerequisite: BSCI170, BSCI171, and HLTH140. Restriction: Must be in the Public Health Practice program. Credit only granted for: BSCI201 or HLTH212. Focuses on human structure and function and provides a foundation for public health professionals by equipping them with an integrated understanding of the dynamic human body, its various biological processes, and associated diseases. The course begins at the simplest level of cellular organization and progresses to tissues, organs, and organ syste",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HNUH258C",
+      "title": "Nature at Risk: Extinction, Consequences, and Strategies",
+      "credits": 3,
+      "description": "How should we prioritize among all the species at risk of extinction? This course will grapple with the complex and consequential process of extinction from biological, geographical, and mathematical perspectives. Core themes will include the 1) nature(s) of extinction risks, 2) potential consequences of different kinds of extinction, and 3) considerations involved in setting priorities. Students will explore, handle, and analyze relevant data (e.g., evolutionary trees, species occurrence record",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "KNES226",
+      "title": "The Cybernetic Human",
+      "credits": 3,
+      "description": "Can the profound and rapid technological advances experienced in the 21st century change what it means to be human or the nature of humanity? Emergent technologies, new materials, increased computer power, engineering innovations, and groundbreaking work in the sciences of cognition and action provide myriad opportunities for repairing and enhancing the human body and brain. Examines the ethical, social, and technological implications of an increasing synergism of technology and the body in spor",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "KNES260",
+      "title": "Science of Physical Activity and Cardiovascular Health",
+      "credits": 3,
+      "description": "Course details (1) the public health importance of and the processes underlying cardiovascular disease, (2) the risk factors for cardiovascular disease and the methods whereby they were identified, and (3) the principles of the scientific evidence supporting the use of physical activity to prevent cardiovascular disease.",
+      "geneds": [
+        "DSNS",
+        "DSSP"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "NEUR200",
+      "title": "Introduction to Neuroscience",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in BSCI170 and BSCI171. Cross-listed with: PSYC202. Credit only granted for: PSYC309U, NEUR200, PSYC202 or PSYC301. Formerly: PSYC309U. In an evolutionary sense, the job of the nervous system is to produce, control, and coordinate behaviors that help an animal survive and reproduce. Neuroscience is the study of how the nervous system does that. Provides a broad introduction to neuroscience, always keeping the behavioral consequences in view.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "NEUR"
+    },
+    {
+      "code": "NFSC100",
+      "title": "Elements of Nutrition",
+      "credits": 3,
+      "description": "Credit only granted for: KNES264, KNES289F or NFSC100. Fundamentals of human nutrition. Nutrient requirements related to changing individual and family needs.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "NFSC"
+    },
+    {
+      "code": "NFSC100H",
+      "title": "Elements of Nutrition",
+      "credits": 3,
+      "description": "Credit only granted for: KNES264, KNES289F or NFSC100. Fundamentals of human nutrition. Nutrient requirements related to changing individual and family needs.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "NFSC"
+    },
+    {
+      "code": "NFSC112",
+      "title": "Food: Science and Technology",
+      "credits": 3,
+      "description": "Introduction to the realm of food science, food technology and food processing. An overview of the largest industry in the U.S. with emphasis on the science of food and the technology of food preservation from harvest through processing and packaging to distribution and consumer utilization.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "NFSC"
+    },
+    {
+      "code": "PHYS105",
+      "title": "A Global Challenge: Energy and Climate Change",
+      "credits": 3,
+      "description": "Additional information: This course is aimed at the non-science major. How will the world address the energy needs of a growing population and its impact on climate change? This class will explore potential solutions to mitigate our atmospheric impact, including technological innovations and policy measures. Additionally, we will analyze the roles of economics, government, and industry in shaping our responses within the context of modern science.",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS161",
+      "title": "General Physics: Mechanics and Particle Dynamics",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in MATH141. Credit only granted for: PHYS141, PHYS161, or PHYS171. Additional information: General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three-semester calculus-based general physics course. Laws of motion, force, and energy; principles of mechanics, collisions, linear momentum, rotation, and gravitation.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS171",
+      "title": "Introductory Physics: Mechanics",
+      "credits": 3,
+      "description": "Prerequisite: MATH140; or permission of CMNS-Physics department. Credit only granted for: PHYS141, PHYS161, or PHYS171. Additional information: General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three semester sequence for physics majors and those desiring a rigorous preparation in the physical sciences: kinematics, Newton's laws, energy and work, linear and angular momenta.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS171H",
+      "title": "Introductory Physics: Mechanics",
+      "credits": 3,
+      "description": "Prerequisite: MATH140; or permission of CMNS-Physics department. Credit only granted for: PHYS141, PHYS161, or PHYS171. Additional information: General Education Natural Sciences Lab (DSNL) Course only when taken concurrently with PHYS275. First semester of a three semester sequence for physics majors and those desiring a rigorous preparation in the physical sciences: kinematics, Newton's laws, energy and work, linear and angular momenta.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS235",
+      "title": "The Manhattan Project",
+      "credits": 3,
+      "description": "Recommended: Students should be comfortable standard high school algebra II. Credit only granted for: PHYS199M or PHYS235. Formerly: PHYS199M. Introduction to some critical ideas of nuclear physics and a review of some key historical developments starting at the end of the 19th century.  Chronological development of nuclear physics from the discovery of radioactivity by Becquerel in 1896 through to the discovery of fission in Germany in 1938 followed by an examination of the programs to develop ",
+      "geneds": [
+        "DSHS",
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS272",
+      "title": "Introductory Physics: Fields",
+      "credits": 3,
+      "description": "Prerequisite: PHYS161 or PHYS171; and MATH141; and must have completed or be concurrently enrolled in MATH241. Credit only granted for: PHYS142, PHYS260, or PHYS272. Second semester of a calculus based general physics course. Universal gravitation, electric and magnetic fields and potentials, simple circuits, Maxwell's equations in integral form. Continues the application of mathematics to conceptual models, now with more abstract components.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PHYS272H",
+      "title": "Introductory Physics: Fields",
+      "credits": 3,
+      "description": "Prerequisite: PHYS161 or PHYS171; and MATH141; and must have completed or be concurrently enrolled in MATH241. Credit only granted for: PHYS142, PHYS260, or PHYS272. Second semester of a calculus based general physics course. Universal gravitation, electric and magnetic fields and potentials, simple circuits, Maxwell's equations in integral form. Continues the application of mathematics to conceptual models, now with more abstract components.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PLSC115",
+      "title": "How Safe is Your Salad? The Microbiological Safety of Fresh produce",
+      "credits": 3,
+      "description": "Recommended: PLSC110 and PLSC111; or (PLSC112 and PLSC113); or BSCI105; or (BSCI170 and BSCI171). As food is produced in larger quantities and made to travel longer distances, keeping our food safe in this day and age is an ever growing challenge. This course will focus on the question of what it takes to grow and maintain safe fruits and vegetables, as food travels along the path from the farm to your fork. Food safety of fresh produce will be discussed from the public health, agricultural, eco",
+      "geneds": [
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "PLSC"
+    },
+    {
+      "code": "PLSC203",
+      "title": "Plants, Genes and Biotechnology",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in BSCI103; or minimum grade of C- in BSCI170 and BSCI171. An overview of the history, genetics, and reproductive mechanisms for agronomic and horticultural plants that examines mechanisms of genetic improvement ranging from traditional plant breeding to tissue culture and genetic engineering. Social and political issues such as germplasm preservation and international intellectual property rights will also be discussed.",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "PLSC"
+    },
+    {
+      "code": "PSYC100",
+      "title": "Introduction to Psychology",
+      "credits": 3,
+      "description": "A basic introductory course intended to bring the student into contact with the major problems confronting psychology and the more important attempts at their solution.",
+      "geneds": [
+        "DSHS",
+        "DSNS"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "PSYC304",
+      "title": "Biological Psychology",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100, BSCI170 and BSCI171; or equivalent. Credit only granted for: PSYC301 or PSYC304. Formerly: PSYC301. Biological Psychology is the study of the physiological basis of behavior. In this course, we will first cover the basic principles of brain organization and neural transmission. We will then introduce traditional and modern research techniques in the field of behavioral neuroscience.  The last portion of the course focuses on specific topics including psychopharmacology, le",
+      "geneds": [
+        "DSNS"
+      ],
+      "department": "PSYC"
+    }
+  ]
+}

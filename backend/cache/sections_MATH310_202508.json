@@ -1,0 +1,23 @@
+{
+  "cached_at": "2025-10-03T17:34:16.123739",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Kathryn Truman",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "PHY 2106",
+      "open_seats": 0,
+      "total_seats": 45
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Kaitlyn Loyd",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "PHY 2106",
+      "open_seats": 1,
+      "total_seats": 35
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "cached_at": "2025-10-03T16:58:57.806284",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Jonathan Fernandes",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "HJP 0226",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Jonathan Fernandes",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "HJP 0226",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Jonathan Fernandes",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "HJP 0226",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Jonathan Fernandes",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "HJP 0226",
+      "open_seats": 1,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0222",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0251",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0261",
+      "instructor": "Kendall Williams",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0311",
+      "instructor": "Shin Song",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0321",
+      "instructor": "Shin Song",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0331",
+      "instructor": "Shin Song",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "ARM 0135",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0341",
+      "instructor": "Shin Song",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0411",
+      "instructor": "Roohollah Ebrahimian",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 1,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0412",
+      "instructor": "Kyle Kawagoe",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0421",
+      "instructor": "Roohollah Ebrahimian",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 6,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0422",
+      "instructor": "Roohollah Ebrahimian",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0431",
+      "instructor": "Roohollah Ebrahimian",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0441",
+      "instructor": "Roohollah Ebrahimian",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "HJP 0226",
+      "open_seats": 2,
+      "total_seats": 33
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Foivos Chnaras",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "MTH 0405",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Weimin Jiang",
+      "days": "MWTh",
+      "time": "3:00pm-4:15pm",
+      "location": "MTH 0402",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "David Pincus",
+      "days": "MWTh",
+      "time": "4:30pm-5:45pm",
+      "location": "PHY 2124",
+      "open_seats": 11,
+      "total_seats": 24
+    },
+    {
+      "section_id": "0101",
+      "instructor": "Kyle Kawagoe",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "MTH 1311",
+      "open_seats": 1,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Ariel Rosenfield",
+      "days": "MF",
+      "time": "1:00pm-1:50pm",
+      "location": "ATL 1114",
+      "open_seats": 3,
+      "total_seats": 20
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cached_at": "2025-10-03T16:55:37.149932",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Justin Wyss-Gallifent",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 200
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Clyde Kruskal",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "IRB 1116",
+      "open_seats": 7,
+      "total_seats": 90
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Ting Jiang",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "IRB 0324",
+      "open_seats": 0,
+      "total_seats": 200
+    }
+  ]
+}

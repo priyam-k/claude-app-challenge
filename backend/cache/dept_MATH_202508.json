@@ -1,0 +1,687 @@
+{
+  "cached_at": "2025-10-03T16:11:26.368738",
+  "data": [
+    {
+      "code": "MATH003",
+      "title": "Developmental Mathematics",
+      "credits": 3,
+      "description": "A review of Intermediate High School Algebra intended for students preparing for one of the credit bearing Fundamental Studies Math Courses. It is taught in special computer labs using a self-paced computer program. The curriculum will be geared toward the student's level of algebra skills and eventual goals. There is a special fee for the course that may be applied in addition to the regular tuition charge. Students should refer to the schedule of classes for details on fees as they apply to a ",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH007",
+      "title": "Algebra for MATH 107",
+      "credits": 3,
+      "description": "A review of Intermediate High School Algebra intended for students preparing for MATH107. It is taught 3 days per week for the first 3 weeks, then leads directly into a special section of MATH107, the same semester, which also meets 3 days per week. Continuation in MATH107 is conditional on the student passing the MATHEMATICS PLACEMENT EXAM at the appropriate level. Topics include linear equations, linear inequalities, operations on polynomials, factoring, solutions of quadratic equations, as we",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH013",
+      "title": "Algebra for MATH 113",
+      "credits": 3,
+      "description": "A review of Intermediate High School Algebra intended for students preparing for MATH113. It is taught 3 days per week for the first 3 weeks, then leads directly into a special section of MATH113, the same semester, which also meets 3 days per week. Continuation in MATH113 is conditional on the student passing the MATHEMATICS PLACEMENT EXAM at the appropriate level. Topics include exponents, polynomials, linear equations, quadratic equations, as well as polynomial, rational, exponential, and log",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH015",
+      "title": "Algebra for MATH 115",
+      "credits": 3,
+      "description": "A review of Intermediate High School Algebra intended for students preparing for MATH115. It is taught 3 days per week for the first 3 weeks, then leads directly into a special section of MATH115, the same semester, which also meets 3 days per week. Continuation in MATH115 is conditional on the student passing the MATHEMATICS PLACEMENT EXAM at the appropriate level. Topics include exponents, polynomials, linear equations in one and two variables, quadratic equations, as well as polynomial, ratio",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH107",
+      "title": "Introduction to Math Modeling and Probability",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH107 or higher; and math eligibility is based on Math Placement Exam or successful completion of MATH003 with appropriate eligibility.Restriction:Not open to students majoring in mathematics, engineering, business, life sciences, and the physical sciences; must not have completed STAT100, MATH113, MATH120, MATH135, MATH136 or MATH140 with a C- or better; must not have completed any MATH or STAT course with a prerequisite of MATH120, MATH136, or MATH1",
+      "geneds": [
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH113",
+      "title": "College Algebra and Trigonometry",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH113 or higher; and math eligibility is based on the Math Placement Exam or the successful completion of MATH 003 with appropriate eligibility.Restriction:Must not have completed MATH115, MATH120, MATH135, MATH136 or MATH140 with a grade of C- or higher; and must not have completed any course with a prerequisite of MATH120, MATH130, MATH136, or MATH140. Topics include elementary functions including graphs and applications of: polynomial, rational, ex",
+      "geneds": [
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH115",
+      "title": "Precalculus",
+      "credits": 3,
+      "description": "Prerequisite:Must have math eligibility of MATH115 or higher; and math eligibility is based on the Math Placement Exam or the successful completion of MATH003 with appropriate eligibility. Or MATH113.Restriction:Must not have completed MATH140 with a grade of C- or better; and must not have completed any MATH or STAT course with a prerequisite of MATH140 or MATH141. Preparation for MATH120, MATH135 or MATH140. Elementary functions and graphs: polynomials, rational functions, exponential and loga",
+      "geneds": [
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH120",
+      "title": "Elementary Calculus I",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH113, MATH115). Or must have math eligibility of MATH120 or higher; and math eligibility is based on the Math Placement Test.Restriction:Not open to students majoring in mathematics, engineering, the biological sciences, biochemistry, chemistry, or the physical sciences; Must not have completed MATH130, MATH136 or MATH140 with a grade of C- or higher.Formerly:MATH220. Basic ideas of differential and integral calculus, with emphasis on ele",
+      "geneds": [
+        "FSAR",
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH121",
+      "title": "Elementary Calculus II",
+      "credits": 3,
+      "description": "Prerequisite:MATH120, MATH130, MATH136, or MATH140.Restriction:Not open to students majoring in mathematics, engineering, the biological sciences, biochemistry, chemistry, or the physical sciences; Must not have completed MATH141 with a grade of C- or higher.Formerly:MATH221. Trigonometric functions, techniques of integration, infinite series, differential equations, probability.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH135",
+      "title": "Discrete Mathematics for Life Sciences",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH113 or MATH115; or must have math eligibility of MATH120 or higher; and math eligibility is based on the Math Placement Test.Restriction:Must be in the Biological Sciences or Neuroscience major; and not open to students majoring in mathematics, engineering, or the physical sciences. Basic discrete mathematics, with emphasis on relevant models and techniques to the life sciences.",
+      "geneds": [
+        "FSAR",
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH136",
+      "title": "Calculus for Life Sciences",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH135.Restriction:Must be in the Biological Sciences or Neuroscience major; Must not have completed MATH140 with a grade of C- or higher. Continuation of MATH135, including basic ideas of differential and integral calculus, with emphasis on elementary techniques and applications to the life sciences.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH140",
+      "title": "Calculus I",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH115. Introduction to calculus, including functions, limits, continuity, derivatives and applications of the derivative, sketching of graphs of functions, definite and indefinite integrals, and calculation of area. The course is especially recommended for science, engineering and mathematics majors.",
+      "geneds": [
+        "FSAR",
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH140H",
+      "title": "Calculus I",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH115. Introduction to calculus, including functions, limits, continuity, derivatives and applications of the derivative, sketching of graphs of functions, definite and indefinite integrals, and calculation of area. The course is especially recommended for science, engineering and mathematics majors.",
+      "geneds": [
+        "FSAR",
+        "FSMA"
+      ],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH141",
+      "title": "Calculus II",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH140. Continuation of MATH140, including techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH141H",
+      "title": "Calculus II",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH140. Continuation of MATH140, including techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH206",
+      "title": "Introduction to Matlab",
+      "credits": 1,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH136, MATH140). This course is intended to prepare students for subsequent courses requiring computation with MATLAB. Covers basics of MATLAB including simple commands, variables, solving equations, graphing differentiation and integration, matrices and vectors, functions, M-files and fundamentals of programming in the MATLAB environment. When offered in Winter and Summer terms, the course is offered in a format suitable for online distan",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH212",
+      "title": "Elements of Numbers and Operations",
+      "credits": 3,
+      "description": "Prerequisite:Must have completed one year of college preparatory algebra.Restriction:Must be in one of the following programs (Early Childhood Education; Special Education; Elementary Education; Middle School Education). Reviews and extends topics of arithmetic and number theory related to the elementary school curriculum, particularly number systems and operations with natural numbers, integers, and rationals.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH213",
+      "title": "Elements of Geometry and Measurement",
+      "credits": 3,
+      "description": "Prerequisite:MATH212.Restriction:Must be in one of the following programs (Early Childhood Education; Special Education; Elementary Education; Middle School Education). Properties of geometric objects in two and three dimensions; parallel lines, curves and polygons; ratio, proportion, similarity; transformational geometry and measurement, constructions, justifications and proofs.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH214",
+      "title": "Elements of Probability and Statistics",
+      "credits": 3,
+      "description": "Prerequisite:MATH212.Restriction:Must be in one of the following programs (Early Childhood Education; Special Education; Elementary Education; Middle School Education). Permutations and combinations; probability; collecting and representing data; using statistics to analyze and interpret data.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH240",
+      "title": "Introduction to Linear Algebra",
+      "credits": 4,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH131, MATH141).Credit only granted for:MATH240, MATH341, or MATH461. Basic concepts of linear algebra: vector spaces, applications to line and plane geometry, linear equations and matrices, similar matrices, linear transformations, eigenvalues, determinants and quadratic forms.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH241",
+      "title": "Calculus III",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:MATH241 or MATH340. Introduction to multivariable calculus, including vectors and vector-valued functions, partial derivatives and applications of partial derivatives (such as tangent planes and Lagrange multipliers), multiple integrals, volume, surface area, and the classical theorems of Green, Stokes and Gauss.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH241H",
+      "title": "Calculus III",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:MATH241 or MATH340. Introduction to multivariable calculus, including vectors and vector-valued functions, partial derivatives and applications of partial derivatives (such as tangent planes and Lagrange multipliers), multiple integrals, volume, surface area, and the classical theorems of Green, Stokes and Gauss.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH243",
+      "title": "Introduction to Linear Algebra and Differential Equations",
+      "credits": 4,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:ENEE290 or MATH243.Additional information:Does not satisfy requirements for the Mathematics or Computer Science major. Does not satisfy prerequisite requirements for courses requiring MATH240 or MATH246. The basics of linear algebra and differential equations, with an emphasis on general physical and engineering applications. Aimed at students who need the material for future coursework but do not need as much depth and rigor as",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH246",
+      "title": "Differential Equations for Scientists and Engineers",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:MATH246 or MATH341. An introduction to the basic methods of solving ordinary differential equations. Equations of first and second order, linear differential equations, Laplace transforms, numerical methods and the qualitative theory of differential equations.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH246H",
+      "title": "Differential Equations for Scientists and Engineers",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:MATH246 or MATH341. An introduction to the basic methods of solving ordinary differential equations. Equations of first and second order, linear differential equations, Laplace transforms, numerical methods and the qualitative theory of differential equations.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH274",
+      "title": "History of Mathematics",
+      "credits": 3,
+      "description": "Prerequisite:MATH120, MATH130, MATH136, or MATH140; or must have completed MATH220. An overview of aspects in the history of mathematics from its beginning in the concrete problem solving of ancient times through the development of abstraction in the 19th and 20th centuries. The course considers both mathematical ideas and the context in which they developed in various civilizations around the world.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH299B",
+      "title": "Selected Topics in Mathematics; Putnam Express",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH310",
+      "title": "Introduction to Mathematical Proof",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141; and must have completed or be concurrently enrolled in MATH240, MATH341, or MATH461; and must have completed or be concurrently enrolled in MATH241 or MATH340.Restriction:Must be in a major within the CMNS-Mathematics department; or permission of the CMNS-Mathematics department.Additional information:Math majors may not use this course to satisfy an upper-level requirement. To develop the students' ability to construct a rigorous proof of a mathematic",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH312",
+      "title": "Mathematical Reasoning and Proof for Pre-Service Middle School Teachers",
+      "credits": 3,
+      "description": "Prerequisite:MATH212 and MATH213.Restriction:Must be in one of the following programs (Elementary Education; Special Education; Middle School Education). Reasoning and proof as addressed in the middle school curriculum. Topics include proportional reasoning, logic and proof, types of numbers, field axioms, Euclidean and non-Euclidean geometry.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH315",
+      "title": "Algebra for Preservice Middle School Teachers",
+      "credits": 3,
+      "description": "Prerequisite:MATH212.Restriction:Must be in one of the following programs (Elementary Education; Special Education; Middle School Education). Algebraic concepts and techniques developed in the middle grades, with their larger mathematical context. Equations, inequalities and functions (linear, polynomial, exponential, logarithmic), with multiple representations of relationships. Common misconceptions of beginning algebra students.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH340",
+      "title": "Multivariable Calculus, Linear Algebra and Differential Equations I (Honors)",
+      "credits": 4,
+      "description": "Prerequisite:MATH141 and MATH140; and permission of CMNS-Mathematics department; and permission will be granted only to incoming freshmen.Credit only granted for:MATH241 or MATH340. First semester of the MATH340-341 sequence which gives a unified and enriched treatment of multivariable calculus, linear algebra and ordinary differential equations, with supplementary material from subjects such as differential geometry, Fourier series and calculus of variations. Students completing MATH340-341 wil",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH386",
+      "title": "Experiential Learning",
+      "credits": 3,
+      "description": "Prerequisite:Must have learning proposal approved by the CMNS Mathematics Department.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH401",
+      "title": "Applications of Linear Algebra",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH461, MATH240, MATH341). Various applications of linear algebra: theory of finite games, linear programming, matrix methods as applied to finite Markov chains, random walk, incidence matrices, graphs and directed graphs, networks and transportation problems.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH402",
+      "title": "Algebraic Structures",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).Restriction:Must not be in any of the following programs (Mathematics (Master's); Mathematics (Doctoral)).Credit only granted for:MATH402 or MATH403. For students having only limited experience with rigorous mathematical proofs. Parallels MATH403. Students planning graduate work in mathematics should take MATH403. Groups, rings, integral domains and fields, detailed study of several groups; properties of integers a",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH403",
+      "title": "Introduction to Abstract Algebra",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH405 or MATH410).Credit only granted for:MATH402 or MATH403. Integers; groups, rings, integral domains, fields.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH405",
+      "title": "Linear Algebra",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and minimum grade of C- in MATH310. An abstract treatment of finite dimensional vector spaces. Linear transformations and their invariants.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH406",
+      "title": "Introduction to Number Theory",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH241, MATH246, MATH340, MATH341, MATH461); or permission of CMNS-Mathematics department. Integers, divisibility, prime numbers, unique factorization, congruences, quadratic reciprocity, Diophantine equations and arithmetic functions.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH407",
+      "title": "Advanced Number Theory",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH403. This course is aimed at math majors who want a theoretical number theory course beyond MATH 406. Topics will be chosen from finite fields, proof of quadratic reciprocity, Chevalley-Warning theorem on solutions to equations over finite fields, p-adic numbers, Hensel's lemma, Gaussian integers and quadratic fields, the theorem on sums of two squares and four squares, Hilbert symbol, quadratic forms over p-adic fields, Gauss's theorem on sum of three squ",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH410",
+      "title": "Advanced Calculus I",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH340, MATH241); and minimum grade of C- in MATH310. Subjects covered: sequences and series of numbers, continuity and differentiability of real-valued functions of one variable, the Riemann integral, sequences of functions and power series.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH411",
+      "title": "Advanced Calculus II",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH410; and permission of CMNS-Mathematics department. Continuation of MATH410. Topics include:  The topology of sets in Rn, the derivative matrix, the general chain rule, inverse and implicit function theorems with applications, smooth curves and surfaces in R3, Lagrange multipliers.  Additional topics may include:  Metric spaces, the contraction principle, the existence and uniqueness theorem for nonlinear first order differential equations, the Riemann int",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH416",
+      "title": "Applied Harmonic Analysis: An Introduction to Signal Processing",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141; and 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and familiarity with MATLAB is required. Introduces students to the mathematical concepts arising in signal analysis from the applied harmonic analysis point of view. Topics include applied linear algebra, Fourier series, discrete Fourier transform, Fourier transform, Shannon Sampling Theorem, wavelet bases, multiresolution analysis, and discrete wavelet transform.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH423",
+      "title": "Linear Optimization",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH401, MATH461, or MATH341).Credit only granted for:MATH423 or MATH498T.Formerly:MATH498T. Mathematical formulation of linear programming, graphical solutions, simplex method, duality, transportation problems, assignment problems, and game theory.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH424",
+      "title": "Introduction to the Mathematics of Finance",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141; and 1 course with a minimum grade of C- from (STAT400, STAT410); and permission of CMNS-Mathematics department.Recommended:MATH246, MATH240, MATH241, MATH340, or MATH341.Credit only granted for:BMGT444, MATH424. Introduction to the mathematical models used in finance and economics with emphasis on pricing derivative instruments. Designed for students in mathematics, computer science, engineering, finance and physics. Financial markets and instruments;",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH430",
+      "title": "Euclidean and Non-Euclidean Geometries",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH341, MATH461). Hilbert's axioms for Euclidean geometry. Neutral geometry: the consistency of the hyperbolic parallel postulate and the inconsistency of the elliptic parallel postulate with neutral geometry. Models of hyperbolic geometry. Existence and properties of isometries.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH431",
+      "title": "Geometry for Computer Applications",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH461, MATH240, MATH341). Topics from projective geometry and transformation geometry, emphasizing the two-dimensional representation of three-dimensional objects and objects moving about in the  plane and space.  The emphasis will be on formulas and algorithms of immediate use in computer graphics.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH432",
+      "title": "Introduction to Topology",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH410. Metric spaces, topological spaces, connectedness, compactness (including Heine-Borel and Bolzano-Weierstrass theorems), Cantor sets, continuous maps and homeomorphisms, fundamental group (homotopy, covering spaces, the fundamental theorem of algebra, Brouwer fixed point theorem), surfaces (e.g., Euler characteristic, the index of a vector field, hairy sphere theorem), elements of combinatorial topology (graphs and trees, planarity, coloring problems).",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH436",
+      "title": "Differential Geometry of Curves and Surfaces I",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH461, MATH240, MATH341); and must have completed two 400-level MATH courses with a minimum grade of C- (not including MATH461, and 480's). Curves in the plane and Euclidean space, moving frames, surfaces in Euclidean space, orientability of surfaces; Gaussian and mean curvatures; surfaces of revolution, ruled surfaces, minimal surfaces, special curves on surfaces, \"Theorema ",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH445",
+      "title": "Elementary Mathematical Logic",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141. Elementary development of propositional and predicate logic, including semantics and deductive systems and with a discussion of completeness, incompleteness and the decision problem.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH456",
+      "title": "Cryptography",
+      "credits": 3,
+      "description": "Prerequisite:(CMSC106, CMSC131, or ENEE150; or equivalent programming experience); and (2 courses from (CMSC330, CMSC351, ENEE324, or ENEE382); or any one of these courses and a 400-level MATH course, or two 400-level MATH courses); and Permission of CMNS-Mathematics department or permission of  instructor.Cross-listed with:CMSC456, ENEE456.Credit only granted for:MATH456, CMSC456 or ENEE456. The theory, application, and implementation of mathematical techniques used to secure modern communicati",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH461",
+      "title": "Linear Algebra for Scientists and Engineers",
+      "credits": 3,
+      "description": "Prerequisite:Minimum grade of C- in MATH141.Credit only granted for:MATH240, MATH341, or MATH461.Additional information:This course may not be used towards the upper level math requirements for MATH/STAT majors. Basic concepts of linear algebra. This course is similar to MATH240, but with more extensive coverage of the topics needed in applied linear algebra: change of basis, complex eigenvalues, diagonalization, the Jordan canonical form.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH462",
+      "title": "Partial Differential Equations",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH246, MATH341). Linear spaces and operators, orthogonality, Sturm-Liouville problems and eigenfunction expansions for ordinary differential equations. Introduction to partial differential equations, including the heat equation, wave equation and Laplace's equation. Boundary value problems, initial value problems and initial-boundary value problems.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH463",
+      "title": "Complex Variables",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH241, MATH340). The algebra of complex numbers, analytic functions, mapping properties of the elementary functions. Cauchy integral formula. Theory of residues and application to evaluation of integrals. Conformal mapping.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH464",
+      "title": "Transform Methods",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH246, MATH341). Fourier transform, Fourier series, discrete fast Fourier transform (DFT and FFT). Laplace transform. Poisson summations, and sampling. Optional Topics: Distributions and operational calculus, PDEs, Wavelet transform, Radon transform and applications such as Imaging, Speech Processing, PDEs of Mathematical Physics, Communications, Inverse Problems.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH475",
+      "title": "Combinatorics and Graph Theory",
+      "credits": 3,
+      "description": "Prerequisite:1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340); and permission of CMNS-Mathematics department.Cross-listed withCMSC475.Credit only granted for:MATH475 or CMSC475. General enumeration methods, difference equations, generating functions. Elements of graph theory, matrix representations of graphs, applications of graph theory to transport networks, matching theory and graphical algorithms.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH489",
+      "title": "Research Interactions in Mathematics; Research Interactions in Mathematics",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH498A",
+      "title": "Selected Topics in Mathematics",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH600",
+      "title": "Abstract Algebra I",
+      "credits": 3,
+      "description": "Prerequisite:MATH405 and MATH403; or students who have taken courses with comparable content may contact the department. Groups with operators, homomorphism and isomorphism theorems, normal series, Sylow theorems, free groups, Abelian groups, rings, integral domains, fields, modules. Topics may include HOM (A,B), Tensor products, exterior algebra.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH606",
+      "title": "Algebraic Geometry I",
+      "credits": 3,
+      "description": "Prerequisite:MATH600 and MATH601. Prime and primary ideals in Noetherian rings, Hilbert Nullstellensatz, places and valuations, prevarieties (in the sense of Serre), dimension, morphisms, singularities, varieties, schemes, rationality.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH630",
+      "title": "Real Analysis I",
+      "credits": 3,
+      "description": "Prerequisite:MATH411; or students who have taken courses with comparable content may contact the department. Lebesgue measure and the Lebesgue integral on R, differentiation of functions of bounded variation, absolute continuity and fundamental theorem of calculus, Lp spaces on R, Riesz-Fischer theorem, bounded linear functionals on Lp, measure and outer measure, Fubini's theorem.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH634",
+      "title": "Harmonic Analysis",
+      "credits": 3,
+      "description": "Prerequisite:MATH630. L1 theory: Fejer theorem, inversion theorem, ideal structure, Tauberian theorem. L2 theory: Plancherel-Parseval theorems, Paley-Wiener theorem. Lp theory: Hausdorff-Young theorem. Distribution theory: Bochner's theorem, Wiener continuous measures theorem, Malliavin theorem, Schwartz theory, almost periodic functions.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH642",
+      "title": "Dynamical Systems I",
+      "credits": 3,
+      "description": "Prerequisite:MATH432. And MATH630; or students who have taken courses with comparable content may contact the department. Foundations of topological dynamics, homeomorphisms, flows, periodic and recurrent points, transitivity and minimality, symbolic dynamics. Elements of ergodic theory, invariant measures and sets, ergodicity, ergodic theorems, mixing, spectral theory, flows and sections. Applications of dynamical systems to number theory, the Weyl theorem, the distribution of values of polynom",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH669",
+      "title": "Selected Topics in Riemann Surfaces",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH673",
+      "title": "Partial Differential Equations I",
+      "credits": 3,
+      "description": "Prerequisite:MATH411; or students who have taken courses with comparable content may contact the department.Cross-listed with:AMSC673.Credit only granted for:AMSC673 or MATH673. Analysis of boundary value problems for Laplace's equation, initial value problems for the heat and wave equations. Fundamental solutions, maximum principles, energy methods. First order nonlinear PDE, conservation laws. Characteristics, shock formation, weak solutions. Distributions, Fourier transform.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH689",
+      "title": "Research Interactions in Mathematics",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH695",
+      "title": "Teaching Seminar",
+      "credits": 1,
+      "description": "Restriction:Must be in one of the following programs (Mathematics (Doctoral); Mathematics (Master's); Mathematical Statistics (Doctoral); Applied Mathematics and Scientific Computation (Master's); Mathematical Statistics (Master's); Applied Mathematics and Scientific Computation (Doctoral)). A course intended for first year teaching assistants. Topics include: everyday mechanics of teaching; teaching methods and styles; technology; course enrichment, diversity in the classroom; sexual harassment",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH712",
+      "title": "Mathematical Logic I",
+      "credits": 3,
+      "description": "Sentential logic, first-order languages, models and formal deductions. Basic model theory including completeness and compactness theorems, other methods of constructing models, and applications such as non-standard analysis.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH730",
+      "title": "Fundamental Concepts of Topology",
+      "credits": 3,
+      "description": "Prerequisite:MATH403, MATH410, and MATH411; or students who have taken courses with comparable content may contact the department. Survey of basic point set topology, fundamental group, covering spaces, Van Kampen's theorem, simplicial complexes, simplicial homology, Euler characteristics and classification of surfaces.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH742",
+      "title": "Geometric Analysis",
+      "credits": 3,
+      "description": "Prerequisite:MATH673 and MATH674; or MATH740. Calculus of Variations, Bochner technique, Morse theory, weak solutions and elliptic regularity, maximum principle for elliptic and parabolic equations, Green's function of the Laplacian, isoperimetric and Sobolev inequalities, continuity method, curvature and comparison results, harmonic maps, curvature prescription problems.",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH799",
+      "title": "Master's Thesis Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH808A",
+      "title": "Selected Topics in Algebra",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH808J",
+      "title": "Selected Topics in Algebra; Selected Topics in Algebra: Surfaces",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH808L",
+      "title": "Selected Topics in Algebra; Elliptic Curves",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH818A",
+      "title": "Selected Topics in Logic",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH818T",
+      "title": "Selected Topics in Logic; Set Theory",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH838D",
+      "title": "Select Topics in Dynamics; Hamiltonian Dynamics",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH848A",
+      "title": "Selected Topics in Geometry and Topology",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH848T",
+      "title": "Selected Topics in Geometry and Topology; Introduction to Gauge Theory",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH858A",
+      "title": "Selected Topics in Analysis",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH858T",
+      "title": "Selected Topics in Analysis; Methods in Nonlinear Analysis and Ellitptic PDEs",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH868A",
+      "title": "SelectedTopics in Complex Analysis",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH878T",
+      "title": "Selected Topics in Probability; Introduction to Statistical Physics",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH898",
+      "title": "Pre-Candidacy Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    },
+    {
+      "code": "MATH899",
+      "title": "Doctoral Dissertation Research",
+      "credits": 6,
+      "description": "",
+      "geneds": [],
+      "department": "MATH"
+    }
+  ]
+}

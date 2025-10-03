@@ -1,0 +1,41 @@
+{
+  "cached_at": "2025-10-03T17:25:03.644808",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Caroline Eades",
+      "days": "MW",
+      "time": "1:00pm-1:50pm",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Caroline Eades",
+      "days": "MW",
+      "time": "1:00pm-1:50pm",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Caroline Eades",
+      "days": "MW",
+      "time": "1:00pm-1:50pm",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    },
+    {
+      "section_id": "0104",
+      "instructor": "Caroline Eades",
+      "days": "MW",
+      "time": "1:00pm-1:50pm",
+      "location": "TWS 0320",
+      "open_seats": 25,
+      "total_seats": 25
+    }
+  ]
+}

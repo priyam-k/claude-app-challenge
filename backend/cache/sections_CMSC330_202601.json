@@ -1,0 +1,176 @@
+{
+  "cached_at": "2025-10-03T17:24:13.617989",
+  "data": [
+    {
+      "section_id": "0201",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0202",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0203",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0204",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0205",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0206",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0207",
+      "instructor": "Anwar Mamat",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "CSI 1115",
+      "open_seats": 35,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0302",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "CSI 1115",
+      "open_seats": 35,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0303",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "CSI 1115",
+      "open_seats": 35,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0304",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "2:00pm-3:15pm",
+      "location": "CSI 1115",
+      "open_seats": 35,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0402",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0403",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0404",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0405",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0406",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0407",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    },
+    {
+      "section_id": "0408",
+      "instructor": "Cliff Bakalian",
+      "days": "TuTh",
+      "time": "3:30pm-4:45pm",
+      "location": "IRB 0324",
+      "open_seats": 36,
+      "total_seats": 36
+    }
+  ]
+}

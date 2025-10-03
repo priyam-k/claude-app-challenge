@@ -1,0 +1,131 @@
+{
+  "cached_at": "2025-10-03T16:58:42.298248",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0151",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0161",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0171",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0181",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0191",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0192",
+      "instructor": "Sean Gruber",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "ESJ 0202",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Sean Gruber",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "ASY 2309",
+      "open_seats": 7,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Sean Gruber",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "ASY 2309",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Sean Gruber",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "ASY 2309",
+      "open_seats": 3,
+      "total_seats": 27
+    },
+    {
+      "section_id": "FC04",
+      "instructor": "Sean Gruber",
+      "days": "MW",
+      "time": "3:00pm-4:15pm",
+      "location": "ASY 2309",
+      "open_seats": 3,
+      "total_seats": 27
+    }
+  ]
+}

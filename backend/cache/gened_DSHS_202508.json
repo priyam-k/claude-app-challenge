@@ -1,0 +1,1876 @@
+{
+  "cached_at": "2025-10-03T17:49:46.846031",
+  "data": [
+    {
+      "code": "AAAS100",
+      "title": "Introduction to African American and Africana Studies",
+      "credits": 3,
+      "description": "Credit only granted for: AASP100 or AAAS100. Formerly: AASP100. Significant aspects of the history of African Americans with particular emphasis on the evolution and development of black communities from slavery to the present. Interdisciplinary introduction to social, political, legal and economic roots of contemporary problems faced by blacks in the United States with applications to the lives of other racial and ethnic minorities in the Americas and in other societies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS101",
+      "title": "Public Policy and the Black Community",
+      "credits": 3,
+      "description": "Credit only granted for: AASP101 or AAAS101. Formerly: AASP101. The impact of public policies on the Black community and the role of the policy process in affecting the social, economic and political well-being of minorities. Particular attention given to the post-1960 to present era.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS187",
+      "title": "The New Jim Crow: African-Americans, Mass Incarceration and the Prison Industrial Complex",
+      "credits": 3,
+      "description": "Recommended: AASP100. Credit only granted for: AASP187 or AAAS187. Formerly: AASP187. Students will examine the birth of the racial caste system following the abolition of slavery, the parallels between the racial hierarchy of the Jim Crow system and contemporary mass incarceration, and the rise of the prison industrial complex as a multi-billon business which thrives on the oppression of low-income populations and poor communities of color.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS202",
+      "title": "Black Culture in the United States",
+      "credits": 3,
+      "description": "Credit only granted for: AASP202 or AAAS202. Formerly: AASP202. The course examines important aspects of African American life and thought which are reflected in African American literature, drama, music and art. Beginning with the cultural heritage of slavery, the course surveys the changing modes of Black creative expression from the 19th-century to the present.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS211",
+      "title": "Get Out: The Sunken Place of Race Relations in the Post-Racial Era",
+      "credits": 3,
+      "description": "Credit only granted for: AASP211 or AAAS211. Formerly: AASP211. Prevailing thought suggests that we live in an era that is post-racial, particularly after the election of Barack Obama. Media often serves to drive our assessment of where our nation stands on issues like race, gender and sexuality. This course uses the film Get Out to delve into the production, evolution and significance of race in present day America. The course will engage multiple forms of media to investigate life in \"Post-Rac",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS230",
+      "title": "Social (In)Justice and African-American Health and Well-Being",
+      "credits": 3,
+      "description": "Credit only granted for: AASP230 or AAAS230. Formerly: AASP230. African Americans suffer worse outcomes than non-Hispanic whites on nearly every health measure and outcomes that link to overall well-being like depressive symptoms or homicides. Health disparities are experienced by other underrepresented minority groups, but because of the unique historic and current experiences of African Americans, the determinants and solutions to African American health disparities are unique. The premise of ",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS400",
+      "title": "Directed Readings in African American and Africana Studies",
+      "credits": 3,
+      "description": "Prerequisite: AAAS202 or AAAS100. Credit only granted for: AASP400 or AAAS400. Formerly: AASP400. The readings will be directed by the faculty of African American Studies. Topics to be covered will be chosen to meet the needs and interests of individual students.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAST200",
+      "title": "Introduction to Asian American Studies",
+      "credits": 3,
+      "description": "Cross-listed with: AMST298C. Credit only granted for: AAST200 or AMST298C. The aggregate experience of Asian Pacific Americans, from developments in the countries of origin to their contemporary issues. The histories of Asian Pacific American groups as well as culture, politics, the media, and stereotypes, viewed from an interdisciplinary perspective.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST322",
+      "title": "Immigration and Ethnicity in the US",
+      "credits": 3,
+      "description": "Cross-listed with: SOCY322. Credit only granted for: AAST322, SOCY222, HIST322 or SOCY322. Formerly: AAST222, SOCY222. Explores historical and contemporary Asian immigration to the US in comparison to and in the context of other immigrant groups. From low-skilled laborers to highly-skilled professionals, Asian and other immigrants have been an integral part of the shifting US economy and society since its inception. The course includes theories on why immigration occurs, determinants of its cont",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST363",
+      "title": "Filipino American History and Biography",
+      "credits": 3,
+      "description": "Cross-listed with: AMST323. Credit only granted for: AAST363, AMST323, AAST398D, or AMST328J. Formerly: AAST398D. Focus is placed on Filipino American experiences with an emphasis on identity, community building and organizing to influence public policy We will cover pertinent events from the US and Philippine history in order to understand the impact of colonialism, migration, immigration and assimilation on Filipino Americans.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST443",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AMST498J, GVPT368C. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultu",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AGST130",
+      "title": "Did Yeast Create Civilization?",
+      "credits": 3,
+      "description": "Recommended: CHEM103, CHEM131, CHEM135, or CHEM146. Cross-listed with: PLSC130. Credit only granted for: AGST130 or PLSC130. Did yeast create civilization?  Fermented foods have played a major role in the transition from nomadic to settled agrarian societies, the establishment of social and religious customs, the expansion of empires, and modern economies. To what extent are our past and current attitudes towards fermented foods rooted in historical and cultural imprints? Explore the central rol",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "AGST"
+    },
+    {
+      "code": "AMST260",
+      "title": "American Culture in the Information Age",
+      "credits": 3,
+      "description": "Credit only granted for: AMST260 or AMST298I. Formerly: AMST298I. Examines the ways in which content and form of public information interact with the culture, families & individuals.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST298C",
+      "title": "Introduction to Asian American Studies",
+      "credits": 3,
+      "description": "Cross-listed with: AAST200. Credit only granted for: AAST200 or AMST298C. The aggregate experience of Asian Pacific Americans, from developments in the countries of origin to their contemporary issues. The histories of Asian Pacific American groups as well as culture, politics, the media, and stereotypes, viewed from an interdisciplinary perspective.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST323",
+      "title": "Filipino American History and Biography",
+      "credits": 3,
+      "description": "Cross-listed with: AAST363. Credit only granted for: AAST363, AMST323, AAST398D, or AMST328J. Formerly: AAST398D. Focus is placed on Filipino American experiences with an emphasis on identity, community building and organizing to influence public policy We will cover pertinent events from the US and Philippine history in order to understand the impact of colonialism, migration, immigration and assimilation on Filipino Americans.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST498J",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AAST443, GVPT368C. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultur",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "ANTH210",
+      "title": "Introduction to Medical Anthropology and Global Health",
+      "credits": 3,
+      "description": "An introduction to the central concepts in medical anthropology and the anthropology of global health. This course is a survey of anthropological notions of health, disease, and the body in cross-cultural and global contexts, including classic and contemporary texts. It will provide an examination of systems of knowledge and practice with regard to illness, healing, and global health inequities.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH240",
+      "title": "Introduction to Archaeology",
+      "credits": 3,
+      "description": "Exploration of the variety of past human societies and cultures through archaeology, from the emergence of anatomically modern humans to the more recent historical past.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH260",
+      "title": "Introduction to Sociocultural Anthropology and Linguistics",
+      "credits": 3,
+      "description": "Culture and social relationships in a wide variety of settings from small-scale to complex societies. An overview of how anthropology analyzes human behavior. Particular attention to the relationship between language and culture.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH265",
+      "title": "Anthropology of Global Health",
+      "credits": 3,
+      "description": "An overview of the growing field of global health including health care systems, medical practices, ideas about illness in cross-cultural contexts, issues of health development, global health inequity, and human rights issues. The course will focus on the history of global health, the critique of major international health agencies and their development paradigms, and the political economy of social inequalities and health.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH266",
+      "title": "Changing Climate, Changing Cultures",
+      "credits": 3,
+      "description": "Explore past, present, and future interactions between humans and climate. Discussions, methods-oriented activities, and case study analyses provide students a foundation for appreciating the role of anthropology in understanding, responding to, and preparing for climate change.",
+      "geneds": [
+        "DSHS",
+        "DVCC",
+        "SCIS"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH305",
+      "title": "Archaeological Methods and Practice",
+      "credits": 3,
+      "description": "Prerequisite: ANTH240, ARTH200, CLAS180, or CLAS190. Cross-listed with: ARTH305, CLAS305, JWST319Y. Credit only granted for: ANTH305, ARTH305, CLAS305, or JWST319Y. A team-taught, interdisciplinary course discussing theories, methods, and ethical issues in the practice of archaeology.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH323",
+      "title": "Plagues, Pathogens and Public Policy",
+      "credits": 3,
+      "description": "Credit only granted for: ANTH429A or ANTH323. Formerly: ANTH429A. The impact of diseases on populations from prehistoric times through the present will be examined, along with public perceptions of disease, scientific breakthroughs on treatment and prevention, and the ways that politics and public health policies can enhance or impede the advancement of disease treatment. The natural history of disease, population structure, and immunity will be discussed. The class will address emerging and re-",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "AREC250",
+      "title": "Elements of Agricultural and Resource Economics",
+      "credits": 3,
+      "description": "Credit only granted for: AREC240 or AREC250. An introduction to economic principles of production, marketing, agricultural prices and incomes, farm labor, credit, agricultural policies, and government programs.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "AREC260",
+      "title": "The Science of Gender in Economics and Development",
+      "credits": 3,
+      "description": "Recommended: Completion of introductory statistics recommended but not required. Is science an objective enterprise that qualifies researchers to investigate gender free from the constraints and prejudice of their culture? We will investigate the process by which various scientific disciplines, including anthropology, evolutionary biology, psychology, and economics do research on the topic of gender. We will describe the current state of the literature on why different sexes exist and how sex tr",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "ARTH305",
+      "title": "Archaeological Methods and Practice",
+      "credits": 3,
+      "description": "Prerequisite: ANTH240, ARTH200, CLAS180, or CLAS190. Cross-listed with: ANTH305, CLAS305, JWST319Y. Credit only granted for: ANTH305, ARTH305, CLAS305, or JWST319Y. A team-taught, interdisciplinary course discussing theories, methods, and ethical issues in the practice of archaeology.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "BSST334",
+      "title": "States of Emergency",
+      "credits": 3,
+      "description": "Students will explore the manner in which crises unfold from the perspective of a variety of emergency response disciplines, including: emergency management, law enforcement, intelligence analysis, cyber analysis, risk communication, health and human services, and emergency psychiatry/psychology.  Students will participate in a semester-long simulation of an unfolding terrorist attack.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "BSST"
+    },
+    {
+      "code": "CCJS100",
+      "title": "Introduction to Criminal Justice",
+      "credits": 3,
+      "description": "Introduction to the administration of criminal justice in a democratic society, with emphasis on the theoretical and historical development of law enforcement. The principles of organization and administration for law enforcement; functions and specific activities; planning and research; public relations; personnel and training; inspection and control; direction; policy formulation.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "CCJS"
+    },
+    {
+      "code": "CCJS105",
+      "title": "Introduction to Criminology",
+      "credits": 3,
+      "description": "Criminal behavior and the methods of its study; causation; typologies of criminal acts and offenders; punishment, correction and incapacitation; prevention of crime.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "CCJS"
+    },
+    {
+      "code": "CCJS225",
+      "title": "Responses to Violence",
+      "credits": 3,
+      "description": "What are the dimensions of violence in the United States and worldwide, and how has humanity responded to violence? Conflict is unfortunately resolved through violence in a number of settings. It ranges from interpersonal to international in its scope. This course investigates the strengths and weaknesses of a number of resolutions to reducing violence over the course of history using both state centered and informal control.",
+      "geneds": [
+        "DSHS",
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "CCJS"
+    },
+    {
+      "code": "CCJS325",
+      "title": "Slavery in the Twenty First Century: Combating Human Trafficking",
+      "credits": 3,
+      "description": "What is human trafficking and how do we stop it? An introduction to the trafficking of human beings in its historical, legal, economic, political and social contexts. Scope of the global problem, different forms of human trafficking, and regional trends and practices. Roles of government, the international community and individual actors. Strategies to combat trafficking.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "CCJS"
+    },
+    {
+      "code": "CHSE205",
+      "title": "Disability: From Stigma and Sideshow to Mainstream and Main Street",
+      "credits": 3,
+      "description": "Credit only granted for: EDSP289I or CHSE205. Formerly: EDSP289I. Explores the cultural, historical, educational, and medical roots of difference among human beings and examines the impact of cultural and technological changes on individuals traditionally identified as disabled. The course is designed to develop a broad understanding of the concept of \"disability\" and the emerging technologies that shape contemporary understanding of this phenomenon and the lives of those considered disabled.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "CHSE"
+    },
+    {
+      "code": "CLAS180",
+      "title": "Discovering the World of Ancient Greece",
+      "credits": 3,
+      "description": "An exploration of the cultural traits and developments of ancient Greek civilization and its forerunners, from the Bronze Age Mycenaeans and Minoans, through the rise of the classical Greek city-states, to the expansion of Greek cultural influence in the wake of the conquests of Alexander the Great.  Drawing upon the evidence of the archaeological remains as well as ancient historical and literary documents, students gain a basic familiarity with the principal monuments and artifacts of classica",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS305",
+      "title": "Archaeological Methods and Practice",
+      "credits": 3,
+      "description": "Prerequisite: ANTH240, ARTH200, CLAS180, or CLAS190. Cross-listed with: ANTH305, ARTH305, JWST319Y. Credit only granted for: ANTH305, ARTH305, CLAS305, or JWST319Y. A team-taught, interdisciplinary course discussing theories, methods, and ethical issues in the practice of archaeology.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CLAS312",
+      "title": "The Modernity of Athenian Democracy",
+      "credits": 3,
+      "description": "Examines the question of how Ancient Greek thought can be a tool for facing the challenges of the modern world. Topics such as political participation and engagement in politics, lawfulness and justice, freedom and autonomy, democracy and civic responsibility are found at the core of Ancient Greek thought.  In addition to these topics, the course explores, through the teachings of ancient Greek philosophers, historians, and poets, the questions of virtue and happiness at a personal level and the",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CPMS225",
+      "title": "Analyzing Media Practice through Theory",
+      "credits": 3,
+      "description": "Prerequisite: CPMS100. Restriction: Must be in the Scholars Media, Self & Society Program. Formerly: CPSP222. Media analysis investigating patterns of ownership, the working of media organizations, patterns of coverage and the nature of audiences.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "CPMS"
+    },
+    {
+      "code": "CPSP220",
+      "title": "Where the Waters Blend: Contemporary Indigenous Perspectives on History, Traditions, and Modern Issues",
+      "credits": 3,
+      "description": "Cross-listed with: HNUH258Q. Credit only granted for: HNUH268W, HNUH258Q or CPSP220. Formerly: HNUH268W. In this unique cultural and personal learning experience, students will explore the history, traditions, and contemporary issues faced by Maryland's Indigenous people, particularly the Piscataway. The course emphasizes the interconnectedness of culture and environment, highlighting how Indigenous Ecological Knowledges shape our understanding of biodiversity and interconnected life. The experi",
+      "geneds": [
+        "DSHS",
+        "DVCC"
+      ],
+      "department": "CPSP"
+    },
+    {
+      "code": "CPSS225",
+      "title": "College Park Scholars Capstone: Science, Technology, and Society",
+      "credits": 3,
+      "description": "Prerequisite: CPSS100. Restriction: Must be in the College Park Scholars Science, Technology & Society (CPSS) program. Formerly: CPSP227. Exploration and understanding of ways science and technology shape and are shaped by society.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "CPSS"
+    },
+    {
+      "code": "ECON111",
+      "title": "Thinking Like an Economist",
+      "credits": 3,
+      "description": "Restriction: Must be sophomore standing or lower. An introduction to the modes of thought of economics. Use of simple standard tools of economics to analyze important problems that arise frequently in public policy, the news media, and in daily life. An emphasis on how economists predict what choices societies make and how economists analyze whether those are good choices. Practical application of a variety of economic tools leading to a focus on the essential unity underlying these analytical t",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "ECON"
+    },
+    {
+      "code": "ECON175",
+      "title": "Inequality: Determinants and Policy Remedies",
+      "credits": 3,
+      "description": "History shows that the gap between the rich and the poor has varied over time within and between countries, most recently seeming to increase within many countries while somewhat decreasing between countries. This course challenges students to investigate why people make different amounts of money, why income inequality has changed dramatically in recent years, what public policy tools exist to counter inequality increases, and what different institutional arrangements different countries use to",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "ECON"
+    },
+    {
+      "code": "ECON200",
+      "title": "Principles of Microeconomics",
+      "credits": 3,
+      "description": "Prerequisite: MATH107 or MATH110; or must have math eligibility of MATH113 or higher. Additional information: It is recommended that students complete ECON200 before taking ECON201. Introduces economic models used to analyze economic behavior by individuals and firms and consequent market outcomes. Applies conceptual analysis to several policy issues and surveys a variety of specific topics within the broad scope of microeconomics.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "ECON"
+    },
+    {
+      "code": "ECON201",
+      "title": "Principles of Macroeconomics",
+      "credits": 3,
+      "description": "Prerequisite: MATH107 or MATH110; or must have math eligibility of MATH113 or higher. Recommended: ECON200. Credit only granted for: ECON201 or ECON205. An introduction to how market economies behave at the aggregate level. The determination of national income/output and the problems of unemployment inflation, will be examined, along with monetary and fiscal policy.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "ECON"
+    },
+    {
+      "code": "EDCP230",
+      "title": "The Science and Practice of Happiness and Psychological Well-Being",
+      "credits": 3,
+      "description": "An introduction to theory and research on positive psychology, subjective well-being, and the psychology of happiness. This will include examination of hedonic and eudaimonic models of well-being and sociocultural understandings of happiness, together with how it relates to health, relationships, money, religion, work, and social media. Students will also explore common misconceptions and myths about happiness and well-being and will engage in a variety of activities designed to deepen their und",
+      "geneds": [
+        "DSHS",
+        "DSSP"
+      ],
+      "department": "EDCP"
+    },
+    {
+      "code": "EDHD201",
+      "title": "Learning How to Learn",
+      "credits": 3,
+      "description": "Immerses students in the theoretical and empirical study of learning by engaging them in orchestrated experiences and activities drawn directly from the disciplinary research.  Students achieve deep understanding of their own learning, as well as the means of enhancing that learning both in school and out-of-school contexts.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD210",
+      "title": "Foundations of Early Childhood Education",
+      "credits": 3,
+      "description": "Restriction: Permission of EDUC-Human Development and Quantitative Methodology department. Students explore historical and current research in early childhood education, primary models of curriculum and pedagogy in the field, and the relationship between critical aspects of young children's development and the creation of inclusive learning opportunities for all children, including children at risk. The concept of developmentally appropriate practice and its application across different developm",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD230",
+      "title": "Human Development and Societal Institutions",
+      "credits": 3,
+      "description": "Development of the individual in the context of relationships with the formal and informal institutions of society. An examination of various aspects of development from the broad perspective of the social sciences.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD231",
+      "title": "Inside 21st Century Creativity:  How Creative Ideas, Concepts, and Products are Generated",
+      "credits": 3,
+      "description": "Mechanisms of the creative mind. Psychological, social, sociological, developmental, cultural, educational, genetic and neural based roots of creativity.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD320",
+      "title": "Human Development Through the Life Span",
+      "credits": 3,
+      "description": "Central concepts related to parameters of human development, individual and social, which arise throughout the life span. Continuity and change within the developing individual.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD411",
+      "title": "Child Growth and Development",
+      "credits": 3,
+      "description": "Theoretical approaches to and empirical studies of physical, psychological and social development from conception to puberty. Implications for home, school and community.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD412",
+      "title": "Infant Development",
+      "credits": 3,
+      "description": "Infant development across domains, including perceptual, motor, cognitive, language, social and emotional functioning from pre-natal through third year of life.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD413",
+      "title": "Adolescent Development",
+      "credits": 3,
+      "description": "Adolescent development, including special problems encountered in contemporary culture. Observational component and individual case study.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD440",
+      "title": "Adult Development",
+      "credits": 3,
+      "description": "Prerequisite: EDHD320; or permission of EDUC-Human Development and Quantitative Methodology department. Recommended: EDHD413. Major conceptual approaches to the study of adult development including physical, cognitive, social, emotional and self processes that take place within individuals as they progress from emerging adulthood through middle age.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDHD460",
+      "title": "Educational Psychology",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100; or permission of EDUC-Human Development and Quantitative Methodology department. Application of psychology to learning processes and theories. Individual differences, measurement, motivation, emotions, intelligence, attitudes, problem solving, thinking and communicating in educational settings.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDSP310",
+      "title": "International Perspective on Educational Access for People with Disabilities",
+      "credits": 3,
+      "description": "A deep dive into the intersectionality of disability, culture, social norms, policy and more that impacts educational access for people with disabilities in a global context.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "FMSC110",
+      "title": "Families and Global Health",
+      "credits": 3,
+      "description": "Students will explore, define, and study global health, social determinants of health, health inequalities, gender inequality, family violence, and maternal and child health using a global perspective.",
+      "geneds": [
+        "DSHS",
+        "DVCC"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC110S",
+      "title": "Families and Global Health",
+      "credits": 3,
+      "description": "Students will explore, define, and study global health, social determinants of health, health inequalities, gender inequality, family violence, and maternal and child health using a global perspective.",
+      "geneds": [
+        "DSHS",
+        "DVCC"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC190S",
+      "title": "Man Up! Where Are The Fathers?",
+      "credits": 3,
+      "description": "An examination of changing fatherhood roles, health, and inequality in diverse families.  Focus will be on masculinities and disparities among men by race and class; provider role expectations; and trauma and violence faced by men in contemporary society.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC260",
+      "title": "Couples, Marriage, and Families: Intimate Relationship Across the Life Course",
+      "credits": 3,
+      "description": "Covers the different aspects of couple relationships and family life. This includes common problems in couple relationships, and resources to strengthen couple and family relationships. You will also learn about stages of relationships, theories of love and family, policy related to couples and family formation, and how research is conducted with couples and families. Together, we will discuss and explore issues that couples and families face in modern times and will consider how many of these i",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC302",
+      "title": "Research Methods in Family Science",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed an introductory statistics course. Restriction: Must be in a major within SPHL-Family Science department. Credit only granted for: FMSC302 or FMST302. Formerly: FMST302. Introduction to the methods of the social and behavioral sciences employed in family science. The role of theory, the development of hypotheses, measurement, design, and data analysis.",
+      "geneds": [
+        "DSHS",
+        "DSSP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC330",
+      "title": "Family Health:  Health Happens in Families",
+      "credits": 3,
+      "description": "Restriction: Sophomore standing or higher. The objective of this gateway course is to help you understand and apply basic theories and empirical data on family health. The course is designed to provide you with skills to think critically about theories including: Life Course Theory, the Bio-Ecological and Social-Ecological Models, and Systems Theory. We will ask questions about the distinct qualities and intersections of contexts and characteristics that impact the functioning of families.  We w",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC332",
+      "title": "Children in Families",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in PSYC100, SOCY100 or SOCY105. Credit only granted for: FMSC332 or FMST332. Formerly: FMST332. A family life education approach to the study of children and families. Emphasis on the interaction of children with parents, siblings, extended kin, and the community.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC381",
+      "title": "Family Inequality",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in PSYC100, SOCY100, or SOCY105. Restriction: Must be in a major within SPHL-Family Science department. Social, political, cultural and economic factors influencing income and wealth in American families.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC460",
+      "title": "Violence in Families",
+      "credits": 3,
+      "description": "Prerequisite: SOCY100, SOCY105, or PSYC100. Credit only granted for: FMSC460 or FMST460. Formerly: FMST460. Theories of child, spouse, and elder abuse in the family setting. Emphasis on historical, psychological, sociological and legal trends relating to physical, emotional, and sexual abuse. Introduction to methods for prevention and remediation.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "GEOG202",
+      "title": "Introduction to Human Geography",
+      "credits": 3,
+      "description": "Introduction to what geographers do and how they do it. Systematic study of issues regarding social and cultural systems from a global to a local scale. Looks at the distribution of these variables and answers the question \"Why here, and not there\"?",
+      "geneds": [
+        "DSHS",
+        "DVCC"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GEOG330",
+      "title": "As the World Turns: Society and Sustainability in a Time of Great Change",
+      "credits": 3,
+      "description": "Credit only granted for: GEOG330, GEOG360, or GEOG362. Formerly: GEOG362. Cultural geography course on society and sustainability. Culture is the basic building block that is key to sustainability of societies. Course will cover sustainability of societies on different scales, examining local, regional, and worldwide issues. Sustainability will be examined as a key element of environmental sustainability. How societies adjust to rapid world change will be examined as a positive and/or negative f",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GVPT170",
+      "title": "American Government",
+      "credits": 3,
+      "description": "A comprehensive study of national government in the United States.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT200",
+      "title": "International Political Relations",
+      "credits": 3,
+      "description": "A study of the major factors underlying international relations, the causes of conflict and cooperation among international actors, the role of international institutions, the interactions of domestic and foreign policies, and major issues in security, economy and the environment.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT202",
+      "title": "Law or Politics? The U.S. Supreme Court and Individual Rights",
+      "credits": 3,
+      "description": "A thorough examination of the state of individual rights before the U.S. Supreme Court. The course will consider how recent cases the Court has decided and current pending cases have shaped the meaning of the U.S. Constitution. A critical component will involve peer deliberation over the proper roles of law and politics and their impacts on the current state of individual rights in the United States. Students will examine constitutional case studies throughout the semester and contribute to grou",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT210",
+      "title": "Religions, Beliefs, and World Affairs",
+      "credits": 3,
+      "description": "Credit only granted for: GVPT210 or GVPT289L. Formerly: GVPT289L. Introduces students to an increasingly important question: what is the relationship between religion and politics around the world? For a long period in the 20th Century, religion seemed to be decreasing in importance. Eventually, it was thought, religion would simply go away and secularism, development, and rationality would rule the day. In the last generation, however, events like the Iranian Revolution, the rise of the Christi",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT368C",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AAST443, AMST498J. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultur",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "HACS208A",
+      "title": "Accounting and Economic Aspects of Cybersecurity",
+      "credits": 3,
+      "description": "Restriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Living-Learning Program. In today's interconnected digital world, cybersecurity has become one of the most important issues confronting organizations in both the private and public sectors of an economy. Indeed, cybersecurity is a national and economic security priority in countries throughout the world. This is an interdisciplinary Honors Seminar offered as part of UMD's ACES program. The primary objecti",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HACS"
+    },
+    {
+      "code": "HACS208P",
+      "title": "Beyond Technology, the Policy Implications of Cyberspace",
+      "credits": 3,
+      "description": "Restriction: Must be a student in the ACES (Advanced Cybersecurity Experience for Students) Living-Learning Program. Explores the key issues facing policy makers attempting to manage the problem of cybersecurity from its technical foundations to the domestic and international policy considerations surrounding governance, response, and critical infrastructure risk management. The course is designed for students with little to no background in information technology, and will provide the principle",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HACS"
+    },
+    {
+      "code": "HESI202",
+      "title": "Race and Diversity in Higher Education",
+      "credits": 3,
+      "description": "Will discuss contemporary and controversial issues on race and diversity in higher education. Addresses the question: How should race influence college admissions and campus climate? Will expose students to different viewpoints on the role of race in higher education settings.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HESI"
+    },
+    {
+      "code": "HESP120",
+      "title": "Introduction to Linguistics",
+      "credits": 3,
+      "description": "Additional information: HESP120 is required for HESP majors. HESP majors may not substitute LING200. An introduction to the scientific study of natural language with focus on the basic concepts of phonology, syntax, semantics and pragmatics, with subsequent attention to the applied aspects of linguistic principles.",
+      "geneds": [
+        "DSHS",
+        "DSSP"
+      ],
+      "department": "HESP"
+    },
+    {
+      "code": "HESP214",
+      "title": "The Research Behind Headlines on Words, Thought, and Behavior",
+      "credits": 3,
+      "description": "Cross-listed with: HNUH278A. Credit only granted for: HNUH278A or HESP214. How does the human mind use language? Type \"Language Science News\" into your Google search bar. Among the more than 3 billion hits, headlines like \"What is love? It depends what language you speak\" and \"Science's English dominance hinders diversity\" invite you to think about the impact of words on thought and behavior. These are stories about how humans acquire and use language, but they ultimately address big questions a",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HESP"
+    },
+    {
+      "code": "HGLO101",
+      "title": "Saving the World With Data",
+      "credits": 3,
+      "description": "Restriction: Must be an entering freshman in the Honors Global Communities Program. Credit only granted for: HGLO101 or BSGC101. Formerly: BSGC101. The world is grappling with many intractable issues, like climate change, pandemics, democratic backsliding, and inequality. How can we use data analysis to help us better understand and work to solve these problems? In this class students will engage with a wide range of issues affecting the entire globe. In addition, they will also gain valuable da",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HGLO"
+    },
+    {
+      "code": "HIST106",
+      "title": "American Jewish Experience",
+      "credits": 3,
+      "description": "Cross-listed with: JWST141. Credit only granted for: HIST106 or JWST141. History of the Jews in America from Colonial times to the present. Emphasis on the waves of migration from Germany and Eastern Europe; the changing nature of the American Jewish community and its participation in American social, economic, and political life.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST111",
+      "title": "The Medieval World",
+      "credits": 3,
+      "description": "The development of Europe in the Middle Ages; the role of religious values in shaping new social, economic, and political institutions; medieval literature, art and architecture.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST113",
+      "title": "The Making of Modern Europe",
+      "credits": 3,
+      "description": "Evolution of modern nation states since late medieval times. Industrial-economic structure and demography. Emergence of modern secular society.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST122",
+      "title": "African Civilization to 1800",
+      "credits": 3,
+      "description": "History of Africa from earliest times to 1800. Topics of study include origins of African societies, Nile Valley civilization, medieval African states and societies, Islam, oral traditions, African slavery and the slave trade, and early African-European interactions.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST135",
+      "title": "Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode",
+      "credits": 3,
+      "description": "Cross-listed with: JWST289E. Credit only granted for: HIST135 or JWST289E. An examination of the mechanisms that promote peaceful co-existence in urban societies and a discussion of how and why city streets sometimes become violent.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST200",
+      "title": "Interpreting American History: Beginnings to 1877",
+      "credits": 3,
+      "description": "Credit only granted for: HIST156 or HIST200. Formerly: HIST156. The United States from colonial times to the end of the Civil War. Establishment and development of American institutions.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST201",
+      "title": "Interpreting American History: From 1865 to the Present",
+      "credits": 3,
+      "description": "Credit only granted for: HIST157 or HIST201. Formerly: HIST157. The United States from the end of the Civil War to the present. Economic, social, intellectual, and political developments. Rise of industry and emergence of the United States as a world power.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST224",
+      "title": "Modern Military History, 1494-1815",
+      "credits": 3,
+      "description": "Survey of global military history from the European \"discovery\" of the Americas to the end of the Napoleonic Wars. Explores how the creation of professional armies, advancement of weapons technology, and evolution of military-civilian relations in Europe during these three centuries sparked the \"Rise of the West\".",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST226",
+      "title": "Revolution, Regret, and Reform: The People and Principles in American Political History",
+      "credits": 3,
+      "description": "Credit only granted for: HONR299G or HIST226. Formerly: HONR299G. Explores American political history from Independence through the present day. Interrogates the roots of American political ideas, the dynamics of partisan competition, the interaction of class, ethnicity, race, and politics, the evolution of policy preferences, the growth of the state, and the transformation of grassroots expectations and ambitions, among other important themes. By exploring the writings of major figures as well ",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST234",
+      "title": "Invaders, Conquerors, Usurpers: A History of Pre-Modern Britain to 1485",
+      "credits": 3,
+      "description": "British history from Roman times to the 15th century. The Anglo-Saxon, Scandinavian, and Norman invasions; the coming of Christianity; Magna Carta, the development of Parliament, legal institutions, and the Common Law; the decline of medieval kingship.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST250",
+      "title": "History of Colonial Latin America",
+      "credits": 3,
+      "description": "Cross-listed with: LACS250. Credit only granted for: LASC250, HIST250, OR LACS250. Formerly: LASC250. Introductory survey of the history of Latin America from pre-Columbian Indian cultures to the beginning of the wars for independence (ca. 1810), covering cultural, political, social, and economic developments. Major themes include conquest, colonialism, indigenous culture, African slavery, religion, race and ethnicity, and gender ideologies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST261",
+      "title": "Medicine in an Age of Empires, 1500-1800",
+      "credits": 3,
+      "description": "An introduction to the broad shifts in European medicine of early modern period, a period that saw the extension of overseas empires and the emergence of medicine as a profession. The course offers a thematic and comparative look at the intertwined experiences of disease, empire, and global commerce that reshaped expectations of what medicine could or should do, for whom, and at what cost.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST266",
+      "title": "The United States in World Affairs",
+      "credits": 3,
+      "description": "A study of the United States as an emerging world power and the American response to changing status in world affairs. Emphasis on the relationship between internal and external development of the nation.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST281",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: JWST230, RELS230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST284",
+      "title": "East Asian Civilization I",
+      "credits": 3,
+      "description": "An interdisciplinary survey of the development of East Asian cultures. An historical approach drawing on all facets of East Asian traditional life, to gain an appreciation of the different and complex cultures of the area.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST289A",
+      "title": "Jews, Christians, and Muslims in Medieval Spain: Tolerance, Oppression, and the Problematic Past",
+      "credits": 3,
+      "description": "Cross-listed with: RELS289C. Credit only granted for: HIST289A or RELS289C. For 800 years, medieval Spain was home to one of the most religiously diverse societies in European history. Despite frequent hostilities, the interactions of Spanish Jews, Christians, and Muslims produced a flowering of science, theology, and literature in an often remarkably tolerant climate. Students will learn how medieval Spanish people themselves experienced interreligious contact and conflict. They will also disco",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST363",
+      "title": "Mobility in History: Planes, Trains, Automobiles",
+      "credits": 3,
+      "description": "Credit only granted for: HIST329X or HIST363. Formerly: HIST329X. From walking, bicycling, riding ships and trains to driving cars and to flying: Humans and their modes of transportation have changed dramatically in history. In this class, students will explore the social, cultural, and environmental aspects of passenger and freight transportation in the 19th and 20th centuries. The focus is on the societal expectations and imaginations that have shaped how humans move about.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST381",
+      "title": "The Israeli Settler Movement: The Road to One State?",
+      "credits": 3,
+      "description": "Cross-listed with: JWST332, ISRL344. Credit only granted for: HIST329G, HIST381, ISRL329G, ISRL344, JWST332 or JWST319N. Formerly: JWST319N. Explores the Israeli settler movement over the last four decades, from its position on the fringes of Israeli society in the 1970s and 1980s to its rise to prominence in Israeli politics today. Topics will include the history of the Israeli settlement project in the West Bank, the emergence of Gush Emunim and its ideological foundations in Jewish messianism",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST407",
+      "title": "Technology and Inequality",
+      "credits": 3,
+      "description": "How are social inequality and technology related? Have technologies exacerbated social tensions or have they ameliorated them? In the age of climate change, pandemics, and economic transformations, this class looks at technology in history to examine previous transitions in production, infrastructures, computing, and pollution. The emphasis is on the interplay between society and technology in the 19th and 20th centuries.",
+      "geneds": [
+        "DSHS",
+        "DSHU"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HLTH230",
+      "title": "Introduction to Health Behavior",
+      "credits": 3,
+      "description": "Psychological, social psychological, and sociological approaches to the following health areas: development of health attitudes and behavior, patient-provider interaction and the organization of health care.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HLTH234",
+      "title": "Global Health Messages: Understanding Exposure & Impact",
+      "credits": 3,
+      "description": "Restriction: Must not be in the Community Health program. Using a global perspective, this course teaches students to be critical consumers of current and historical health communication interventions. It also provides students with the skills to develop media interventions that target specific and general populations. Students will discover the array of diverse media messages that influence the health and well-being of individuals and communities.",
+      "geneds": [
+        "DSHS",
+        "DVCC",
+        "SCIS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HLTH234H",
+      "title": "Global Health Messages: Understanding Exposure & Impact",
+      "credits": 3,
+      "description": "Restriction: Must not be in the Community Health program. Using a global perspective, this course teaches students to be critical consumers of current and historical health communication interventions. It also provides students with the skills to develop media interventions that target specific and general populations. Students will discover the array of diverse media messages that influence the health and well-being of individuals and communities.",
+      "geneds": [
+        "DSHS",
+        "DVCC",
+        "SCIS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HLTH285",
+      "title": "Controlling Stress and Tension",
+      "credits": 3,
+      "description": "Health problems related to stress and tension. Analysis of causative psychosocial stressors and intervening physiological mechanisms. Emphasis on prevention and control of stress through techniques such as biofeedback, meditation and neuromuscular relaxation.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HLTH285H",
+      "title": "Controlling Stress and Tension",
+      "credits": 3,
+      "description": "Health problems related to stress and tension. Analysis of causative psychosocial stressors and intervening physiological mechanisms. Emphasis on prevention and control of stress through techniques such as biofeedback, meditation and neuromuscular relaxation.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HLTH"
+    },
+    {
+      "code": "HNUH218C",
+      "title": "Globalizing the American Revolution",
+      "credits": 3,
+      "description": "Cross-listed with: HIST223. Credit only granted for: HNUH218C or HIST223. How is the American Revolution a creation story in the making of our multi-cultural and interconnected modern world? Consider the Declaration of Independence. When first published on July 5, 1776, it was printed by an immigrant Irishman on Dutch paper that had been brought over from England. This was the first such declaration of independence ever issued, but its ideas and forms traveled far and wide. More than 100 other d",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH218R",
+      "title": "Stealing from the Poor, Giving to the Rich: The Political Economy of Global Capitalism",
+      "credits": 3,
+      "description": "Street names and museum exhibits are being renamed in Europe to erase the ghosts of their colonial history. Yet, this speaks of the colonial \"era\" as the past, when in fact it is very much our present. The economic principle driving colonialism--capitalism--encouraged an insatiable appetite for territorial acquisition, human bondage, and destruction that stole wealth, life, and joy from racialized \"others\" to fuel European development. We maintain and further these thefts, oppressions, and explo",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH238C",
+      "title": "Surveillant Society, Surveillant Selves",
+      "credits": 3,
+      "description": "Do the social and individual benefits of surveillance outweigh its risks? Surveillance is a ubiquitous practice in contemporary society. Governments surveil populations; corporations surveil customers and users; and individuals surveil themselves and others. From red light cameras and doorbell security cameras to geo-tracking apps and smart appliances, surveillant practices shape 21st-century lifestyles. Many take these practices for granted as acceptable trade-offs for individual and collective",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH239T",
+      "title": "Globalization & Innovation: Culture, Creativity, and Competitiveness",
+      "credits": 3,
+      "description": "Introduces students to the creative possibilities of the global economy: cross-cultural innovation, collaborative design-driven solutions, and enduring innovation with global purchase. Covers innovations in global business that are transforming the future through an embrace of diverse cultural perspectives. Working with interactive idealized design, out-of-the-box-thinking, and strategic exploration tools, students will explore and experience relevant design to new and cross-cultural value creat",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH248C",
+      "title": "The Societal Impact of Artificial Intelligence",
+      "credits": 3,
+      "description": "How will AI change society? AI is changing not only business, but the nature of society itself. This course investigates the nature of those changes and forecasts their future development. With a focus on the implications to business, including the nature of human jobs as AI does an increasing amount of work, students will debate the implications of AI through a variety of lenses. From definitions of consciousness and the potential for robots to claim rights to the gender implications of AI, we ",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH258Q",
+      "title": "Where the Waters Blend: Contemporary Indigenous Perspectives on History, Traditions, and Modern Issues",
+      "credits": 3,
+      "description": "Cross-listed with: CPSP220. Credit only granted for: HNUH268W, HNUH258Q or CPSP220. Formerly: HNUH268W. In this unique cultural and personal learning experience, students will explore the history, traditions, and contemporary issues faced by Maryland's Indigenous people, particularly the Piscataway. The course emphasizes the interconnectedness of culture and environment, highlighting how Indigenous Ecological Knowledges shape our understanding of biodiversity and interconnected life. The experie",
+      "geneds": [
+        "DSHS",
+        "DVCC"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH258R",
+      "title": "Cultivating conservation: exploring connections between biodiversity and livelihoods",
+      "credits": 3,
+      "description": "There are a lot of ways food is harvested from land and sea before it reaches your dinner plate - not all of them are savory. In this course, we'll explore how the many livelihoods that provide us with food can also work to incorporate and rely on biodiversity conservation. What does biodiversity conservation look like in a working landscape or seascape? How do social movements align or contrast with different food production and conservation practices? And finally, how are these environments - ",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH268R",
+      "title": "What Makes Land a Homeland?",
+      "credits": 3,
+      "description": "We live in a world of contested lands. The University of Maryland itself stands on the ancestral land of the Piscataway People. Around the globe, we witness conflicts over land, such as the ongoing war in the Middle East over Israel-Palestine. We hear daily about the refugee crises in Syria and the complex debates surrounding the U.S.-Mexico border. These situations raise important questions: What does it mean to truly belong to a place? How does a migrant come to see their new country as home? ",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH269P",
+      "title": "Building Community: How to Make Friends",
+      "credits": 3,
+      "description": "Credit only granted for: HNUH248U or HNUH269P. Formerly: HNUH248U. In 2017, U.S. Surgeon General Vivek Murthy deemed loneliness an \"epidemic.\" While the rise of social media is meant to foster connection, over 23% of adults report being lonely and social networks have been shrinking for decades. Despite increasing rates of loneliness, it is still possible to overcome these trends and find connection. We tend to assume that we should know how to connect with others intuitively, but, as rising rat",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH278C",
+      "title": "Riding the Korean Wave: Kdrama, Race, and Global Culture",
+      "credits": 3,
+      "description": "How does culture construct our knowledge of the world and ourselves? Using Korean dramas, aka Kdramas, as a case study, this course will explore how various media negotiate blackness for global audiences. As a viral, billion-dollar art form, Kdramas provide an ideal window through which to explore recent trends in our global culture, including colorism, \"Black as cool,\" travel as consumption, and immigration. They illuminate the politics of culture. We will examine how moral panics and social di",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH288C",
+      "title": "Abortion in U.S. Society",
+      "credits": 3,
+      "description": "How do and can we talk about abortion in contemporary society? Civil discussion around the topic of abortion is almost non-existent between people with extremely different views in the U.S. It is such a taboo topic that an exchange of ideas can even be difficult for those with slightly different views--i.e., those who believe abortion should not be regulated by the government (more than any other health care is) and those who believe abortion should be legal and regulated by governments. Althoug",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "IMMR200",
+      "title": "Introduction to Immigration and Migration Studies",
+      "credits": 3,
+      "description": "Introduces concepts and theoretical interpretations about the causes of international migration; provides an historical overview of the main flows of immigration to the U.S.; analyzes economic, political, social, and cultural aspects that impact the immigrants' settlement process.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "IMMR"
+    },
+    {
+      "code": "INST153",
+      "title": "Records Scandals & Data Vandals: Public & Private Sector Controversies Ripped From The Headlines",
+      "credits": 3,
+      "description": "Expressly organized around case studies about well-known individuals and organizations involved in scandals and controversies that have generated headlines around the world. It places these events in a larger historical, legal, technological, ethical and societal context. Drawing upon contemporaneous records in a variety of media, as well as presentations from invited speakers representing the greater archival, historical, and public interest communities, the course seeks to deepen students' app",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "INST155",
+      "title": "Social Networking",
+      "credits": 3,
+      "description": "Credit only granted for: INFM289I or INST155. Formerly: INFM289I. Introduces methods for analyzing and understanding how people use social media - social networking websites, blogging and microblogging, and other forms of online interaction and content generation - and their societal implications. Introduces students to the science and social science of network analysis. Through real world examples, including analysis of their own social networks, students develop skills for describing and under",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "INST201",
+      "title": "Introduction to Information Science",
+      "credits": 3,
+      "description": "Credit only granted for: INST201 or INST301. Formerly: INST301. Examining the effects of new information technologies on how we conduct business, interact with friends, and go through our daily lives. Understanding how technical and social factors have influenced the evolution of information society. Evaluating the transformative power of information in education, policy, and entertainment, and the dark side of these changes.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "INST204",
+      "title": "Designing Fair Systems",
+      "credits": 3,
+      "description": "Credit only granted for: INST208D or INST204. Formerly: INST208D. Reviews how specific values are built into different automated decision-making systems as an inevitable result of constructing mechanisms meant to produce specific outcomes. These values create differential outcomes for the different people enmeshed in these systems, but both these values and these systems can be changed to support different values and different outcomes. The class serves as an introduction to the emerging field o",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "INST204S",
+      "title": "Designing Fair Systems",
+      "credits": 3,
+      "description": "Credit only granted for: INST208D or INST204. Formerly: INST208D. Reviews how specific values are built into different automated decision-making systems as an inevitable result of constructing mechanisms meant to produce specific outcomes. These values create differential outcomes for the different people enmeshed in these systems, but both these values and these systems can be changed to support different values and different outcomes. The class serves as an introduction to the emerging field o",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "INST301",
+      "title": "Introduction to Information Science",
+      "credits": 3,
+      "description": "Restriction: Must be in Information Science program; and restricted to students in the Information Science Program on the Universities at Shady Grove campus. Credit only granted for: INST201 or INST301. Examining the effects of new information technologies on how we conduct business, interact with friends, and go through our daily lives. Understanding how technical and social factors have influenced the evolution of information society. Evaluating the transformative power of information in educa",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "INST"
+    },
+    {
+      "code": "ISRL344",
+      "title": "The Israeli Settler Movement: The Road to One State?",
+      "credits": 3,
+      "description": "Cross-listed with: JWST332, HIST381. Credit only granted for: HIST329G, HIST381, ISRL329G, ISRL344, JWST332 or JWST319N. Formerly: JWST319N. Explores the Israeli settler movement over the last four decades, from its position on the fringes of Israeli society in the 1970s and 1980s to its rise to prominence in Israeli politics today. Topics will include the history of the Israeli settlement project in the West Bank, the emergence of Gush Emunim and its ideological foundations in Jewish messianism",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "ISRL"
+    },
+    {
+      "code": "JOUR150",
+      "title": "Introduction to Mass Communication",
+      "credits": 3,
+      "description": "Additional information: Not applicable toward journalism major. Survey of the functions and effects of the mass media in the United States. A consumer's introduction to newspapers, television, radio, film, sound recording, books, magazines, and new media technology.",
+      "geneds": [
+        "DSHS",
+        "DSSP"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JOUR284",
+      "title": "Scandal: Exposing Corruption, Justice, and Vice in America",
+      "credits": 3,
+      "description": "Credit only granted for: JOUR289P, JOUR284 or HONR239J. Formerly: JOUR289P, HONR239J . What are the ingredients of a juicy scandal? Money? Sex? Power? How are scandals uncovered?  Why does society punish some scoundrels but not others?  Come explore both serious and salacious scandals with a professor who's an expert in both--and who once exposed many scandals himself when he was an investigative reporter. This class examines scandals in politics, science, religion, social media, business, gover",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JWST141",
+      "title": "American Jewish Experience",
+      "credits": 3,
+      "description": "Cross-listed with: HIST106. Credit only granted for: HIST106 or JWST141. History of the Jews in America from Colonial times to the present. Emphasis on the waves of migration from Germany and Eastern Europe; the changing nature of the American Jewish community and its participation in American social, economic, and political life.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST230",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: HIST281, RELS230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST289E",
+      "title": "Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode",
+      "credits": 3,
+      "description": "Cross-listed with: HIST135. Credit only granted for: HIST135 or JWST289E. An examination of the mechanisms that promote peaceful co-existence in urban societies and a discussion of how and why city streets sometimes become violent.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST319Y",
+      "title": "Archaeological Methods and Practice",
+      "credits": 3,
+      "description": "Prerequisite: ANTH240, ARTH200, CLAS180, or CLAS190. Cross-listed with: ANTH305, ARTH305, CLAS305. Credit only granted for: ANTH305, ARTH305, CLAS305, or JWST319Y. A team-taught, interdisciplinary course discussing theories, methods, and ethical issues in the practice of archaeology.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST332",
+      "title": "The Israeli Settler Movement: The Road to One State?",
+      "credits": 3,
+      "description": "Cross-listed with: HIST381, ISRL344. Credit only granted for: HIST329G, HIST381, ISRL329G, ISRL344, JWST332 or JWST319N. Formerly: JWST319N. Explores the Israeli settler movement over the last four decades, from its position on the fringes of Israeli society in the 1970s and 1980s to its rise to prominence in Israeli politics today. Topics will include the history of the Israeli settlement project in the West Bank, the emergence of Gush Emunim and its ideological foundations in Jewish messianism",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "KNES225",
+      "title": "Hoop Dreams: Black Masculinity and Sport",
+      "credits": 3,
+      "description": "Has sport disadvantaged African American males? This course critically examines sport as a site where notions of black masculinity are publicly debated, critiqued, challenged, celebrated, and also transformed. Utilizing an interdisciplinary approach, this course explores how sport has been invoked across the political and ideological spectrum to interrogate a number of issues impacting the life chances of young, African Americans males including educational attainment, poverty, social mobility, ",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "KNES287",
+      "title": "Sport and American Society",
+      "credits": 3,
+      "description": "Recommended: Minimum grade of C- in KNES285. Sport will be related to such social problems as delinquency, segregation, collective behavior, and leisure; to social processes such as socialization, stratification, mobility, and social control; and to those familiar social institutions the family, the school, the church, the military, the economy, the polity, and the mass media.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "KNES350",
+      "title": "The Psychology of Sports & Exercise",
+      "credits": 3,
+      "description": "Restriction: Must have earned a minimum of 45 credits. An exploration of personality factors, including but not limited to motivation, aggression and emotion, as they affect sports participation and motor skill performance.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "KNES350H",
+      "title": "The Psychology of Sports & Exercise",
+      "credits": 3,
+      "description": "Restriction: Must have earned a minimum of 45 credits. An exploration of personality factors, including but not limited to motivation, aggression and emotion, as they affect sports participation and motor skill performance.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "LACS234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS250",
+      "title": "History of Colonial Latin America",
+      "credits": 3,
+      "description": "Cross-listed with: HIST250. Credit only granted for: LASC250, HIST250, OR LACS250. Formerly: LASC250. Introductory survey of the history of Latin America from pre-Columbian Indian cultures to the beginning of the wars for independence (ca. 1810), covering cultural, political, social, and economic developments. Major themes include conquest, colonialism, indigenous culture, African slavery, religion, race and ethnicity, and gender ideologies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LGBT200",
+      "title": "Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",
+      "credits": 3,
+      "description": "Credit only granted for: LGBT200. An interdisciplinary study of the historical and social contexts of personal, cultural and political aspects of LGBT life. Sources from a variety of fields, such as anthropology, history, psychology, sociology, and women's studies, focusing on writings by and about LGBT people.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LING200",
+      "title": "Introductory Linguistics",
+      "credits": 3,
+      "description": "Credit only granted for: HESP120 or LING200. Additional information: This course serves as the prerequisite for further courses in linguistics. An exploration of the nature of human language. Introduction to the basic concepts and methodology of modern linguistic analysis (sound systems, word formation, sentence structure). Examination of the factors that contribute to dialect differences and the social implications of language variation. Additional topics may include: semantics, pragmatics, lan",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "LING"
+    },
+    {
+      "code": "MLAW100",
+      "title": "Justice and the Law",
+      "credits": 3,
+      "description": "Restriction: Course enrollment is restricted to first-semester students in the College Park Scholars Justice and Legal Thought Program (CPJT). An exploration into the relationship between justice and law, including psychological, philosophical, political and legal approaches to justice, as well as an analytical framework for understanding human rights.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "MLAW"
+    },
+    {
+      "code": "NAVY100",
+      "title": "Introduction to Naval Science",
+      "credits": 3,
+      "description": "Introduction to the naval profession and concepts of sea power. Major topics explored are the mission, strategy, organization, and descriptions of the U.S. Navy and Marine Corps. Students will gain a basic understanding of warfighting capabilities, required leadership skills, training and education, and the duties and responsibilities of a U.S. Navy and Marine Corps Junior Officer. The student will learn Naval courtesy and customs, military justice, and nomenclature as well as the professional c",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "NAVY"
+    },
+    {
+      "code": "PHIL202",
+      "title": "Know Thyself: Wisdom Through Cognitive Science",
+      "credits": 3,
+      "description": "Credit only granted for: PHIL209N or PHIL202. Formerly: PHIL209N. How do we improve our decision making? Cognitive science demonstrates that self-knowledge isn't as easy as we think, and that there are numerous biases and fallacies that impact our decision-making in ways that are hard for us to be aware of. In this course you will learn what some of these are and how they have been discovered, and you will explore potential strategies for avoiding these fallacies and for making wiser choices.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHYS235",
+      "title": "The Manhattan Project",
+      "credits": 3,
+      "description": "Recommended: Students should be comfortable standard high school algebra II. Credit only granted for: PHYS199M or PHYS235. Formerly: PHYS199M. Introduction to some critical ideas of nuclear physics and a review of some key historical developments starting at the end of the 19th century.  Chronological development of nuclear physics from the discovery of radioactivity by Becquerel in 1896 through to the discovery of fission in Germany in 1938 followed by an examination of the programs to develop ",
+      "geneds": [
+        "DSHS",
+        "DSNS",
+        "SCIS"
+      ],
+      "department": "PHYS"
+    },
+    {
+      "code": "PLCY100",
+      "title": "Foundations of Public Policy",
+      "credits": 3,
+      "description": "A survey course, focusing on public policy institutions and analytical issues as well as on overview of key public policy problems. Students will be introduced to public policy as a discipline, with a brief overview of the actors and institutions involved in the process, and familiarize themselves with the kinds of problems typically requiring public action. The course will examine these problems from a multijurisdictional and multisectoral perspective. Specific policy areas examined include edu",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "PLCY"
+    },
+    {
+      "code": "PLCY101",
+      "title": "Great Thinkers on Public Policy",
+      "credits": 3,
+      "description": "Great ideas in public policy, such as equality, efficiency, sovereignty, liberty, bureaucracy, democracy and security are explored through the lens of great thinkers. An introduction to the intellectual foundations of public policy, from ancient theories on collective public action through the more contemporary development of public policy as a discipline. This may start as early as the ancient Greek philosophers and their views on public action through contemporary classics of public policy. At",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "PLCY"
+    },
+    {
+      "code": "PLCY201",
+      "title": "Public Leaders and Active Citizens",
+      "credits": 3,
+      "description": "Credit only granted for: PLCY201 or PUAF201. Formerly: PUAF201. Aims to inspire, teach and engage students in the theory and practice of public leadership from the local to the national to the global level. Students will learn and apply diverse approaches to leadership in a multicultural society while developing an understanding of key frameworks and practices necessary to foster collective action across private, public, and nonprofit sectors. This course will allow students to become informed c",
+      "geneds": [
+        "DSHS",
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "PLCY"
+    },
+    {
+      "code": "PLCY201S",
+      "title": "Public Leaders and Active Citizens",
+      "credits": 3,
+      "description": "Credit only granted for: PLCY201 or PUAF201. Formerly: PUAF201. Aims to inspire, teach and engage students in the theory and practice of public leadership from the local to the national to the global level. Students will learn and apply diverse approaches to leadership in a multicultural society while developing an understanding of key frameworks and practices necessary to foster collective action across private, public, and nonprofit sectors. This course will allow students to become informed c",
+      "geneds": [
+        "DSHS",
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "PLCY"
+    },
+    {
+      "code": "PORT234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "PORT"
+    },
+    {
+      "code": "PSYC100",
+      "title": "Introduction to Psychology",
+      "credits": 3,
+      "description": "A basic introductory course intended to bring the student into contact with the major problems confronting psychology and the more important attempts at their solution.",
+      "geneds": [
+        "DSHS",
+        "DSNS"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "PSYC221",
+      "title": "Social Psychology",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100. The influence of social factors on the individual and on interpersonal behavior. Includes topics such as conformity, attitude change, personal perception, interpersonal attraction, and group behavior.",
+      "geneds": [
+        "DSHS",
+        "DSSP"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "PSYC234",
+      "title": "Living the Good Life: The Psychology of Happiness",
+      "credits": 3,
+      "description": "Credit only granted for: PSYC234 or PSYC289D. Formerly: PSYC289D. What are the secrets to living a happy life? Can happiness be found within the context of war, a depressed economy, violence and other major stressors? Are some people born happier than others? This course will teach you the scientific process that psychologists use to study happiness (and related emotional variables) and give you the opportunity to practice applying that process in a number of ways. You will learn how we (a) gath",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "PSYC336",
+      "title": "Psychology of Women",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100. Cross-listed with: WGSS336. Credit only granted for: PSYC336, WMST336 or WGSS 336. Formerly: WMST336. A study of the biology, life span development, socialization, personality, mental health, and special issues of women.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "PSYC354",
+      "title": "Multicultural Psychology in the U.S.",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100. What are the psychological implications of racism, sexism, homophobia and other structures of inequality in the United States? How do socio-cultural privilege and oppression influence individual and group thoughts, feelings, and behaviors? This course will take a current events focus to understanding multicultural and social justice issues in psychology with an emphasis on self-reflection, mental health, cross-cultural communication, and strategies for social change.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "PSYC"
+    },
+    {
+      "code": "RELS230",
+      "title": "Inventing Traditions: The Making of Rabbinic Judaism",
+      "credits": 3,
+      "description": "Cross-listed with: HIST281, JWST230. Credit only granted for: HIST281, JWST230, RELS219C or RELS230. Formerly: RELS219C. Introduces the dramatic literary and cultural (as well as political and demographic) innovations that reshaped Judaism in late antiquity. Examines the fundamental works and genres of rabbinic literature and the religious movement that produced them. Special emphasis on the rabbinic uses of \"tradition\" to enhance authority and legitimacy, and to foster group identity.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS289C",
+      "title": "Jews, Christians, and Muslims in Medieval Spain: Tolerance, Oppression, and the Problematic Past",
+      "credits": 3,
+      "description": "Cross-listed with: HIST289A. Credit only granted for: HIST289A or RELS289C. For 800 years, medieval Spain was home to one of the most religiously diverse societies in European history. Despite frequent hostilities, the interactions of Spanish Jews, Christians, and Muslims produced a flowering of science, theology, and literature in an often remarkably tolerant climate. Students will learn how medieval Spanish people themselves experienced interreligious contact and conflict. They will also disco",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "SOCY100",
+      "title": "Introduction to Sociology",
+      "credits": 3,
+      "description": "Introduces fundamental concepts and theories of sociology. Guided by C. Wright Mills' \"sociological imagination,\" the course promotes critical thinking; challenges conventional assumptions about culture politics, history, and psychology; and equips students with theoretical approaches and research methods to analyze various sociological topics, including family, work, education, religion, social movements, and issues related to class, gender, race, and ethnic inequalities.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY105",
+      "title": "Understanding Contemporary Social Problems - Frameworks for Critical Thinking and Strategies for Solutions",
+      "credits": 3,
+      "description": "Embark on an exploration of contemporary social issues and unravel the intricate ways in which these challenges are woven into the fabric of society. Develop a comprehensive understanding of societal organization and partake in a detailed study of selected social problems, with a specific emphasis on issues like social conflict and inequality. This course provides an insightful journey into the nuanced interplay between societal structure and prevalent challenges, fostering a heightened awarenes",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY200",
+      "title": "Innovation, Exploration and the Evolution of Human Societies",
+      "credits": 3,
+      "description": "We will explore the nature of human societies through comparative, historical, and interdisciplinary perspectives. Students will delve into the core of social structures, unravel the defining components of society, and examine their organization, evolution, and impact on collective existence. Students will also explore the socio-historical forces and geopolitical dynamics that drive social change to analyze the complex connections that illuminate our shared social experience across time.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY223",
+      "title": "Down the Rabbit Hole: Conspiracy Theories, Paranormal Beliefs, and How to Know What's Real",
+      "credits": 3,
+      "description": "It is becoming increasingly difficult to know what's real. We live in a world replete with deception, biases, fake images that seem indecipherable from real ones, and widespread and coordinated efforts to misinform us. Not unrelated to this, belief in conspiracy theories and the paranormal are flourishing. This course will explore the reasons why we so often believe claims that scientists reject and accept contentions that powerful and sinister conspirators are secretly controlling major events.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY224",
+      "title": "Why are We Still Talking About Race?",
+      "credits": 3,
+      "description": "Explore and discuss the major debates and assumptions that construct perceptions of race and how they matter. Sociological and social science theories will give students a historical and present day frame with which to view race and ethnic relations in the twenty-first century.",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY227",
+      "title": "Introduction to the Study of Deviance",
+      "credits": 3,
+      "description": "An introduction to the sociological study of deviant behavior, covering such topics as mental illness, sexual deviance, and the use of drugs.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY230",
+      "title": "Sociological Social Psychology",
+      "credits": 3,
+      "description": "Why do people do that? Sitting at the nexus of sociology and psychology, this course surveys the various ways in which sociologists have answered this question. We investigate individuals-for example, how they develop and understand themselves in relation to others, how they choose to present themselves to the world, and how they form thoughts and opinions. And we study larger units of analyses, from small groups to the broader society. Topics covered include socialization, identity formation, s",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY241",
+      "title": "Inequality in American Society",
+      "credits": 3,
+      "description": "Credit only granted for: SOCY241 or SOCY441. A broad-based overview of inequality in contemporary U.S. society, focusing on measuring patterns and trends over time. A series of learning modules familiarizes students with how inequality unfolds in relation to social stratification processes along the lines of race, gender, education and social class, income and wealth, and health.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY322",
+      "title": "Immigration and Ethnicity in the US",
+      "credits": 3,
+      "description": "Cross-listed with: AAST322. Credit only granted for: AAST322, SOCY222, HIST322 or SOCY322. Formerly: AAST222, SOCY222. Explores historical and contemporary Asian immigration to the US in comparison to and in the context of other immigrant groups. From low-skilled laborers to highly-skilled professionals, Asian and other immigrants have been an integral part of the shifting US economy and society since its inception. The course includes theories on why immigration occurs, determinants of its cont",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY340",
+      "title": "Globalization's Winners and Losers",
+      "credits": 3,
+      "description": "What is the relationship between globalization and inequality? This course examines the factors shaping both between-nation and within-nation household income inequality for the past century. It is divided into four parts, each considering a different factor. First we seek to understand global trade historically. Second, we examine the more recent phenomenon of outsourcing. Third, we examine welfare and taxation policy and its role in shaping domestic inequality. Finally, we analyze the mechanis",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SPAN234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "THET287",
+      "title": "Subversive Cultures and Performance",
+      "credits": 3,
+      "description": "Credit only granted for: THET289I or THET287. Formerly: THET289I. Every society has rebels - those who refuse to conform to the mainstream's rigid rules, aesthetics, and beliefs. From unruly skateboarders, punk rockers, bohemian poets, and radical theater performers, to national revolutionary movements and brick-throwing anarchists - such groups form niches that are defined by their exclusion from society. We will look at how their beliefs and actions fit into a particular historical context, an",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "TLPL206",
+      "title": "Forbidden Books: Censorship of Children's and Young Adult Literature",
+      "credits": 3,
+      "description": "Credit only granted for: TLPL288W or TLPL206. Formerly: TLPL288W. What is the relationship between censorship and intellectual freedom? This course examines the history of censorship from Plato to Fake News with a focus on contemporary censorship analyzed through historical, political, ethical, moral, philosophical, and socio-cultural perspectives. We consider the evolving definition of censorship, forms of censorship, the rationalizations and arguments for censorship, and the consequences and u",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "TLPL253",
+      "title": "Language Rights and Repression in Education",
+      "credits": 3,
+      "description": "Many English-speaking Americans view societal monolingualism and English-speaking in schools as the standard. The proposed course will delve deeply into issues associated with language, language rights, education, and linguistic repression in schooling. The Big Question of our time this course asks is: Are access to education and native language maintenance civil rights? Human rights?",
+      "geneds": [
+        "DSHS",
+        "SCIS"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "TLPL360",
+      "title": "Foundations of Education",
+      "credits": 3,
+      "description": "Credit only granted for: EDPS301 or TLPL360. Formerly: EDPS301. Social context of education and conflicts over philosophies, values, an goals that are reflected in educational institutions in our pluralistic society. Helps teachers become reflective, critical thinkers about the social and philosophical issues they face and the choices they make.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "TLPL414",
+      "title": "Knowing and Learning in Mathematics and Science",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in TLPL102. Credit only granted for: TLPL488M or TLPL414. Formerly: TLPL488M. Special and intensive treatment of current topics and issues in mathematics and science teaching and learning, policy and leadership. The overall goal of the course is to orient future teachers to the discourses and theories that shape what we know about how students learn math and science.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "WGSS200",
+      "title": "Introduction to WGSS: Gender, Power, and Society",
+      "credits": 3,
+      "description": "Credit only granted for: WMST200 or WGSS200. Formerly: WMST200. Examines constructions of race, class, sexuality, ability, and gender relations from a social science multi-disciplinary perspective. The course interrogates the ways that systems of hierarchy and privilege are created, enforced, and intersect through the language of race, class, sexuality, and national belonging. The course will provide students with the skills to examine how systems of power manifest in areas such as poverty, divi",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS205",
+      "title": "Reproductive Justice: An Introduction",
+      "credits": 3,
+      "description": "Developed by feminists of color, reproductive justice frameworks offer a roadmap for economic, social, and medical justice advocacy attentive to the intersections of race, class, gender, sexuality, and disability. This course reviews the historical, legal, and social bases of reproductive rights in the U.S.; discusses the history of feminist organizing for reproductive freedom; surveys critical theories of reproductive justice that go beyond abortion law to advocate for broader social transforma",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS290",
+      "title": "Bodies in Contention",
+      "credits": 3,
+      "description": "Credit only granted for: WMST298D or WGSS290. Formerly: WMST298D. Explores the contributions of feminist scholarship in framing and resolving contemporary controversies concerning gendered bodies. It includes the ways in which knowledge about the human body has been shaped by cultural ideas of gender, race, sexuality and ability.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS336",
+      "title": "Psychology of Women",
+      "credits": 3,
+      "description": "Prerequisite: PSYC100. Cross-listed with: PSYC336. Credit only granted for: PSYC336, WMST336 or WGSS 336. Formerly: WMST336. A study of the biology, life span development, socialization, personality, mental health, and special issues of women.",
+      "geneds": [
+        "DSHS"
+      ],
+      "department": "WGSS"
+    }
+  ]
+}

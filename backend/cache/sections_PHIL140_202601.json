@@ -1,0 +1,59 @@
+{
+  "cached_at": "2025-10-03T17:37:20.972930",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0102",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0103",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0104",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0105",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    },
+    {
+      "section_id": "0106",
+      "instructor": "Instructor: TBA",
+      "days": "MW",
+      "time": "10:00am-10:50am",
+      "location": "ESJ 1202",
+      "open_seats": 20,
+      "total_seats": 20
+    }
+  ]
+}

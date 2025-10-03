@@ -1,0 +1,1587 @@
+{
+  "cached_at": "2025-10-03T17:49:53.806579",
+  "data": [
+    {
+      "code": "AAAS100",
+      "title": "Introduction to African American and Africana Studies",
+      "credits": 3,
+      "description": "Credit only granted for: AASP100 or AAAS100. Formerly: AASP100. Significant aspects of the history of African Americans with particular emphasis on the evolution and development of black communities from slavery to the present. Interdisciplinary introduction to social, political, legal and economic roots of contemporary problems faced by blacks in the United States with applications to the lives of other racial and ethnic minorities in the Americas and in other societies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS187",
+      "title": "The New Jim Crow: African-Americans, Mass Incarceration and the Prison Industrial Complex",
+      "credits": 3,
+      "description": "Recommended: AASP100. Credit only granted for: AASP187 or AAAS187. Formerly: AASP187. Students will examine the birth of the racial caste system following the abolition of slavery, the parallels between the racial hierarchy of the Jim Crow system and contemporary mass incarceration, and the rise of the prison industrial complex as a multi-billon business which thrives on the oppression of low-income populations and poor communities of color.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS202",
+      "title": "Black Culture in the United States",
+      "credits": 3,
+      "description": "Credit only granted for: AASP202 or AAAS202. Formerly: AASP202. The course examines important aspects of African American life and thought which are reflected in African American literature, drama, music and art. Beginning with the cultural heritage of slavery, the course surveys the changing modes of Black creative expression from the 19th-century to the present.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS211",
+      "title": "Get Out: The Sunken Place of Race Relations in the Post-Racial Era",
+      "credits": 3,
+      "description": "Credit only granted for: AASP211 or AAAS211. Formerly: AASP211. Prevailing thought suggests that we live in an era that is post-racial, particularly after the election of Barack Obama. Media often serves to drive our assessment of where our nation stands on issues like race, gender and sexuality. This course uses the film Get Out to delve into the production, evolution and significance of race in present day America. The course will engage multiple forms of media to investigate life in \"Post-Rac",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS230",
+      "title": "Social (In)Justice and African-American Health and Well-Being",
+      "credits": 3,
+      "description": "Credit only granted for: AASP230 or AAAS230. Formerly: AASP230. African Americans suffer worse outcomes than non-Hispanic whites on nearly every health measure and outcomes that link to overall well-being like depressive symptoms or homicides. Health disparities are experienced by other underrepresented minority groups, but because of the unique historic and current experiences of African Americans, the determinants and solutions to African American health disparities are unique. The premise of ",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS234",
+      "title": "African-American Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL234. Credit only granted for: ENGL234, AAAS234 or AASP298L. An exploration of the stories black authors tell about themselves, their communities, and the nation as informed by time and place, gender, sexuality, and class. African American perspective themes such as art, childhood, sexuality, marriage, alienation and mortality, as well as representations of slavery, Reconstruction, racial violence and the Nadir, legalized racism and segregation, black patriotism and black e",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS254",
+      "title": "African-American History to 1865",
+      "credits": 3,
+      "description": "Cross-listed with: HIST254. Credit only granted for: HIST254, AAAS254 or AASP298C. Survey of the principal developments in the history and culture of the peoples of African descent in colonial North America and the United States to 1865. Examines the African past, the Atlantic slave trade, variation in slavery, the growth of free black communities, the transformations of families and cultural forms, and patterns of resistance.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAAS400",
+      "title": "Directed Readings in African American and Africana Studies",
+      "credits": 3,
+      "description": "Prerequisite: AAAS202 or AAAS100. Credit only granted for: AASP400 or AAAS400. Formerly: AASP400. The readings will be directed by the faculty of African American Studies. Topics to be covered will be chosen to meet the needs and interests of individual students.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAAS"
+    },
+    {
+      "code": "AAST200",
+      "title": "Introduction to Asian American Studies",
+      "credits": 3,
+      "description": "Cross-listed with: AMST298C. Credit only granted for: AAST200 or AMST298C. The aggregate experience of Asian Pacific Americans, from developments in the countries of origin to their contemporary issues. The histories of Asian Pacific American groups as well as culture, politics, the media, and stereotypes, viewed from an interdisciplinary perspective.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST322",
+      "title": "Immigration and Ethnicity in the US",
+      "credits": 3,
+      "description": "Cross-listed with: SOCY322. Credit only granted for: AAST322, SOCY222, HIST322 or SOCY322. Formerly: AAST222, SOCY222. Explores historical and contemporary Asian immigration to the US in comparison to and in the context of other immigrant groups. From low-skilled laborers to highly-skilled professionals, Asian and other immigrants have been an integral part of the shifting US economy and society since its inception. The course includes theories on why immigration occurs, determinants of its cont",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST351",
+      "title": "Asian Americans and Media",
+      "credits": 3,
+      "description": "Credit only granted for: AAST351, AAST398M or AAST398N. Formerly: AAST398M, AAST398N. From yellow peril invaders to model minority allies, Asian Americans have crafted their own dynamic cultural expressions in a number of media from film, television, and music to fashion, sports, and food that reveal and contest the contradictions of the U.S. nation-state. Asian American culture also uniquely sits at the nexus of immigration flows and digital technologies, providing a transnational lens to view ",
+      "geneds": [
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST355",
+      "title": "Asian Americans in Film",
+      "credits": 3,
+      "description": "Cross-listed with: AMST328W. Credit only granted for: AAST355, AAST398L or AMST328W. Formerly: 398L. Explores how Asian Americans have historically been represented in the U.S. by Hollywood, and in turn, how independent and Hollywood Asian American filmmakers have represented themselves. It covers the history of racial, gendered, and sexualized representations of Asian Americans in Hollywood, as well as Asian American filmic responses within and outside Hollywood. It also introduces how four bas",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST363",
+      "title": "Filipino American History and Biography",
+      "credits": 3,
+      "description": "Cross-listed with: AMST323. Credit only granted for: AAST363, AMST323, AAST398D, or AMST328J. Formerly: AAST398D. Focus is placed on Filipino American experiences with an emphasis on identity, community building and organizing to influence public policy We will cover pertinent events from the US and Philippine history in order to understand the impact of colonialism, migration, immigration and assimilation on Filipino Americans.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST440",
+      "title": "South Asian American Literature and Culture",
+      "credits": 3,
+      "description": "Credit only granted for: AAST440 or AAST498W. Formerly: AAST498W. Examines writing by South Asian American authors and authors writing about South Asian American issues. It explores major South Asian diaspora themes, considering how migration, war, the events of 9/11, global capitalism, and the changing socio-political and racial scene have affected South Asians in the United States. We will use a transnational approach to consider how writers and filmmakers explore gender, class, religious, cas",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "AAST443",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AMST498J, GVPT368C. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultu",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AAST"
+    },
+    {
+      "code": "ABRM330",
+      "title": "Introduction to Anti-Black Racism",
+      "credits": 3,
+      "description": "Additional information: This interdisciplinary course will consist of two-week modules from key faculty/scholars in College of Behavioral and Social Sciences, College of Arts and Humanities, School of Public Health, School of Public Policy, and College of Education to explore how anti-Black racism operates in society. This interdisciplinary course seeks to provide a broad overview of this rich and dynamic history. Built around the expertise of top UMD faculty in five colleges, this course will i",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "ABRM"
+    },
+    {
+      "code": "AMST101",
+      "title": "Introduction American Studies",
+      "credits": 3,
+      "description": "Credit only granted for: AMST101 or AMST201. Formerly: AMST201. Introduces students to the interdisciplinary field of American Studies by examining concepts such as culture, identity, cultural practices, and globalization, as well as theories underlying these concepts. Engages key themes, especially constructions of difference and identity, cultures of everyday life, and America and the world.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST203",
+      "title": "Popular Culture in America",
+      "credits": 3,
+      "description": "An introduction to American popular culture, its historical development, and its role as a reflection of and influence on our culture and society.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST204",
+      "title": "Film and American Culture Studies",
+      "credits": 3,
+      "description": "Exploration of the American film from a historical perspective, illustrating the motion picture's role as an institutional phenomenon, as a form of communication, and as a source of cross-cultural study.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST205",
+      "title": "American Material Culture: The Study of People, Places, and Things",
+      "credits": 3,
+      "description": "Historical survey of American material culture. Ways of describing and interpreting accumulated material evidence (e.g., buildings, town plans) introduced by stressing relationship between artifact and culture.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST298C",
+      "title": "Introduction to Asian American Studies",
+      "credits": 3,
+      "description": "Cross-listed with: AAST200. Credit only granted for: AAST200 or AMST298C. The aggregate experience of Asian Pacific Americans, from developments in the countries of origin to their contemporary issues. The histories of Asian Pacific American groups as well as culture, politics, the media, and stereotypes, viewed from an interdisciplinary perspective.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST298Q",
+      "title": "U.S. Latinx Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL235. Credit only granted for: ENGL235 or AMST298Q. Examines the poetry, prose, and theater of Latinx communities in the United States from their origins in the Spanish colonization of North America to their ongoing development in the 21st century. Considers how authors use literary form to gain insight into human experience, including mortality, religious belief, gender and sexuality, war and peace, family, language use, scientific inquiry, cultural tradition, ecology, and",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST320",
+      "title": "(Dis)ability in American Film",
+      "credits": 3,
+      "description": "Credit only granted for: AMST320 or AMST328X. Formerly: AMST328X. Explores the connection between film and disability through an analysis of independent and mainstream American films in various film genres. Specifically, we will consider how these film representations reflect and/or challenge the shifting social perspectives of disability over the 20th and 21st centuries.  Beginning with the presentation of disability as theatrical spectacle in the traveling sideshow and early cinema, we will wo",
+      "geneds": [
+        "DSHU",
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST323",
+      "title": "Filipino American History and Biography",
+      "credits": 3,
+      "description": "Cross-listed with: AAST363. Credit only granted for: AAST363, AMST323, AAST398D, or AMST328J. Formerly: AAST398D. Focus is placed on Filipino American experiences with an emphasis on identity, community building and organizing to influence public policy We will cover pertinent events from the US and Philippine history in order to understand the impact of colonialism, migration, immigration and assimilation on Filipino Americans.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST328W",
+      "title": "Asian Americans in Film",
+      "credits": 3,
+      "description": "Cross-listed with: AAST355. Credit only granted for: AAST355, AAST398L or AMST328W. Formerly: 398L. Explores how Asian Americans have historically been represented in the U.S. by Hollywood, and in turn, how independent and Hollywood Asian American filmmakers have represented themselves. It covers the history of racial, gendered, and sexualized representations of Asian Americans in Hollywood, as well as Asian American filmic responses within and outside Hollywood. It also introduces how four basi",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "AMST498J",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AAST443, GVPT368C. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultur",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "AMST"
+    },
+    {
+      "code": "ANTH210",
+      "title": "Introduction to Medical Anthropology and Global Health",
+      "credits": 3,
+      "description": "An introduction to the central concepts in medical anthropology and the anthropology of global health. This course is a survey of anthropological notions of health, disease, and the body in cross-cultural and global contexts, including classic and contemporary texts. It will provide an examination of systems of knowledge and practice with regard to illness, healing, and global health inequities.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH222",
+      "title": "Introduction to Ecological and Evolutionary Anthropology",
+      "credits": 4,
+      "description": "Credit only granted for: ANTH220 or ANTH222. An introduction to the evolution of human physiology and human behavior, the relationship between hominid and non-hominid primates, and the study of relationships between a population of humans and their biophysical environment.",
+      "geneds": [
+        "DSNL",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH240",
+      "title": "Introduction to Archaeology",
+      "credits": 3,
+      "description": "Exploration of the variety of past human societies and cultures through archaeology, from the emergence of anatomically modern humans to the more recent historical past.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH260",
+      "title": "Introduction to Sociocultural Anthropology and Linguistics",
+      "credits": 3,
+      "description": "Culture and social relationships in a wide variety of settings from small-scale to complex societies. An overview of how anthropology analyzes human behavior. Particular attention to the relationship between language and culture.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH265",
+      "title": "Anthropology of Global Health",
+      "credits": 3,
+      "description": "An overview of the growing field of global health including health care systems, medical practices, ideas about illness in cross-cultural contexts, issues of health development, global health inequity, and human rights issues. The course will focus on the history of global health, the critique of major international health agencies and their development paradigms, and the political economy of social inequalities and health.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "ANTH310",
+      "title": "Method & Theory in Medical Anthropology and Global Health",
+      "credits": 3,
+      "description": "Prerequisite: ANTH210. Jointly offered with ANTH665. Credit only granted for: ANTH310, ANTH465, or ANTH665. Formerly: ANTH465. Provides a critical perspective to global health that encompasses key political, economic, and cultural factors associated with the nature and magnitude of global health issues such as HIV/AIDS, tuberculosis and malaria, paying particular attention to how poverty and inequalities within and between societies has accelerated current global health challenges. Introduces st",
+      "geneds": [
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "ANTH"
+    },
+    {
+      "code": "AREC260",
+      "title": "The Science of Gender in Economics and Development",
+      "credits": 3,
+      "description": "Recommended: Completion of introductory statistics recommended but not required. Is science an objective enterprise that qualifies researchers to investigate gender free from the constraints and prejudice of their culture? We will investigate the process by which various scientific disciplines, including anthropology, evolutionary biology, psychology, and economics do research on the topic of gender. We will describe the current state of the literature on why different sexes exist and how sex tr",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "AREC365",
+      "title": "World Hunger, Population, and Food Supplies",
+      "credits": 3,
+      "description": "An introduction to the problem of world hunger and possible solutions to it. World demand, supply, and distribution of food. Alternatives for leveling off world food demand, increasing the supply of food, and improving its distribution. Environmental limitations to increasing world food production.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "AREC445",
+      "title": "Agricultural Development, Population Growth and the Environment",
+      "credits": 3,
+      "description": "Prerequisite: ECON326 or AREC326; or students who have taken courses with comparable content may contact the department. Development theories, the role of agriculture in economic development, the agricultural policy environment, policies impacting on rural income and equity, environmental impacts of agricultural development.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "AREC"
+    },
+    {
+      "code": "ARTH200",
+      "title": "Art and Society in Ancient and Medieval Europe and the Mediterranean",
+      "credits": 3,
+      "description": "Examines the material culture and visual expressions of Mediterranean and European societies from early times until ca. 1300 CE, emphasizing the political, social, and religious context of the works studied, the relationships of the works to the societies that created them, and the interrelationship of these societies.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH201",
+      "title": "Art and Society in the West from the Renaissance to the Present",
+      "credits": 3,
+      "description": "Examines representative European and American works of art from the later Middle Ages to the present, highlighting the dynamic exchange between artistic and cultural traditions both within periods and across time.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH261",
+      "title": "Monuments, Monumentality, and the Art of Memorial",
+      "credits": 3,
+      "description": "Why do societies create monuments? And why do they preserve and destroy, change and remove them? How do monuments embody cultural values, shape historical narratives, and become sites of mourning and memory? This course investigates the political and cultural work of monuments across time and space, from the ancient world to European empires to the contemporary United States. The issues we consider include intercultural exchange and religious contexts, race and representation, and appropriation ",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH303",
+      "title": "Roman Art and Archaeology",
+      "credits": 3,
+      "description": "Sites and monuments of painting, sculpture, architecture, and the minor arts from the earliest times through the third century A.D. with emphasis on the Italian peninsula from the Etruscan period through that of Imperial Rome.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "ARTH313",
+      "title": "Medieval Art: Cultural Exchanges in the Byzantine World",
+      "credits": 3,
+      "description": "Recommended: ARTH200 or ARTH201. Focuses on the art and architecture from the eastern Mediterranean, specifically, the Byzantine empire. Our broad focus will be on the formation and evolution of the visual arts in Byzantium as a result of exchanges with various cultural, ethnic, and religious entities and traditions. In this context, we will be looking at the legacy of the Graeco-Roman past, contacts with Islamic world, as well as with people and cultures along the periphery of Byzantium: from t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ARTH"
+    },
+    {
+      "code": "BSCI151",
+      "title": "Beyond Race: Human Biological Diversity",
+      "credits": 3,
+      "description": "Credit only granted for: BSCI189I, BSCI150 or BSCI151. Formerly: BSCI150. Do racial labels have any practical use in understanding human biological diversity?  Such categorizations are inextricably linked to racism, including a history of misuse in science going back hundreds of years, yet modern biological research and medicine often include the use of race.  At its core, addressing this question requires understanding the balance between genetic and non-genetic factors underlying human diversi",
+      "geneds": [
+        "DSNS",
+        "DSSP",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "BSCI"
+    },
+    {
+      "code": "CCJS370",
+      "title": "Race, Crime and Criminal Justice",
+      "credits": 3,
+      "description": "Role and treatment of racial/ethnic minorities in the criminal justice system. Course will provide students with historical and theoretical framework for understanding this dynamic.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "CCJS"
+    },
+    {
+      "code": "CHIN425",
+      "title": "Ethnic and Cultural Diversity in China",
+      "credits": 3,
+      "description": "Recommended: Any CHIN course or course on China. This course looks into ethnic and cultural diversity in China. It examines the evolution of the People's Republic of China's (PRC) ethnic policies in relation to nation-state building over the last six decades. Specifically, it studies how the PRC has categorized the Chinese people into 56 ethnic groups, how it has made affirmative action policies to accommodate ethnic diversity, and what problems its approaches have experienced and what solutions",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "CHIN"
+    },
+    {
+      "code": "CHSE205",
+      "title": "Disability: From Stigma and Sideshow to Mainstream and Main Street",
+      "credits": 3,
+      "description": "Credit only granted for: EDSP289I or CHSE205. Formerly: EDSP289I. Explores the cultural, historical, educational, and medical roots of difference among human beings and examines the impact of cultural and technological changes on individuals traditionally identified as disabled. The course is designed to develop a broad understanding of the concept of \"disability\" and the emerging technologies that shape contemporary understanding of this phenomenon and the lives of those considered disabled.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "CHSE"
+    },
+    {
+      "code": "CINE280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with: CMLT280. Credit only granted for: CINE280, FILM298D or CMLT280. Formerly: FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CLAS340",
+      "title": "Ancient Slavery and its American Impacts",
+      "credits": 3,
+      "description": "Cross-listed with: HIST339J. Credit only granted for: CLAS340 or HIST339J. Interrogates how slavery permeated the ancient Mediterranean societies of Greece and Rome. We will pay particular attention to how hierarchical inequalities are institutionalized, experienced, and represented and to how different marginalized and dominant groups interacted. Enslaved persons performed necessary labor in Greece and Rome and their work was essential for the formation of ancient society in agriculture, mining",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CLAS"
+    },
+    {
+      "code": "CMLT235",
+      "title": "Black Diaspora Literature and Culture",
+      "credits": 3,
+      "description": "Examination of key works by writers of the African Diaspora. Relationship among black people across multiple geographic spaces; Africa, the Caribbean, the United States, Europe, Latin America, and Asia. Specific historical, cultural, and literary contexts; themes such as gender, sexuality, migration, slavery, freedom, and equality. Readings may include literary texts (fiction, poetry, drama), music and film. All readings in English, but drawn from multiple languages of the black diaspora, includ",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT270",
+      "title": "Global Literature and Social Change",
+      "credits": 3,
+      "description": "Comparative study of literature through selected literary works from several non-Western cultures, viewed cross-culturally in light of particular social, political, and economic perspectives.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT275",
+      "title": "World Literature by Women",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS275. Credit only granted for: WMST275, CMLT275 or WGSS275. Formerly: WMST275. Comparative study of selected works by women writers of several countries, exploring points of intersection and divergence in women's literary representations.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT277",
+      "title": "Literatures of the Americas",
+      "credits": 3,
+      "description": "Comparative study of several North, South, and Central American cultures with a focus on the specificities, similarities, and divergences of their literary and cultural texts.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "CMLT280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with: CINE280. Credit only granted for: CINE280, FILM298D or CMLT280. Formerly: FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CMLT"
+    },
+    {
+      "code": "COMM324",
+      "title": "Communication and Gender",
+      "credits": 3,
+      "description": "Explores how communication shapes constructions of gender, sex, sexuality and other identity markers. Topics include issues of oppression, identity, and power and social, political, and economic situations and examines how these issues impact our daily lives.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "COMM"
+    },
+    {
+      "code": "EDCP489",
+      "title": "Field Experiences in Counseling and Personnel Services",
+      "credits": 1,
+      "description": "",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "EDCP"
+    },
+    {
+      "code": "EDHD230",
+      "title": "Human Development and Societal Institutions",
+      "credits": 3,
+      "description": "Development of the individual in the context of relationships with the formal and informal institutions of society. An examination of various aspects of development from the broad perspective of the social sciences.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "EDHD"
+    },
+    {
+      "code": "EDSP210",
+      "title": "Foundations of Special Education: Inclusive Practices",
+      "credits": 3,
+      "description": "Restriction: Sophomore standing or lower. Credit only granted for: EDSP210, EDSP211 or EDSP470. Students examine historical foundations of special education, including legislation; review components necessary for effective service delivery; and develop an understanding of the role of collaboration and consultation with parents, school personnel and other professionals.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "EDSP211",
+      "title": "Foundations of Special Education: Inclusive Practices",
+      "credits": 3,
+      "description": "Restriction: Sophomore standing or lower; and permission of EDUC-Counseling, Higher Education and Special Education department. Credit only granted for: EDSP210, EDSP211 or EDSP470. Students examine historical foundations of special education, including legislation; review components necessary for effective service delivery; and develop an understanding of the role of collaboration and consultation with parents, school personnel and other professionals.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "EDSP310",
+      "title": "International Perspective on Educational Access for People with Disabilities",
+      "credits": 3,
+      "description": "A deep dive into the intersectionality of disability, culture, social norms, policy and more that impacts educational access for people with disabilities in a global context.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "EDSP311",
+      "title": "Peer Mentor Training and Certification",
+      "credits": 3,
+      "description": "Opportunity for peer mentor training and field experience for national CRLA certification (crla.net) to become a certified peer mentor by learning about and providing inclusive support for students with intellectual disabilities (ID) in the inclusive post-secondary TerpsEXCEED program at UMD.  Students will develop an understanding of disability inclusion and ways to support students and build friendships through a mentoring relationship. Direct application of content instruction with weekly fie",
+      "geneds": [
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "EDSP470",
+      "title": "Introduction to Special Education",
+      "credits": 3,
+      "description": "Restriction: Must not have completed EDSP210. Credit only granted for: EDSP210, EDSP211 or EDSP470. Designed to give an understanding of the needs of all types of exceptional children.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "EDSP"
+    },
+    {
+      "code": "ENGL134",
+      "title": "The Rites of Discovery: Science, Law, and Literature, 1492-1992",
+      "credits": 3,
+      "description": "History of idea of \"discovery\" from sixteenth-century debate about European \"rights of discovery\" to 500th anniversary, in 1992, of Columbus' landfall in New World. Evolution of modern concept of discovery, both as part of history of science and in legal context of history of European colonialism and cultural encounter with Native peoples of Americas, Africa, and Asia. Exploration of primary and secondary sources relating to international law, science, and literature.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL154",
+      "title": "Race, Children's Television, and the Legacies of Jim Henson",
+      "credits": 3,
+      "description": "Credit only granted for: ENGL154 or ENGL439J. Formerly: ENGL439J. How do children form ideas about race from television? We will approach this question by studying representations of race in children's television from the founding of the animation industry in the 1910s to educational programming epitomized by Sesame Street and the work of Jim Henson. We will also explore representations of race in the \"Saturday Morning Cartoon Lineup\" and in the subsequent proliferation of computer-generated ima",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL234",
+      "title": "African-American Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: AAAS234. Credit only granted for: ENGL234, AAAS234 or AASP298L. An exploration of the stories black authors tell about themselves, their communities, and the nation as informed by time and place, gender, sexuality, and class. African American perspective themes such as art, childhood, sexuality, marriage, alienation and mortality, as well as representations of slavery, Reconstruction, racial violence and the Nadir, legalized racism and segregation, black patriotism and black e",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL235",
+      "title": "U.S. Latinx Literature and Culture",
+      "credits": 3,
+      "description": "Cross-listed with: AMST298Q. Credit only granted for: ENGL235 or AMST298Q. Examines the poetry, prose, and theater of Latinx communities in the United States from their origins in the Spanish colonization of North America to their ongoing development in the 21st century. Considers how authors use literary form to gain insight into human experience, including mortality, religious belief, gender and sexuality, war and peace, family, language use, scientific inquiry, cultural tradition, ecology, an",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL250",
+      "title": "Reading Women Writing",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS255. Credit only granted for: ENGL250, WMST255 or WGSS255. Formerly: WMST255. Explores literary and cultural expressions by women and their receptions within a range of historical periods and genres. Topics such as what does a woman need in order to write, what role does gender play in the production, consumption, and interpretation of texts, and to what extent do women comprise a distinct literary subculture. Interpretation of texts will be guided by feminist and gender t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL265",
+      "title": "LGBTQ+ Literatures and Media",
+      "credits": 3,
+      "description": "Restriction: Must not have completed LGBT265. Cross-listed with: LGBT265. Credit only granted for: ENGL265 or LGBT265. A study of literary and cultural expressions of queer and trans identities, positionalities, and analytics through an exploration of literature, art, and media. We will examine historical and political power relations by considering the intersections of sexuality and gender with race, class, nation, and disability. Topics include the social construction and regulation of sexuali",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL289I",
+      "title": "Gender and Science in Film and Media",
+      "credits": 3,
+      "description": "Cross-listed with: WGSS280. Credit only granted for: ENGL289I or WGSS280. Isaac Azimov once said of science fiction that it is the genre that \"deals with the reaction of human beings to changes in science and technology.\" With this definition in mind, we will embark on a critical exploration of sci-fi film and other media, using it as a lens for analyzing society's deepest fears and most furtive hopes. Our investigation will center on the liminal space between hegemonic culture and its prescribe",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL296",
+      "title": "Reading and Writing Disability: Rights and Representation",
+      "credits": 3,
+      "description": "Locate and analyze disability in various settings, modes, and texts. Investigate the material and cultural effects of the language, stories, and myths of disability. Explore the many definitions and frameworks of disability: as dynamic lived experiences, as a political identity, as a rich culture, as socially constructed barriers, and as an oppressed minority group. Examine how disability is portrayed, controlled, stereotyped, and celebrated across social, medical, political, cultural, and perso",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "ENGL362",
+      "title": "Caribbean Literature in English",
+      "credits": 3,
+      "description": "Cross-listed with: LACS348E. Credit only granted for: ENGL362, LASC348E, or LACS348E. Political and literary traditions that intersect in the fiction, poetry, and drama written in English by Caribbean writers, primarily during the 20th century.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "ENGL"
+    },
+    {
+      "code": "FMSC330",
+      "title": "Family Health:  Health Happens in Families",
+      "credits": 3,
+      "description": "Restriction: Sophomore standing or higher. The objective of this gateway course is to help you understand and apply basic theories and empirical data on family health. The course is designed to provide you with skills to think critically about theories including: Life Course Theory, the Bio-Ecological and Social-Ecological Models, and Systems Theory. We will ask questions about the distinct qualities and intersections of contexts and characteristics that impact the functioning of families.  We w",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC381",
+      "title": "Family Inequality",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in PSYC100, SOCY100, or SOCY105. Restriction: Must be in a major within SPHL-Family Science department. Social, political, cultural and economic factors influencing income and wealth in American families.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FMSC460",
+      "title": "Violence in Families",
+      "credits": 3,
+      "description": "Prerequisite: SOCY100, SOCY105, or PSYC100. Credit only granted for: FMSC460 or FMST460. Formerly: FMST460. Theories of child, spouse, and elder abuse in the family setting. Emphasis on historical, psychological, sociological and legal trends relating to physical, emotional, and sexual abuse. Introduction to methods for prevention and remediation.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "FMSC"
+    },
+    {
+      "code": "FREN242",
+      "title": "Francophone Writers of Africa and the African Diaspora",
+      "credits": 3,
+      "description": "An analysis of the works and ideas of 20th and 21st century Francophone writers (Africa, the Caribbeans, France). Taught in English.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "FREN"
+    },
+    {
+      "code": "GEOG330",
+      "title": "As the World Turns: Society and Sustainability in a Time of Great Change",
+      "credits": 3,
+      "description": "Credit only granted for: GEOG330, GEOG360, or GEOG362. Formerly: GEOG362. Cultural geography course on society and sustainability. Culture is the basic building block that is key to sustainability of societies. Course will cover sustainability of societies on different scales, examining local, regional, and worldwide issues. Sustainability will be examined as a key element of environmental sustainability. How societies adjust to rapid world change will be examined as a positive and/or negative f",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "GEOG"
+    },
+    {
+      "code": "GVPT200",
+      "title": "International Political Relations",
+      "credits": 3,
+      "description": "A study of the major factors underlying international relations, the causes of conflict and cooperation among international actors, the role of international institutions, the interactions of domestic and foreign policies, and major issues in security, economy and the environment.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT210",
+      "title": "Religions, Beliefs, and World Affairs",
+      "credits": 3,
+      "description": "Credit only granted for: GVPT210 or GVPT289L. Formerly: GVPT289L. Introduces students to an increasingly important question: what is the relationship between religion and politics around the world? For a long period in the 20th Century, religion seemed to be decreasing in importance. Eventually, it was thought, religion would simply go away and secularism, development, and rationality would rule the day. In the last generation, however, events like the Iranian Revolution, the rise of the Christi",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "GVPT368C",
+      "title": "Asian American Politics",
+      "credits": 3,
+      "description": "Cross-listed with: AAST443, AMST498J. Credit only granted for: AAST498T, AAST443, GVPT368C or AMST 498J. Formerly: AAST498T. Students will gain a greater understanding of 1) the role of Asian Americans in US politics, 2) the political attitudes and behaviors of Asian Americans and 3) how to conduct research on Asian American politics. Though the class will concentrate on Asian Americans, issues related to Asian American politics will be examined within the larger context of America's multicultur",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "GVPT"
+    },
+    {
+      "code": "HBUS200",
+      "title": "Business and Deliberation:  Innovation and Equity in Conditions of Uncertainty and Diversity",
+      "credits": 3,
+      "description": "Prerequisite: HBUS100 and HBUS105. Restriction: Must be a student in the Interdisciplinary Business Honors Program. How can managers better promote a diversity of thought within their organization?  When business leaders tap into the plurality of perspectives among their employees, they can improve on many dimensions.  Unfortunately, many businesses fail to create a culture of inclusion that puts them at a disadvantage when managing uncertainty. How can managers better listen to internal and ext",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "HBUS"
+    },
+    {
+      "code": "HDCC105",
+      "title": "Introduction to Design Cultures and Creativity I",
+      "credits": 3,
+      "description": "Restriction: Must be in the Design Cultures and Creativity Honors College Living/Learning program. History, concepts, and technologies of creative design expression, coupled with an introduction to development for particular platforms and devices.",
+      "geneds": [
+        "DSSP",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HDCC"
+    },
+    {
+      "code": "HHUM205",
+      "title": "Second Year Seminar in Honors Humanities",
+      "credits": 3,
+      "description": "Credit only granted for: ARHU205 or HHUM205. Formerly: ARHU205. Seminar on basic issues and methodologies in the humanities and arts.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "HHUM"
+    },
+    {
+      "code": "HISP200",
+      "title": "The Everyday and the American Environment",
+      "credits": 3,
+      "description": "Jointly offered with HISP615. An introduction to the theories of the everyday within the context of the American built environment. Focuses primarily on the American experience of underrepresented, minority, and/or immigrant communities; both historical and contemporary. Attempts to challenge what is meant by American in describing the American everyday built environment.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HISP"
+    },
+    {
+      "code": "HIST106",
+      "title": "American Jewish Experience",
+      "credits": 3,
+      "description": "Cross-listed with: JWST141. Credit only granted for: HIST106 or JWST141. History of the Jews in America from Colonial times to the present. Emphasis on the waves of migration from Germany and Eastern Europe; the changing nature of the American Jewish community and its participation in American social, economic, and political life.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST111",
+      "title": "The Medieval World",
+      "credits": 3,
+      "description": "The development of Europe in the Middle Ages; the role of religious values in shaping new social, economic, and political institutions; medieval literature, art and architecture.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST122",
+      "title": "African Civilization to 1800",
+      "credits": 3,
+      "description": "History of Africa from earliest times to 1800. Topics of study include origins of African societies, Nile Valley civilization, medieval African states and societies, Islam, oral traditions, African slavery and the slave trade, and early African-European interactions.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST135",
+      "title": "Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode",
+      "credits": 3,
+      "description": "Cross-listed with: JWST289E. Credit only granted for: HIST135 or JWST289E. An examination of the mechanisms that promote peaceful co-existence in urban societies and a discussion of how and why city streets sometimes become violent.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST201",
+      "title": "Interpreting American History: From 1865 to the Present",
+      "credits": 3,
+      "description": "Credit only granted for: HIST157 or HIST201. Formerly: HIST157. The United States from the end of the Civil War to the present. Economic, social, intellectual, and political developments. Rise of industry and emergence of the United States as a world power.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST250",
+      "title": "History of Colonial Latin America",
+      "credits": 3,
+      "description": "Cross-listed with: LACS250. Credit only granted for: LASC250, HIST250, OR LACS250. Formerly: LASC250. Introductory survey of the history of Latin America from pre-Columbian Indian cultures to the beginning of the wars for independence (ca. 1810), covering cultural, political, social, and economic developments. Major themes include conquest, colonialism, indigenous culture, African slavery, religion, race and ethnicity, and gender ideologies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST254",
+      "title": "African-American History to 1865",
+      "credits": 3,
+      "description": "Cross-listed with: AAAS254. Credit only granted for: HIST254, AAAS254 or AASP298C. Survey of the principal developments in the history and culture of the peoples of African descent in colonial North America and the United States to 1865. Examines the African past, the Atlantic slave trade, variation in slavery, the growth of free black communities, the transformations of families and cultural forms, and patterns of resistance.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST261",
+      "title": "Medicine in an Age of Empires, 1500-1800",
+      "credits": 3,
+      "description": "An introduction to the broad shifts in European medicine of early modern period, a period that saw the extension of overseas empires and the emergence of medicine as a profession. The course offers a thematic and comparative look at the intertwined experiences of disease, empire, and global commerce that reshaped expectations of what medicine could or should do, for whom, and at what cost.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST284",
+      "title": "East Asian Civilization I",
+      "credits": 3,
+      "description": "An interdisciplinary survey of the development of East Asian cultures. An historical approach drawing on all facets of East Asian traditional life, to gain an appreciation of the different and complex cultures of the area.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST289A",
+      "title": "Jews, Christians, and Muslims in Medieval Spain: Tolerance, Oppression, and the Problematic Past",
+      "credits": 3,
+      "description": "Cross-listed with: RELS289C. Credit only granted for: HIST289A or RELS289C. For 800 years, medieval Spain was home to one of the most religiously diverse societies in European history. Despite frequent hostilities, the interactions of Spanish Jews, Christians, and Muslims produced a flowering of science, theology, and literature in an often remarkably tolerant climate. Students will learn how medieval Spanish people themselves experienced interreligious contact and conflict. They will also disco",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HIST401",
+      "title": "Science and Gender",
+      "credits": 3,
+      "description": "Credit only granted for: HIST401 or HIST429R. Formerly: HIST429R. Examines the role of women and gender in the history of science. Includes consideration of barriers to women's participation in science; women's role as scientific subjects and researchers; and questions about the scientific construction of gender and the gendered construction of science.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "HIST"
+    },
+    {
+      "code": "HNUH218R",
+      "title": "Stealing from the Poor, Giving to the Rich: The Political Economy of Global Capitalism",
+      "credits": 3,
+      "description": "Street names and museum exhibits are being renamed in Europe to erase the ghosts of their colonial history. Yet, this speaks of the colonial \"era\" as the past, when in fact it is very much our present. The economic principle driving colonialism--capitalism--encouraged an insatiable appetite for territorial acquisition, human bondage, and destruction that stole wealth, life, and joy from racialized \"others\" to fuel European development. We maintain and further these thefts, oppressions, and explo",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH228C",
+      "title": "The Fiction of Fact: Race, Science and Storytelling",
+      "credits": 3,
+      "description": "What is a fact? Science is often viewed as an unbiased, fact-based, analytical discipline. However, throughout history, science has sometimes been the most potent weapon for creating and supporting political fictions and social hierarchies. Not unlike the discipline of the humanities, the sciences practice interpretation: scientists observe behaviors, of subject or objects, and necessarily provide an interpretation of the data. But it is the recourse to the \"real\" that has made science so powerf",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH228R",
+      "title": "The Picture of Health and Illness: Modern Medicine in Illustration",
+      "credits": 3,
+      "description": "From prehistoric carvings, through King Tut's burial mask and Michelangelo's David, to the Lincoln Memorial and Body Worlds, images have long been used to communicate what people can and should be. After the \"Scientific Revolution\" in Europe, when identity was increasingly tied to biology, medical illustrations communicated theories of the ideal body and how it should, and should not, look. Doctors working in the midst of scientific revolution unequivocally tied health to race, gender, and sexua",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH239T",
+      "title": "Globalization & Innovation: Culture, Creativity, and Competitiveness",
+      "credits": 3,
+      "description": "Introduces students to the creative possibilities of the global economy: cross-cultural innovation, collaborative design-driven solutions, and enduring innovation with global purchase. Covers innovations in global business that are transforming the future through an embrace of diverse cultural perspectives. Working with interactive idealized design, out-of-the-box-thinking, and strategic exploration tools, students will explore and experience relevant design to new and cross-cultural value creat",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH269P",
+      "title": "Building Community: How to Make Friends",
+      "credits": 3,
+      "description": "Credit only granted for: HNUH248U or HNUH269P. Formerly: HNUH248U. In 2017, U.S. Surgeon General Vivek Murthy deemed loneliness an \"epidemic.\" While the rise of social media is meant to foster connection, over 23% of adults report being lonely and social networks have been shrinking for decades. Despite increasing rates of loneliness, it is still possible to overcome these trends and find connection. We tend to assume that we should know how to connect with others intuitively, but, as rising rat",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH278R",
+      "title": "Getting Graphic: Comics as Resistance",
+      "credits": 3,
+      "description": "In 2023, Maia Kobabe's graphic memoir, Gender Queer, was the most challenged book in the U.S. Often restricted due to spurious claims about corrupting children, comics have a long history of upsetting the status quo with their unique use of words and pictures. Artists from historically marginalized communities continue to shape this medium. This class examines comics, from glossy horror comics to grungy punk zines, that reject the conventional and subvert suppression. Learning experientially thr",
+      "geneds": [
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "HNUH288R",
+      "title": "Is Black Bad for Your Health? Examining Race as a Risk Factor in Public Health",
+      "credits": 3,
+      "description": "Cancer, heart disease, stroke, diabetes, asthma... Not only are Black Americans at higher risk for developing these life-threatening conditions, but they are also at higher risk of dying from them. In fact, Black race, unlike other racial identities, has been so consistently associated with poor health outcomes that \"Black\" is considered a risk factor--a characteristic that increases the likelihood of developing a disease--for many diseases. Can one's race alone determine their health trajectory",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "HNUH"
+    },
+    {
+      "code": "IMMR200",
+      "title": "Introduction to Immigration and Migration Studies",
+      "credits": 3,
+      "description": "Introduces concepts and theoretical interpretations about the causes of international migration; provides an historical overview of the main flows of immigration to the U.S.; analyzes economic, political, social, and cultural aspects that impact the immigrants' settlement process.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "IMMR"
+    },
+    {
+      "code": "JAPN424",
+      "title": "Japan From the Margins",
+      "credits": 3,
+      "description": "Japan from the Margins takes as its focus the history and representations of various others in Japanese society. They include ethnic Ainu, Okinawans, and Koreans, a historical outcaste group called the Burakumin, and people marginalized for their non-normative gender and sexual practices. Students learn about the historical specificities of each group as well as their common experiences of institutional discrimination as they grapple with larger questions regarding prejudice, nationalism, and so",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "JAPN"
+    },
+    {
+      "code": "JOUR175",
+      "title": "Media Literacy",
+      "credits": 3,
+      "description": "Additional information: Not applicable toward journalism major. An analysis of the information, values and underlying messages conveyed via television, newspapers, the internet, magazines, radio and film. Examines the accuracy of those messages and explores how media shape views of politics, culture and society.",
+      "geneds": [
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JOUR453",
+      "title": "Media Coverage of Diversity",
+      "credits": 3,
+      "description": "Restriction: Junior standing or higher. Analysis of media coverage of issues relating to diversity in the United States, with special attention to race, ethnicity, class, gender, sexual orientation and religious affiliation.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "JOUR"
+    },
+    {
+      "code": "JWST141",
+      "title": "American Jewish Experience",
+      "credits": 3,
+      "description": "Cross-listed with: HIST106. Credit only granted for: HIST106 or JWST141. History of the Jews in America from Colonial times to the present. Emphasis on the waves of migration from Germany and Eastern Europe; the changing nature of the American Jewish community and its participation in American social, economic, and political life.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST274",
+      "title": "Jerusalem in Antiquity: The History of Sacred Space in a Holy City",
+      "credits": 3,
+      "description": "Cross-listed with: RELS274. Credit only granted for: JWST274, RELS274, JWST289J or RELS289J. Formerly: JWST289J, RELS289J. Examines the complex history of Jerusalem's status as a holy city, with a focus on constructions of sacred space in Judaism, Christianity, and Islam.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST289E",
+      "title": "Civil Discourse or Urban Riot: Why Cities Don't (Often) Explode",
+      "credits": 3,
+      "description": "Cross-listed with: HIST135. Credit only granted for: HIST135 or JWST289E. An examination of the mechanisms that promote peaceful co-existence in urban societies and a discussion of how and why city streets sometimes become violent.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "JWST374",
+      "title": "Yiddish and the Supernatural: Demons, Golems, and Dybbuks",
+      "credits": 3,
+      "description": "Yiddish folklore is marked by a fascination with the mystical world and a rich tapestry of supernatural tales. Explore how Jewish communities have used storytelling to grapple with questions of faith, morality, identity, and the unknown, and how the golems, demons, and dybbuks of this tradition have been adapted in literary translations and cinematic adaptations. Through literary analysis, historical inquiry, and creative interpretation, this course examines the enduring power of these stories i",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "JWST"
+    },
+    {
+      "code": "KNES285",
+      "title": "History of Physical Culture, Sport, & Science in America",
+      "credits": 3,
+      "description": "Restriction: Restricted to majors or non-majors with less than or equal to 60 credits. Credit only granted for: KNES285 or KNES293. Examines the history of physical culture in America, focusing on the period from the end of the Civil War to the Cold War. Physical culture refers to a broad range of movement practices including sport, play, rehabilitative exercise, health and fitness training, and recreation and leisure. More specifically, we challenge the idea that historical physical culture pra",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "KNES287",
+      "title": "Sport and American Society",
+      "credits": 3,
+      "description": "Recommended: Minimum grade of C- in KNES285. Sport will be related to such social problems as delinquency, segregation, collective behavior, and leisure; to social processes such as socialization, stratification, mobility, and social control; and to those familiar social institutions the family, the school, the church, the military, the economy, the polity, and the mass media.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "KNES"
+    },
+    {
+      "code": "LACS234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: PORT234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS250",
+      "title": "History of Colonial Latin America",
+      "credits": 3,
+      "description": "Cross-listed with: HIST250. Credit only granted for: LASC250, HIST250, OR LACS250. Formerly: LASC250. Introductory survey of the history of Latin America from pre-Columbian Indian cultures to the beginning of the wars for independence (ca. 1810), covering cultural, political, social, and economic developments. Major themes include conquest, colonialism, indigenous culture, African slavery, religion, race and ethnicity, and gender ideologies.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LACS348E",
+      "title": "Caribbean Literature in English",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL362. Credit only granted for: ENGL362, LASC348E, or LACS348E. Political and literary traditions that intersect in the fiction, poetry, and drama written in English by Caribbean writers, primarily during the 20th century.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LACS"
+    },
+    {
+      "code": "LGBT200",
+      "title": "Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",
+      "credits": 3,
+      "description": "Credit only granted for: LGBT200. An interdisciplinary study of the historical and social contexts of personal, cultural and political aspects of LGBT life. Sources from a variety of fields, such as anthropology, history, psychology, sociology, and women's studies, focusing on writings by and about LGBT people.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LGBT265",
+      "title": "LGBTQ+ Literatures and Media",
+      "credits": 3,
+      "description": "Restriction: Must not have completed LGBT265. Cross-listed with: ENGL265. Credit only granted for: ENGL265 or LGBT265. A study of literary and cultural expressions of queer and trans identities, positionalities, and analytics through an exploration of literature, art, and media. We will examine historical and political power relations by considering the intersections of sexuality and gender with race, class, nation, and disability. Topics include the social construction and regulation of sexuali",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LGBT398F",
+      "title": "Special Topics in Lesbian, Gay, Bisexual, and Transgender Studies; Fandom",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LGBT448L",
+      "title": "Special Topics in Lesbian, Gay, Bisexual, and Transgender Studies; Black Queer Studies",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "LGBT448Y",
+      "title": "Special Topics in Lesbian, Gay, Bisexual, and Transgender Studies; Dickinson, Erotics, Poetics, Biopics: Some (Queer) Ways We Read Poetry",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "LGBT"
+    },
+    {
+      "code": "MUSC204",
+      "title": "Popular Music in Black America",
+      "credits": 3,
+      "description": "Traces black popular music in the U.S. with a special focus on spirituals, ragtime, the blues, early jazz, R&B, Motown, funk, soul, and rap. Examines how these styles have been borrowed by the American music industry.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC205",
+      "title": "History of Popular Music, 1950-Present",
+      "credits": 3,
+      "description": "A historical survey of rock music (blues, rock, soul, metal, rap, etc.) from circa 1950 to the present, with emphasis on popular music as music and popular music as social history.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC210",
+      "title": "The Impact of Music on Life",
+      "credits": 3,
+      "description": "Credit only granted for: MUET210 or MUSC210. Formerly: MUET210. Music as a part of culture. Materials drawn from traditions throughout the globe to illustrate issues of historical and contemporary significance, including the impact of race, class and gender on the study of music.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC215",
+      "title": "World Popular Musics and Identity",
+      "credits": 3,
+      "description": "Credit only granted for: MUET200 or MUSC215. Formerly: MUET200. Focus on popular musics in different cultures with an emphasis on cross-cultural comparisons and analysis of how musics and identity intersect.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "MUSC260",
+      "title": "Music as Global Culture",
+      "credits": 3,
+      "description": "Prerequisite: MUSC151. Restriction: Must be in a major within the ARHU-School of Music department. Credit only granted for: MUSC220 or MUSC260. Explores how and why people create, transform, and move music around the globe. Taking a comparative approach to Western art musics and other musics of the world, course will examine a variety of musical practices in their social, political, and economic contexts. Experiential knowledge will be developed through hands-on ethnographic research.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "MUSC"
+    },
+    {
+      "code": "PHIL344",
+      "title": "Philosophy of Race",
+      "credits": 3,
+      "description": "Credit only granted for: PHIL344 or PHIL308Y. Formerly: PHIL308Y. A survey of philosophical arguments involving race and racism. Guiding questions will include: How have philosophers and scientists conceived of the concept of race? Is race a coherent concept? Does it help us explain differences in performance and behavior? What makes racism, racial prejudice, and discrimination wrong? What is the point of equality? Do we owe reparations to victims of racism?",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "PHIL"
+    },
+    {
+      "code": "PHSC450",
+      "title": "Addressing Social and Structural Inequities Through Public Health",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in MIEH300; and 1 course with a minimum grade of C- from either SPHL100 or PHSC300. A focus on addressing social and structural inequities within race, gender, disability, and class through various perspectives in the field of public health. Students explore the causes, challenges, consequences, and extent these injustices have on health disparities from local, national, and global perspectives. Students view these inequities through the lens of the affected pop",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "PHSC"
+    },
+    {
+      "code": "PORT234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, SPAN234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "PORT"
+    },
+    {
+      "code": "RELS274",
+      "title": "Jerusalem in Antiquity: The History of Sacred Space in a Holy City",
+      "credits": 3,
+      "description": "Cross-listed with: JWST274. Credit only granted for: JWST274, RELS274, JWST289J or RELS289J. Formerly: JWST289J, RELS289J. Examines the complex history of Jerusalem's status as a holy city, with a focus on constructions of sacred space in Judaism, Christianity, and Islam.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "RELS289C",
+      "title": "Jews, Christians, and Muslims in Medieval Spain: Tolerance, Oppression, and the Problematic Past",
+      "credits": 3,
+      "description": "Cross-listed with: HIST289A. Credit only granted for: HIST289A or RELS289C. For 800 years, medieval Spain was home to one of the most religiously diverse societies in European history. Despite frequent hostilities, the interactions of Spanish Jews, Christians, and Muslims produced a flowering of science, theology, and literature in an often remarkably tolerant climate. Students will learn how medieval Spanish people themselves experienced interreligious contact and conflict. They will also disco",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "RELS"
+    },
+    {
+      "code": "SOCY241",
+      "title": "Inequality in American Society",
+      "credits": 3,
+      "description": "Credit only granted for: SOCY241 or SOCY441. A broad-based overview of inequality in contemporary U.S. society, focusing on measuring patterns and trends over time. A series of learning modules familiarizes students with how inequality unfolds in relation to social stratification processes along the lines of race, gender, education and social class, income and wealth, and health.",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SOCY322",
+      "title": "Immigration and Ethnicity in the US",
+      "credits": 3,
+      "description": "Cross-listed with: AAST322. Credit only granted for: AAST322, SOCY222, HIST322 or SOCY322. Formerly: AAST222, SOCY222. Explores historical and contemporary Asian immigration to the US in comparison to and in the context of other immigrant groups. From low-skilled laborers to highly-skilled professionals, Asian and other immigrants have been an integral part of the shifting US economy and society since its inception. The course includes theories on why immigration occurs, determinants of its cont",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "SOCY"
+    },
+    {
+      "code": "SPAN234",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN234H",
+      "title": "Issues in Latin American and Caribbean Studies I",
+      "credits": 3,
+      "description": "Cross-listed with: LACS234, PORT234. Credit only granted for: LASC234, PORT234, SPAN234, or LACS234. Formerly: LASC234. Interdisciplinary study of major issues in Latin America and the Caribbean, including Latin America's cultural mosaic, migration and urbanization. Democratization and the role of religions. Taught in English.",
+      "geneds": [
+        "DSHS",
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN361",
+      "title": "Latin American Literatures and Cultures I: From Pre-Columbian to Colonial Times",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). Overview of cultural history of Latin America from pre-Columbian civilizations to the Colonial period, exploring the foundations of the Spanish American cultural and literary tradition to approximately 1770. Taught in Spanish.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "SPAN363",
+      "title": "Latin American Literatures and Cultures III: From Modernism  to Neo-Liberalism",
+      "credits": 3,
+      "description": "Prerequisite: SPAN303; and (SPAN311 or SPAN316). An overview of cultural and literary production of Latin America from the late 19th through the early 21st centuries, exploring the production of literary texts in their socio-historical, political, and cultural contexts and development. Taught in Spanish.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "SPAN"
+    },
+    {
+      "code": "THET251",
+      "title": "Broadway Mashup: Remixing America Through Musical Theater",
+      "credits": 3,
+      "description": "Interrogate musical theater's political history, investigating how this uniquely American genre uses narrative, song, and dance to weave critical differences across race, ethnicity, immigration status, religion, gender, sexuality, and ability into our national fabric.",
+      "geneds": [
+        "DSHU",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "THET293",
+      "title": "Black Theatre and Performance I",
+      "credits": 3,
+      "description": "Thematic and historical survey of African-American drama from the late nineteenth century to the 1960s. Emphasis on sociopolitical context, thematic thrust, issues, styles, the aesthetic reflected in the work, impact on African-American and general theatre audiences.",
+      "geneds": [
+        "DSHU",
+        "DSSP",
+        "DVUP"
+      ],
+      "department": "THET"
+    },
+    {
+      "code": "TLPL440",
+      "title": "Foundations of Educating Multilingual Learners",
+      "credits": 3,
+      "description": "Credit only granted for: EDCI432 or TLPL440. Formerly: EDCI432. Investigates historical, theoretical, and public policy issues and current practice in the field of education as it relates to multilingual learners (also known as English Language Learners, English Learners) in K-12 and other settings.",
+      "geneds": [
+        "DVUP"
+      ],
+      "department": "TLPL"
+    },
+    {
+      "code": "WGSS200",
+      "title": "Introduction to WGSS: Gender, Power, and Society",
+      "credits": 3,
+      "description": "Credit only granted for: WMST200 or WGSS200. Formerly: WMST200. Examines constructions of race, class, sexuality, ability, and gender relations from a social science multi-disciplinary perspective. The course interrogates the ways that systems of hierarchy and privilege are created, enforced, and intersect through the language of race, class, sexuality, and national belonging. The course will provide students with the skills to examine how systems of power manifest in areas such as poverty, divi",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS205",
+      "title": "Reproductive Justice: An Introduction",
+      "credits": 3,
+      "description": "Developed by feminists of color, reproductive justice frameworks offer a roadmap for economic, social, and medical justice advocacy attentive to the intersections of race, class, gender, sexuality, and disability. This course reviews the historical, legal, and social bases of reproductive rights in the U.S.; discusses the history of feminist organizing for reproductive freedom; surveys critical theories of reproductive justice that go beyond abortion law to advocate for broader social transforma",
+      "geneds": [
+        "DSHS",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS250",
+      "title": "Introduction to WGSS: Art and Culture",
+      "credits": 3,
+      "description": "Credit only granted for: WMST250 or WGSS250. Formerly: WMST250. Provides students with a critical introduction to the ways that art and art activism have served as a conduit to understanding and challenging systems of inequity and practices of normativity. Interrogating the categories of gender, sexuality, race, class, ability, the course will provide students with an examination of how artists have responded to pressing social justice issues of their eras. While the course centers visual art, s",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS255",
+      "title": "Reading Women Writing",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL250. Credit only granted for: ENGL250, WMST255 or WGSS255. Formerly: WMST255. Explores literary and cultural expressions by women and their receptions within a range of historical periods and genres. Topics such as what does a woman need in order to write, what role does gender play in the production, consumption, and interpretation of texts, and to what extent do women comprise a distinct literary subculture. Interpretation of texts will be guided by feminist and gender t",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS275",
+      "title": "World Literature by Women",
+      "credits": 3,
+      "description": "Cross-listed with: CMLT275. Credit only granted for: WMST275, CMLT275 or WGSS275. Formerly: WMST275. Comparative study of selected works by women writers of several countries, exploring points of intersection and divergence in women's literary representations.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS280",
+      "title": "Gender and Science in Film and Media",
+      "credits": 3,
+      "description": "Cross-listed with: ENGL289I. Credit only granted for: ENGL289I or WGSS280. Isaac Azimov once said of science fiction that it is the genre that \"deals with the reaction of human beings to changes in science and technology.\" With this definition in mind, we will embark on a critical exploration of sci-fi film and other media, using it as a lens for analyzing society's deepest fears and most furtive hopes. Our investigation will center on the liminal space between hegemonic culture and its prescrib",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "WGSS"
+    },
+    {
+      "code": "WGSS290",
+      "title": "Bodies in Contention",
+      "credits": 3,
+      "description": "Credit only granted for: WMST298D or WGSS290. Formerly: WMST298D. Explores the contributions of feminist scholarship in framing and resolving contemporary controversies concerning gendered bodies. It includes the ways in which knowledge about the human body has been shaped by cultural ideas of gender, race, sexuality and ability.",
+      "geneds": [
+        "DSHS",
+        "DVUP",
+        "SCIS"
+      ],
+      "department": "WGSS"
+    }
+  ]
+}

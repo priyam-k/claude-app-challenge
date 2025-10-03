@@ -1,0 +1,329 @@
+{
+  "cached_at": "2025-10-03T16:58:44.781517",
+  "data": [
+    {
+      "section_id": "0111",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 6,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0112",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 6,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0122",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0132",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 2,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0142",
+      "instructor": "Timothy Pilachowski",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ESJ 0224",
+      "open_seats": 1,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "0212",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 34
+    },
+    {
+      "section_id": "0222",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 34
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0232",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 1,
+      "total_seats": 34
+    },
+    {
+      "section_id": "0242",
+      "instructor": "Clarke Safsten",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0311",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0312",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0321",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0322",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0331",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 34
+    },
+    {
+      "section_id": "0332",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0341",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 2,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0342",
+      "instructor": "Mestiyage Gunatilleka",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0131",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0411",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0412",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0421",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0422",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0431",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 1,
+      "total_seats": 33
+    },
+    {
+      "section_id": "0432",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "0441",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 34
+    },
+    {
+      "section_id": "0442",
+      "instructor": "Qendrim Gashi",
+      "days": "TuTh",
+      "time": "12:30pm-1:45pm",
+      "location": "LEF 2205",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Jason Schultz",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "CHM 1402",
+      "open_seats": 0,
+      "total_seats": 35
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Jason Schultz",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "CHM 1402",
+      "open_seats": 2,
+      "total_seats": 35
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Jason Schultz",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "CHM 1402",
+      "open_seats": 0,
+      "total_seats": 30
+    },
+    {
+      "section_id": "FC04",
+      "instructor": "Jason Schultz",
+      "days": "TuTh",
+      "time": "6:00pm-7:15pm",
+      "location": "CHM 1402",
+      "open_seats": 1,
+      "total_seats": 30
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "cached_at": "2025-10-03T17:34:13.960121",
+  "data": [
+    {
+      "code": "CINE245",
+      "title": "Film Form and Culture",
+      "credits": 3,
+      "description": "Cross-listed with:ENGL245.Credit only granted for:ENGL245, CINE245 or FILM245.Formerly:FILM245. Introduction to film as art form and how films create meaning. Basic film terminology; fundamental principles of film form, film narrative, and film history. Examination of film technique and style over past one hundred years. Social and economic functions of film within broader institutional, economic, and cultural contexts.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with:CMLT280.Credit only granted for:CINE280, FILM298D or CMLT280.Formerly:FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE283",
+      "title": "Iranian Cinema",
+      "credits": 3,
+      "description": "Cross-listed with:PERS283.Credit only granted for:PERS283, CINE283 or FILM298B. Introduction to Iranian cinema, society, and culture. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE298A",
+      "title": "Special Topics in International Film Studies; Masterpieces in French and Francophone Cinemas",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE299L",
+      "title": "Special Topics in Film Studies; The 'Jew' in American Literature and Culture",
+      "credits": 3,
+      "description": "",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE301",
+      "title": "Cinema History I: The Silent Era",
+      "credits": 3,
+      "description": "Prerequisite:ENGL245, CINE245, or FILM245; or permission of ARHU-College of Arts & Humanities.Credit only granted for:CINE301 or FILM301.Formerly:FILM301. Examines the development of silent cinema from the 1890s to the early 1930s drawing on at least five distinct national traditions (French, German, Russian, British, and American). Introduces students to key cinematic conventions as they emerged around the world.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE310",
+      "title": "Introduction to Filmmaking 1",
+      "credits": 3,
+      "description": "Restriction:Permission of the Cinema and Media Studies program. Repeatable to 6 credits.Credit only granted for:CINE319M or CINE310.Formerly:CINE319M. This practice-based course offers an introduction to the foundational skills, techniques, and principles of filmmaking. Prior film or video production experience is not necessary.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE315",
+      "title": "Editing for Film and Media",
+      "credits": 3,
+      "description": "Prerequisite:CINE245 or ENGL245.Corequisite:CINE310.Restriction:Permission of Cinema and Media Studies Program. Provides advanced training for students to edit their narrative, documentary, or animation projects, as well as reference material. Students will learn to design their film's visual storytelling, taking their projects from the shooting script and storyboard to rough cuts and picture look.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE319P",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Visual Media",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE319Z",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Visual Media; The Henson Family as Filmmakers",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE329T",
+      "title": "Special Topics in National/International Cinemas; Sports in Film",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE329Y",
+      "title": "Special Topics in National/International Cinemas; Iranian Life in Literature and Film",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE337",
+      "title": "Contemporary Chinese Art and Film",
+      "credits": 3,
+      "description": "Cross-listed with:ARTH392.Credit only granted for:ARTH392, FILM329L or CINE337.Formerly:FILM329L. Contemporary Chinese art and film are arguably the most vibrant of all national arts at the turn of the millennium and have become the face - both figuratively and literally - of contemporary China, a complex society with historic overlays of Confucianism, Taoism, Buddhism, Communism, Post-socialism, and state capitalism. Students will consider a wide range of art forms (painting, photography, video",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE344",
+      "title": "Film and the Fantastic",
+      "credits": 3,
+      "description": "Prerequisite:ENGL245, FILM245, or CINE245; or permission of ARHU-School of Languages, Literatures, and Cultures department.Cross-listed with:SLLC344.Credit only granted for:SLLC344, CINE344 or FILM344.Formerly:FILM344. Survey of fantastic cinema, encompassing American classics, Hollywood recent productions, and independent films, as well as Asian horror films, anime, and European fantasy.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE345",
+      "title": "The Films of Alfred Hitchcock",
+      "credits": 3,
+      "description": "Prerequisite:ENGL245, FILM245, or CINE245; or permission of ARHU-College of Arts & Humanities.Credit only granted for:CINE345, FILM345 or ENGL329J.Formerly:FILM345. An examination of important Hitchcock films from the perspective of innovation, aesthetics, and cultural history.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE359C",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; Disaster Cinema",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE359D",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; The Movie Musical",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE369C",
+      "title": "Special Topics in Film Theories; Images of Revolt: Strike, Riot, Uprising",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE376",
+      "title": "Writing the Feature Film",
+      "credits": 3,
+      "description": "Prerequisite:ENGL275, ARHU275, ARHU375 or THET340; or permission of instructor.Cross-listed with:ARHU376.Credit only granted for:ARHU376 or CINE376. Examines the creative process of developing and writing a feature-length screenplay. Students will experience a collaborative workshop environment, researching stories, pitching feature film ideas, creating a logline, developing a detailed beat sheet and, ultimately, writing a complete first draft of the screenplay.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE388",
+      "title": "Experiential Learning: Cinema and Media Studies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE415",
+      "title": "Advanced Filmmaking",
+      "credits": 3,
+      "description": "Prerequisite:CINE245 or ENGL245; and CINE310.Restriction:Permission of Cinema and Media Studies Program. Implementing the process of moving from film script through production to a complete film with an emphasis on conceptualization, aesthetics, advanced production techniques, directing, and finishing touches. Students in the course are expected to produce an original film project based on significant collaborative work.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE419V",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Media; Videographic Essay in Theory and Practice",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE441",
+      "title": "Italian Cinema I: Neorealism",
+      "credits": 3,
+      "description": "Cross-listed with:ITAL436.Credit only granted for:CINE441, FILM441 or ITAL436.Formerly:FILM441. Explores representations of Italy in cinema with special focus on identity formation and the movement of Italian neorealism and post neorealism. Taught in English.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE469Y",
+      "title": "Special Topics in Film Theories II; Art, Cinema, Law, Money",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE499",
+      "title": "Directed Study in Cinema and Media Studies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    }
+  ]
+}

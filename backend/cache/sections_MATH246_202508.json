@@ -1,0 +1,176 @@
+{
+  "cached_at": "2025-10-03T16:55:43.180498",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "David Hamilton",
+      "days": "MWF",
+      "time": "3:00pm-3:50pm",
+      "location": "PHY 4221",
+      "open_seats": 21,
+      "total_seats": 50
+    },
+    {
+      "section_id": "0111",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 32
+    },
+    {
+      "section_id": "0112",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0121",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0122",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0131",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 32
+    },
+    {
+      "section_id": "0141",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0151",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 31
+    },
+    {
+      "section_id": "0152",
+      "instructor": "Stefan Doboszczak",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 32
+    },
+    {
+      "section_id": "0211",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0212",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 3,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0221",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 1,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0222",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 15,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0231",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0232",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0241",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0251",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "11:00am-12:15pm",
+      "location": "ARM 0135",
+      "open_seats": 0,
+      "total_seats": 27
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Alice Wang",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "EGR 0135",
+      "open_seats": 0,
+      "total_seats": 29
+    },
+    {
+      "section_id": "0101",
+      "instructor": "Margaret Doucette",
+      "days": "TuTh",
+      "time": "9:30am-10:45am",
+      "location": "MTH 0411",
+      "open_seats": 6,
+      "total_seats": 20
+    }
+  ]
+}

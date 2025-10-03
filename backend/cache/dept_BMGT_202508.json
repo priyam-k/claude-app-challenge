@@ -1,0 +1,1362 @@
+{
+  "cached_at": "2025-10-03T18:35:13.218017",
+  "data": [
+    {
+      "code": "BMGT110",
+      "title": "Introduction to the Business Value Chain",
+      "credits": 3,
+      "description": "Students are provided with an introduction to the business value chain with an emphasis on inter-organizational and intra-organizational coordination of core business processes. Emphasis is on cross-functional integration and the efficient and effective management of core processes with an emphasis on marketing, operations and supply chain management.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT110F",
+      "title": "Introduction to the Business Value Chain",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT110L",
+      "title": "Introduction to the Business Value Chain",
+      "credits": 3,
+      "description": "Students are provided with an introduction to the business value chain with an emphasis on inter-organizational and intra-organizational coordination of core business processes. Emphasis is on cross-functional integration and the efficient and effective management of core processes with an emphasis on marketing, operations and supply chain management.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT161",
+      "title": "Creative Problem Solving",
+      "credits": 3,
+      "description": "Examines the concept of creative problem solving as it applies in today's and tomorrow's complex business environment. Students will develop an understanding of the creative problem solving process with its distinctive cognitive steps of Divergent Thinking, Emergent Thinking and Convergent Thinking.  Topics include creativity techniques for groups and individuals, creativity as a foundation to recognize business opportunities and develop innovative products and services, selecting ideas and maki",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT162",
+      "title": "The Future of You, Business and Society",
+      "credits": 3,
+      "description": "Designed to help you (students) explore the future of you, business, and society. Even as the nature of business (the how) evolves with technology, the purpose of business --to create individual and social prosperity (the why) --remains the same. This course will integrate the \"why\" and the \"how\" to prepare students for the future of work. Students will learn the foundational concepts of how to lead themselves with purpose and develop win-win relationships. Students will also learn how organizat",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT207",
+      "title": "Ethics of Artificial Intelligence",
+      "credits": 3,
+      "description": "What ethical considerations should govern the creation, distribution, and use of artificial intelligence innovations in industry, polity, and society in the future?  New and emerging innovations in artificial intelligence (AI) are disrupting sectors as diverse as healthcare, medicine, finance, operations, supply chain, manufacturing, media and journalism, and the creative industries.  In the near future, the dependence of humans on AI for a myriad of social activities including companionship and",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT220",
+      "title": "Principles of Accounting I",
+      "credits": 3,
+      "description": "Basic theory and techniques of contemporary financial accounting. Includes the accounting cycle and the preparation of financial statements for single owner and partnership forms of business organizations operating as service companies or merchandisers.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT221",
+      "title": "Principles of Accounting II",
+      "credits": 3,
+      "description": "Prerequisite: BMGT220. Basic theory and techniques of accounting for managerial decision making. Involves the introduction of the corporation and manufacturing operations. Includes cost-volume-profit analysis and capital budgeting. Introduces the topics of income taxation and international accounting.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT221L",
+      "title": "Principles of Accounting II",
+      "credits": 3,
+      "description": "Prerequisite: BMGT220. Basic theory and techniques of accounting for managerial decision making. Involves the introduction of the corporation and manufacturing operations. Includes cost-volume-profit analysis and capital budgeting. Introduces the topics of income taxation and international accounting.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT230",
+      "title": "Business Statistics",
+      "credits": 3,
+      "description": "Prerequisite: MATH113 or MATH115; or must have math eligibility of MATH120 or higher. Restriction: Must not have completed ENCE302, ENME392, STAT400, BMGT231, or ENEE324. Introductory course in probabilistic and statistical concepts including descriptive statistics, set-theoretic development of probability, the properties of discrete and continuous random variables, sampling theory, estimation, hypothesis testing, regression and decision theory and the application of these concepts to problem so",
+      "geneds": [
+        "FSAR"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT230L",
+      "title": "Business Statistics",
+      "credits": 3,
+      "description": "Prerequisite: MATH113 or MATH115; or must have math eligibility of MATH120 or higher. Restriction: Must not have completed ENCE302, ENME392, STAT400, BMGT231, or ENEE324. Introductory course in probabilistic and statistical concepts including descriptive statistics, set-theoretic development of probability, the properties of discrete and continuous random variables, sampling theory, estimation, hypothesis testing, regression and decision theory and the application of these concepts to problem so",
+      "geneds": [
+        "FSAR"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT262",
+      "title": "The Enterprising Leader",
+      "credits": 3,
+      "description": "Designed to help students develop their leadership skills in order to identify their personal and professional purpose with an entrepreneurial mindset, and create strategies that will help them develop their abilities and achieve their aspirations by collaborating within teams and organizations.  Students will apply insights from recent scholarship in entrepreneurship, leadership and strategic management to themselves in order to identify solutions to problems they find meaningful to solve in th",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT263",
+      "title": "Challenge your Thinking, Challenge the Conversation",
+      "credits": 3,
+      "description": "Provides conceptual frameworks and experiential opportunities that will enable students to engage in rational and respectful discourse.  The course uses the latest pedagogical techniques and relevant literature to develop skills such as thinking like a scientist, negotiating conflict, and giving and receiving constructive feedback.  Specific conversations will draw from current events and issues in business and in society.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT289B",
+      "title": "How Do Innovators Think?",
+      "credits": 3,
+      "description": "In this course, students will learn about: a) the innovation process and the role of the individual in generating innovations and b) the attributes, habits, and skills of individuals who have successfully started innovative new businesses or significantly added value to an existing company.",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT289D",
+      "title": "Frauds, Scams, and Thefts: What, How and Why?",
+      "credits": 3,
+      "description": "\"Why\" does fraud happen? \"How\" does society address fraud? And \"What\" can you do to avoid and prevent fraud in your personal and future career life? This course is designed to give future professionals and managers of all disciplines a general background of fraud. Topics include the psychology of fraud, the mechanics of fraud, the legal landscape, securities fraud, cybercrime, and what all of us should know to protect ourselves from becoming victims of fraud. Additionally, students experience 21",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT289E",
+      "title": "Entrepreneurial Thinking for Non-Business Majors: How Not to Miss Great Opportunities Your Life Throws at You",
+      "credits": 3,
+      "description": "In this course, students learn how to analyze the world around them and then notice and define new trends, emerging problems, impending gaps, and how to turn these into exciting opportunities by providing creative solutions.  Students will have a chance to not only sharpen their critical thinking skills, but also learn how to take initiative, develop a working solution, identify and resolve conflicts, and be confident and persistent, yet flexible enough to respond to changes. Student teams ident",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT289I",
+      "title": "Why Good Managers Make Bad Decisions",
+      "credits": 3,
+      "description": "This course provides an overview of the concepts, approaches, and vocabulary of evidence-based management (EBM) and provides an understanding of how experts in many disciplines can employ evidenced based decision making. EBM is an emerging movement in business to explicitly use the current best information in management decision making with special emphasis on relevant scientific findings and unbiased organizational facts. The course stresses how individuals practicing EBM learn how to rethink t",
+      "geneds": [
+        "DSSP",
+        "SCIS"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT290H",
+      "title": "Introduction to Design and Quality",
+      "credits": 4,
+      "description": "Restriction: Must be in the Quest program. Cross-listed with: ENED290. Credit only granted for: BMGT190, ENES190, ENED290, or BMGT290. Formerly: BMGT190 and ENES190. The first QUEST course introduces foundational principles of design and quality, emphasizing their impact on product development and customer satisfaction. Working in multidisciplinary teams, students will explore design thinking, project management techniques, and quality tools, applying these frameworks to real-world product redes",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT298J",
+      "title": "Special Topics in Business and Management; Personal Financial Success During College",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT298K",
+      "title": "Special Topics in Business and Management; Personal Financial Success After College",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT298L",
+      "title": "Special Topics in Business and Management; Start-up Nation? Tech Entrepreneurship in Israel",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT299D",
+      "title": "Student Initiated Special Topics; Introduction to Practical Financial Literacy",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT301",
+      "title": "Introduction to Information Systems",
+      "credits": 3,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Additional information: CMSC majors will not receive credit for this course towards their upper level concentration in their CMSC major. All BMGT majors, including students who are a double major in CMSC, must complete BMGT301 for their BMGT degree. Comprehensive overview of information systems (IS), which explores the strategic and tactical nature of IS. The basic concepts in analyzing and designing information systems ",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT301F",
+      "title": "Introduction to Information Systems",
+      "credits": 3,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Additional information: CMSC majors will not receive credit for this course towards their upper level concentration in their CMSC major. All BMGT majors, including students who are a double major in CMSC, must complete BMGT301 for their BMGT degree. Comprehensive overview of information systems (IS), which explores the strategic and tactical nature of IS. The basic concepts in analyzing and designing information systems ",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT301L",
+      "title": "Introduction to Information Systems",
+      "credits": 3,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Additional information: CMSC majors will not receive credit for this course towards their upper level concentration in their CMSC major. All BMGT majors, including students who are a double major in CMSC, must complete BMGT301 for their BMGT degree. Comprehensive overview of information systems (IS), which explores the strategic and tactical nature of IS. The basic concepts in analyzing and designing information systems ",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT302",
+      "title": "Essential Programming Skills for Business Analytics",
+      "credits": 3,
+      "description": "Prerequisite: BMGT301; or permission of BMGT-Robert H. Smith School of Business. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business; and must not be in the Computer Science major. The course introduces structured and object-oriented programming and its applications in business functions and analytics. Students will apply problem-solving skills to create software solutions using programming logic and data structures. The course especially emphasizes learning by doing exerc",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT302F",
+      "title": "Essential Programming Skills for Business Analytics",
+      "credits": 3,
+      "description": "Prerequisite: BMGT301; or permission of BMGT-Robert H. Smith School of Business. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business; and must not be in the Computer Science major. The course introduces structured and object-oriented programming and its applications in business functions and analytics. Students will apply problem-solving skills to create software solutions using programming logic and data structures. The course especially emphasizes learning by doing exerc",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT310",
+      "title": "Intermediate Accounting I",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221. Comprehensive analysis of financial accounting topics related to financial statement preparation and external reporting.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT311",
+      "title": "Intermediate Accounting II",
+      "credits": 3,
+      "description": "Prerequisite: BMGT310. Continuation of BMGT310.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT313",
+      "title": "Financial Statement Analysis",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221. Provides students with the tools to conduct a financial statement analysis, which is part of an overall business analysis. Involves understanding and using the information that financial statements are communicating to users.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT321",
+      "title": "Managerial Accounting",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221. A study of the basic concepts of product costing and cost analysis for management planning and control. Emphasis is placed on the role of the accountant in organizational management, analysis of cost behavior, standard cost budgeting, responsibility accounting and relevant costs for decision-making.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT323",
+      "title": "Taxation of Individuals",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221. Federal taxation of individuals focusing on income, exclusions, deductions, depreciation, credits and capital transactions. Property coverage includes the tax consequences of sales and dispositions of investment and business assets. Both tax planning and compliance issues are covered.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT326",
+      "title": "Accounting Systems",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221; and (BMGT201 or BMGT301). A study of accounting systems and computer and communications technology.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT332",
+      "title": "Quantitative Models for Management Decisions",
+      "credits": 3,
+      "description": "Prerequisite: BMGT231 or BMGT230; or students who have taken courses with comparable content may contact the department. The aim of this course is to introduce management science techniques for informed decision-making that can be applied in spreadsheet models to assist in the decision-analysis process. Models include Linear Programming, Transportation and Assignment problems, network flow models, Integer and non-linear programming, Simulation and Decision Trees.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT340",
+      "title": "Business Finance",
+      "credits": 3,
+      "description": "Prerequisite: BMGT220; and (BMGT231 or BMGT230). Topics include: the principles and practices involved in the organization, financing and rehabilitation of business enterprises; the various types of securities and their use in raising funds, apportioning income, risk and control; intercorporate relations; and new developments. Emphasis on solution of problems of financial policy faced by management.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT340N",
+      "title": "Business Finance",
+      "credits": 3,
+      "description": "Prerequisite: BMGT220; and (BMGT231 or BMGT230). Topics include: the principles and practices involved in the organization, financing and rehabilitation of business enterprises; the various types of securities and their use in raising funds, apportioning income, risk and control; intercorporate relations; and new developments. Emphasis on solution of problems of financial policy faced by management.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT341",
+      "title": "Financial Markets",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in BMGT340. Shows the interconnectedness of the markets. The role of the Central bank and monetary policy is included in this context. Students develop an understanding of: (i) the determination of interest rates; (ii) financial instruments, markets and institutions; (iii) the impact of monetary policy on institutions; and (iv) how financial innovations create markets.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT342F",
+      "title": "Wall Street Finance",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Using concepts and tools of finance, students will examine a wide range of business problems and explore possible solutions. The course is designed to improve a student's problem solving capabilities, business writing and communication skills, teamwork, and planning skills. Students will also gain experience in analyzing issues frequently faced by financial decision-makers.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT343",
+      "title": "Investments",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Credit only granted for: BMGT343 or ECON435. Additional information: This course cannot be used to fulfill any requirements for majors in Economics. An introduction to financial investments. Topics include: securities and securities markets; investment risks, returns and constraints; portfolio policies; and institutional investment policies.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT347",
+      "title": "Quantitative Financial Analysis",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340; must have completed or be concurrently enrolled in BMGT343. Credit only granted for: BMGT347 or BMGT448G. Formerly: BMGT448G. Introduces students to data science for financial applications using an industry-standard programming language. Students will use tools ranging from regression models to machine learning to investigate questions across a variety of areas within finance including asset management, corporate finance and FinTech. The course will illustrate how big data",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT350",
+      "title": "Marketing Principles and Organization",
+      "credits": 3,
+      "description": "Recommended: ECON200. An introduction to the concepts and principles of marketing including the marketing of service and nonprofit organizations. Provides an overview of all the concepts in marketing including relationship marketing, product development, pricing, promotion, marketing research, consumer behavior, international marketing, distribution and internal marketing to employees.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT350N",
+      "title": "Marketing Principles and Organization",
+      "credits": 3,
+      "description": "Recommended: ECON200. An introduction to the concepts and principles of marketing including the marketing of service and nonprofit organizations. Provides an overview of all the concepts in marketing including relationship marketing, product development, pricing, promotion, marketing research, consumer behavior, international marketing, distribution and internal marketing to employees.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT351",
+      "title": "Marketing Research Methods",
+      "credits": 3,
+      "description": "Prerequisite: BMGT230; and must have completed or be concurrently enrolled in BMGT350. Credit only granted for: BMGT351 or BMGT452. Formerly: BMGT452. Focuses on aiding marketing decision-making through exploratory, descriptive and causal research. Develops student skills in designing market research studies, including selection of data collection method, development of data collection instrument, sample design, collection and statistical analysis of data and reporting the results, including dat",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT354",
+      "title": "Consumer Analysis",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. Credit only granted for: BMGT354 or BMGT451. Formerly: BMGT451. Identifying buyer behavior concepts relevant to a specific marketing problem so that appropriate marketing decisions can be made. Conceptual frameworks are drawn from psychology, sociology, economics, and other social sciences to aid in understanding the behavior of ultimate and industrial buyers.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT360",
+      "title": "Strategic Management of Human Capital",
+      "credits": 3,
+      "description": "Provides students with the basic knowledge needed to help organizations attract, select, develop, engage, evaluate, and retain talent. Topics covered may include strategic HRM, the role of globalization, legal issues in HRM, work analysis, HR planning, recruitment, personnel selection, performance management and appraisal, training and development, career development, compensation systems, motivating and rewarding performance, labor relations, and employee health and safety.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT362",
+      "title": "Negotiations",
+      "credits": 3,
+      "description": "Restriction: Must not have completed COMM425. Credit only granted for: BMGT362 or COMM425. By using a variety of assessment tools, feedback sources, skill-building exercises, and exercise debriefings, this experiential course is designed to enhance students' negotiating self-confidence and improve students' analytical skills, interpersonal skills, creativity and persuasive abilities.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT363",
+      "title": "Leadership and Teamwork in Organizations",
+      "credits": 3,
+      "description": "Provides a comprehensive understanding of fundamental leadership concepts, theories, and skills in organizations and applies to assessing and developing effective leadership practices in organizations.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT364",
+      "title": "Managing People and Organizations",
+      "credits": 3,
+      "description": "An introduction to selected aspects of human behavior in organizations generally known as organizational behavior (OB). This course is designed to help students develop systematic and fundamental understanding of people and their behaviors in organizations, as well as useful abilities and skills required to effectively and ethically manage various individual, interpersonal, group, and organization-level processes.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT364N",
+      "title": "Managing People and Organizations",
+      "credits": 3,
+      "description": "An introduction to selected aspects of human behavior in organizations generally known as organizational behavior (OB). This course is designed to help students develop systematic and fundamental understanding of people and their behaviors in organizations, as well as useful abilities and skills required to effectively and ethically manage various individual, interpersonal, group, and organization-level processes.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT365",
+      "title": "Entrepreneurial Finance and Private Equity",
+      "credits": 3,
+      "description": "Prerequisite: BMGT461 or BMGT361. Restriction: Junior standing or higher. Credit only granted for: BMGT365, ENES466, SMLP471 or HLMN471. Studies venture capital and private equity using a combination of cases, lectures and guest speakers. Addresses how venture capitalists provide capital to start-up firms in growing industries and how private equity markets provide capital to help established medium-sized firms (often family businesses) grow and restructure. Focuses on how financial, legal, and ",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT366",
+      "title": "Growth Strategies for Emerging Companies",
+      "credits": 3,
+      "description": "Prerequisite: BMGT461 or BMGT361. Restriction: Junior standing or higher. Offers practical management tools that are needed to build a new venture into a significant enterprise. The competencies, strategies and structures of successful high performance businesses are studied through cases, videos and guest lecturers. Topics include leadership, internal growth strategies, merger, acquisition and franchising.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT367",
+      "title": "Career Search Strategies in Business",
+      "credits": 1,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. An overview and opportunity to practice job search skills critical to obtaining internships and full-time positions. Course will cover strategies for exploring career options, preparing job search materials, development of job search skills such as interviewing and networking. Students are encouraged to take this course in the sophomore or junior year.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT370",
+      "title": "Introduction to Transportation",
+      "credits": 3,
+      "description": "An overview of the transportation field with an emphasis on freight movements from the perspective of both providers of capacity and users of freight services. Examines the characteristics of the freight modes and the role of each mode as a major component of logistics and supply chain management. Explores the economics, energy use, and finances of each mode as well as the impact of government policies on each mode's future. Discussion of infrastructure and capacity needs of the transportation s",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT372",
+      "title": "Introduction to Logistics and Supply Chain Management",
+      "credits": 3,
+      "description": "Credit only granted for: BMGT375 or BMGT372. Supply chain management involves the coordination of suppliers, manufacturers, distributors, and retailers to ensure that products and services are available to the final consumer in a timely and cost-effective fashion. Logistics management is the subset of supply chain management dealing with the physical flows of product and includes such activities as transportation management, warehousing, materials handling, inventory management, and order fulfil",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT380",
+      "title": "Business Law I",
+      "credits": 3,
+      "description": "Legal aspects of business relationships. Examination of torts and business crimes, contracts and agency. The law of personal property and bailment relationships. Survey of public policy issues.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT380N",
+      "title": "Business Law I",
+      "credits": 3,
+      "description": "Legal aspects of business relationships. Examination of torts and business crimes, contracts and agency. The law of personal property and bailment relationships. Survey of public policy issues.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT382",
+      "title": "Marketing and Innovation for Entrepreneurs",
+      "credits": 3,
+      "description": "Restriction: Must not have completed BMGT352. Credit only granted for: BMGT352, BMGT382 or BMGT456. Additional information: Course will not satisfy a Marketing major requirement. Marketing and Innovation are two critically important activities that determine success in any business venture. This course will focus on understanding the fundamentals of marketing and innovation from the perspective of an entrepreneur. At a broad level, we will apply proven marketing frameworks (STP and 4Ps) to effec",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT383",
+      "title": "The Business of Sports",
+      "credits": 3,
+      "description": "An overview of the history of sports management as a profession, while examining the many essential business principles necessary for effective leadership in the industry.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT385",
+      "title": "Operations Analytics",
+      "credits": 3,
+      "description": "Credit only granted for: BMGT385 or ENME426. Designed to equip the student with analytical tools to make capacity, inventory, quality, and other operational decisions in both manufacturing and service business enterprises.  Examines the strategic role the operations function can play and offers techniques that the firm can use for execution using a systems approach.  Analyze operational systems to align supply with demand to maximize value for the organization.  Covers critical operations analyt",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT390H",
+      "title": "Designing Innovative Systems",
+      "credits": 3,
+      "description": "Prerequisite: ENES190, BMGT190, ENED290 or BMGT290. Restriction: Must be in the QUEST program. Cross-listed with: ENED390. Credit only granted for: BMGT390, ENES390 or ENED390. Formerly: ENES390. The QUEST systems thinking course challenges students to analyze how processes interact in larger systems. Students will learn how to use process improvement tools and a systems thinking approach to solve problems and design innovative solutions. By drawing upon their multidisciplinary backgrounds, stud",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT392",
+      "title": "Introduction to International Business Management",
+      "credits": 3,
+      "description": "Prerequisite: ECON200. A study of the domestic and foreign environmental factors affecting the international operations of U.S. business firms. The course also covers the administrative aspects of international marketing, finance and management.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT394H",
+      "title": "Applied Quantitative Analysis",
+      "credits": 3,
+      "description": "Restriction: Must be in the QUEST Program. Cross-listed with: ENED394. Credit only granted for: BMGT394, ENED394, ENES489A or BMGT438A. Formerly: BMGT438A and ENES489A. The QUEST data analysis course takes a human-centered approach to data analysis and focuses on teaching students how to frame the core problem, choose the right data, and uncover deep insights from data to build an understanding of people and expose opportunities for innovation. Students will use visualization and statistical tec",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT397",
+      "title": "Mentoring Multidisciplinary Teams",
+      "credits": 3,
+      "description": "Restriction: Restricted to QUEST Program (TQMP) students. Cross-listed with: ENED397. Credit only granted for: BMGT397, ENES397 or ENED397. QUEST students practice essential skills for mentoring and coaching multidisciplinary teams. These include effective communications, facilitation, conflict resolution, and the ability to motivate. Students will practice these skills as mentors for student teams from BMGT/ENES 190H. In the process, they will strengthen their knowledge of design and quality te",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398",
+      "title": "Individual Study in Business and Management",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398A",
+      "title": "Individual Study in Business and Management; Internship",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398C",
+      "title": "Individual Study in Business and Management; Undergraduate Teaching Scholars Training",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398D",
+      "title": "Individual Study in Business and Management; Smith Start Mentorship",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398E",
+      "title": "Individual Study in Business and Management; Leadership Development and Mentorship in Business",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398I",
+      "title": "Individual Study in Business and Management; Information Technology and Business Tranformation (iTBT) Fellows",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398O",
+      "title": "Individual Study in Business and Management; Experiential Learning in Sports Management",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT398W",
+      "title": "Individual Study in Business and Management; Junior Wall Street Fellows",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT399A",
+      "title": "Special Topics in Business and Management; Financial Peer Mentoring",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT401",
+      "title": "Big Data and AI using Cloud Computing",
+      "credits": 3,
+      "description": "Prerequisite: BMGT302. Credit only granted for: BMGT401 or BMGT408E. Formerly: BMGT408E. Big data represents unprecedented opportunities for companies to generate insights and create wealth. Artificial intelligence (AI) has penetrated our daily routines, showing promise in many business areas such as finance, transportation, and healthcare. With cloud computing advances, big data and AI tools are more accessible and cost effective to average businesses; however, key challenges exist in initiatin",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT402",
+      "title": "Database Systems",
+      "credits": 3,
+      "description": "Recommended: BMGT302. Credit only granted for: INST327 or BMGT402. The fundamentals of database management systems (DBMS), data models, query processing, and data warehouses, and their application in the development of business information systems will be covered. An important goal of this course is to understand the value of information resources and information management challenges within an organization.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT403",
+      "title": "Systems Analysis and Design",
+      "credits": 3,
+      "description": "Prerequisite: BMGT301; or students who have taken courses with comparable content may contact the department. Recommended: BMGT302. Techniques and tools applicable to the analysis and design of computer-based information systems. System life cycle, requirements analysis, logical design of databases and performance evaluation. Emphasis on case studies. Project required that involves the design, analysis and implementation of an information system.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT406",
+      "title": "Developing Applications for the Web and Social Media",
+      "credits": 3,
+      "description": "Prerequisite: BMGT402 and BMGT302. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Credit only granted for: INST377 or BMGT406. The design and development of Web applications and the underlying platforms and standards for Web application development will be covered. It will examine the phenomenon of social media, social networking and crowdsourcing and understand their use within organizations.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT407",
+      "title": "Information Systems Projects",
+      "credits": 3,
+      "description": "Prerequisite: BMGT302, BMGT402 and BMGT403. Restriction: Senior standing. Senior capstone course for the information systems major. Collected knowledge from the IS courses and application to significant problems of size and complexity. State-of-the-art research ideas and current business and industrial practices in information systems.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT408C",
+      "title": "Emerging Topics in Information Systems; Quality Web Development in Business",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT411",
+      "title": "Ethics and Professionalism in Accounting",
+      "credits": 3,
+      "description": "Prerequisite: BMGT311. Restriction: Must be in Accounting program. Analysis and discussion of issues relating to ethics and professionalism in accounting.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT417",
+      "title": "Taxation of Corporations, Partnerships and Estates",
+      "credits": 3,
+      "description": "Prerequisite: BMGT221. Federal taxation of corporations using the life-cycle approach-formation, operation, assessment, merger, reorganization and liquidation. Overviews of pass-through entities - partnerships and s-corporations -using the life-cycle approach, and the tax consequences of wealth transfers by individuals - gift and estate taxation. Both tax planning and compliance issues are addressed.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT422",
+      "title": "Auditing Theory and Practice",
+      "credits": 3,
+      "description": "Prerequisite: BMGT310; and must have completed or be concurrently enrolled in BMGT311. A study of the independent accountant's attest function, generally accepted auditing standards, compliance and substantive tests and report forms and opinions.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT428J",
+      "title": "Special Topics in Accounting; Accounting Advisory for Closely Held Businesses",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT430",
+      "title": "Data Modeling in Business",
+      "credits": 3,
+      "description": "Prerequisite: BMGT231 or BMGT230; or permission of BMGT-Robert H. Smith School of Business. Explores the role of statistical models in business analytics to drive managerial decision-making and improve performance through the use of relevant data-motivated examples.  Topics include regression models (both simple and multiple regression, as well as logistic regression for binary data), model validation, variable transformation, variable selection, discriminant analysis, and forecasting.  These to",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT431",
+      "title": "Data Analytics",
+      "credits": 3,
+      "description": "Prerequisite: BMGT430. An introduction to the tools and techniques that are central to the analysis of abundant data that is being collected in many forms including web traffic, social network data, and reviews and comments on websites.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT434",
+      "title": "Analytics Consulting: Cases and Projects",
+      "credits": 3,
+      "description": "Prerequisite: BMGT332. This course assumes that students have already been introduced to the concepts and techniques of operations research/business analytics (OR/BA). Published papers, short cases, and projects in OR/BA will be analyzed and discussed in a thoughtful way, taking into account the soft (people-related) issues and the hard (mathematical/optimization) issues.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT435",
+      "title": "Business Process Simulation",
+      "credits": 3,
+      "description": "Prerequisite: BMGT332. Covers the methods for computer simulation modeling and analysis of complex systems. Students are assumed to have been introduced to the basic techniques and applications in the field of operations management and business analytics. Course emphasis is on modeling of real-world systems (for example, inventory or queueing systems), implementing simulations in special purpose software, and analyzing simulation results.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT440",
+      "title": "Advanced Financial Management",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Analysis and discussion of cases and readings relating to financial decisions of the firm. The application of finance concepts to the solution of financial problems is emphasized.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT441",
+      "title": "Fixed Income",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Describes important financial instruments which have market values that are sensitive to interest rate movements. Develops tools to analyze interest rate sensitivity and value fixed income securities. Defines and explains the vocabulary of the bond management business.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT443",
+      "title": "Applied Equity Analysis and Portfolio Management",
+      "credits": 3,
+      "description": "Prerequisite: BMGT343. Study and application of the concepts, methods, models, and empirical findings to the analysis, valuation and selection of securities, especially common stock.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT444",
+      "title": "Futures and Options Contracts",
+      "credits": 3,
+      "description": "Prerequisite: BMGT343. Credit only granted for: BMGT444 or MATH424. The institutional features and economic rationale underlying markets in futures and options. Hedging, speculation, structure of futures prices, interest rate futures, efficiency in futures markets and stock and commodity options.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT445",
+      "title": "Banking and Financial Institutions",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Recommended: ECON330 or BMGT341. Analysis and discussion of cases and readings in commercial bank management. The loan function is emphasized; also the management of liquidity reserves, investments for income and source of funds. Bank objectives, functions, policies, organization, structure, services and regulation are considered.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT446",
+      "title": "International Finance",
+      "credits": 3,
+      "description": "Prerequisite: BMGT340. Financial management from the perspective of the multinational corporation. Topics covered include the organization and functions of foreign exchange and international capital markets, international capital budgeting, financing foreign trade and designing a global financing strategy. Emphasis of the course is on how to manage exchange and political risks while maximizing benefits from global opportunity sets faced by the firm.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT448X",
+      "title": "Special Topics in Finance; Private Equity Strategy & Execution",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT448Y",
+      "title": "Special Topics in Finance; Behavioral Finance",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT449F",
+      "title": "Investment Fund Management: Lemma Senbet Fund",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT450",
+      "title": "Integrated Marketing Communications",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. In-depth study of coordinated marketing activities including advertising, sales promotion, Internet marketing, direct marketing and personal selling. Emphasizes strategic planning to effectively use these promotional tools to communicate with customers and meet marketing goals. Blends theory and current practice to provide managerial orientation.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT453",
+      "title": "Retail Management",
+      "credits": 3,
+      "description": "Prerequisite: BMGT220 and BMGT350. Credit only granted for: BMGT353 or BMGT453. Formerly: BMGT353. Planning and implementing retail marketing strategy. Application to store and non-store (catalog, internet) retailing. Evaluation of how environmental trends in the consumer market, competition, the economy and technology affect retail strategy in the U.S. and global market.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT454",
+      "title": "Global Marketing",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. Marketing functions from the global executive's viewpoint, including coverage of global marketing policies relating to product adaptation, data collection and analysis, channels of distribution, pricing, communications and cost analysis. Consideration is given to the cultural, legal, financial and organizational aspects of global marketing.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT456",
+      "title": "Customer-Centric Innovation",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. Credit only granted for: BMGT352, BMGT382 or BMGT456. Formerly: BMGT352. Addresses the management of new products and services with a focus on the innovation process, specifically the development and launching of new products or services: Opportunity Identification, Concept Generation, Design, Testing and Launch.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT457",
+      "title": "Marketing Policies and Strategies",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. This capstone course ties together various marketing concepts using the fundamentals of strategic market planning as the framework. Application of these principles is accomplished by analyzing and discussing cases and by playing a marketing strategy computer simulation game. Analysis of current business articles to understand the link between theory and real-world problem solving.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT458A",
+      "title": "Special Topics in Marketing; Design and Innovation in Marketing",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT458B",
+      "title": "Special Topics in Marketing; Design Applications in Marketing and Branding",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT458Q",
+      "title": "Special Topics in Marketing; Computer Graphics Workshop",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT458R",
+      "title": "Special Topics in Marketing; Advanced Computer Graphics Workshop",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT461",
+      "title": "Entrepreneurship",
+      "credits": 3,
+      "description": "Restriction: Must not have completed BMGT361. Credit only granted for: BMGT261, BMGT361, BMGT461, ENES460, SMLP470 or HLMN470. Process of creating new ventures, including evaluating the entrepreneurial team, the opportunity and the financing requirements. Skills, concepts, mental attitudes and knowledge relevant for starting a new business.",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT461M",
+      "title": "Entrepreneurship",
+      "credits": 3,
+      "description": "Restriction: Must not have completed BMGT361. Credit only granted for: BMGT261, BMGT361, BMGT461, ENES460, SMLP470 or HLMN470. Process of creating new ventures, including evaluating the entrepreneurial team, the opportunity and the financing requirements. Skills, concepts, mental attitudes and knowledge relevant for starting a new business.",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT461N",
+      "title": "Entrepreneurship",
+      "credits": 3,
+      "description": "Restriction: Must not have completed BMGT361. Credit only granted for: BMGT261, BMGT361, BMGT461, ENES460, SMLP470 or HLMN470. Process of creating new ventures, including evaluating the entrepreneurial team, the opportunity and the financing requirements. Skills, concepts, mental attitudes and knowledge relevant for starting a new business.",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT463",
+      "title": "Cross-cultural Challenges in Business",
+      "credits": 3,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Examines in depth the nature of international cultural value-differences and their behavioral-related effects in the workplace. Topics include decision-making and leadership styles and reactions to various work assignments and reward structures.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT466",
+      "title": "Global Business Strategy",
+      "credits": 3,
+      "description": "Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Focuses on the strategic challenges that directly result from and are associated with the globalization of industries and companies. Topics include drivers of industry globalization, difference between global and multi-domestic industry, global expansion strategies, sources of competitive advantage in a global context, and coordination of a company across a global network.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468A",
+      "title": "Special Topics in Management and Organization; Making Better Business Decisions with Data: An Introduction to Causal Inference",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468B",
+      "title": "Special Topics in Management and Organization; Integrative Management Capstone",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468J",
+      "title": "Special Topics in Management and Organization; Fundamentals of Business Research",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468R",
+      "title": "Special Topics in Management and Organization; Fearless Founders: New Venture Practicum",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468V",
+      "title": "Special Topics in Management and Organization; Business Models and Methods to Affect Social Change",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468Y",
+      "title": "Special Topics in Management and Organization; Entrepreneurial Capitalism Around the World",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT468Z",
+      "title": "Special Topics in Management and Organization; Create the Future through Systems Thinking and Design",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT472",
+      "title": "Purchasing and Inbound Logistics",
+      "credits": 3,
+      "description": "Prerequisite: BMGT372. Analysis of the resupply activities of logistics management, including purchasing policies, transportation planning, and inventory control. Attention is directed toward total cost minimization and the establishment of a sustainable competitive advantage based on procurement.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT475",
+      "title": "Supply Chain Strategy and Network Design",
+      "credits": 3,
+      "description": "Prerequisite: BMGT372. Analysis of the strategic aspects of supply chain management. Emphasis on the creation of end-user value through supply chain cost reductions, service improvements or both. Attention is directed toward the enabling role of technology in support of strategy evaluation and implementation.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT476",
+      "title": "Technology Applications in Supply Chain Management",
+      "credits": 3,
+      "description": "Prerequisite: BMGT372. An understanding of the role of technology in managing the supply chain. Provides students with hands-on experience in advanced software systems that build on top of enterprise resource planning systems. Major emphasis is placed on demonstrating that these systems result in supply chain cost reductions and service improvements.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT477",
+      "title": "International Supply Chain Management",
+      "credits": 3,
+      "description": "The study of the importance of the supply chain management within a global context. Topics covered include: the structure, service, pricing and competitive relationships among international carriers and transport intermediaries as well as documentation, location decisions, international sourcing/distribution and management of inventory throughout the international supply chain.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT478I",
+      "title": "Special Topics in Supply Chain Management; Intermodal Transportation",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT484",
+      "title": "Digital Marketing",
+      "credits": 3,
+      "description": "Prerequisite: BMGT350. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Examines the process of developing, implementing, and analyzing strategies for successfully marketing a variety of existing and potential products and services through digital means, including the web, social media, and mobile apps. Both the development and analysis of digital media for marketing will be discussed.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT485",
+      "title": "Project Management",
+      "credits": 3,
+      "description": "Prerequisite: BMGT231 or BMGT230; or students who have taken courses with comparable content may contact the department. Restriction: Must be in a major in BMGT-Robert H. Smith School of Business. Credit only granted for: BMGT485, ENCE320, ENCE325, INST408O or INST453. Modern project management techniques that are used by modern practicing professionals will be covered. Particular attention is given to the management of technology based systems and projects in a business enterprise. The topics c",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT490H",
+      "title": "QUEST Capstone Professional Practicum",
+      "credits": 4,
+      "description": "Prerequisite: BMGT390, ENES390 or ENED390. Cross-listed with: ENED490. Credit only granted for: BMGT490, ENES490 or ENED490. Formerly: ENES490. The capstone course for the QUEST Honors Program provides students with an opportunity to learn in multidisciplinary teams of business, engineering, and science students in a real-world setting. Companies engage teams of QUEST students with real organizational challenges and dedicate resources to help students address these problems. Student teams must e",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT491",
+      "title": "Scoping Experiential Learning Projects",
+      "credits": 3,
+      "description": "Prerequisite: BMGT190 or ENES190. Restriction: Restricted to QUEST Program (TQMP) students. Cross-listed with: ENES491. Credit only granted for: BMGT491 or ENES491. QUEST students cultivate relationships with new and current corporate partners and prepare project scopes for QUEST's introductory course, BMGT/ENES 190H, and capstone course, BMGT/ENES 490H. Requires independent work communicating with clients and class visits to a variety of potential project sites.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT495",
+      "title": "Strategic Management",
+      "credits": 3,
+      "description": "A case-based course where students learn to play the role of the \"strategic manager\" who defines the scope of its business operations and, within the chosen scope, how the firm will compete against rivals.  This course focuses on how a firm can both formulate effective business-level and corporate-level strategies to achieve competitive advantage and earn above average profits.",
+      "geneds": [
+        "DSSP"
+      ],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT498X",
+      "title": "Special Topics in Business and Management; The Future of Business",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT600",
+      "title": "Leadership and Teamwork",
+      "credits": 2,
+      "description": "Restriction: Permission of BMGT-Robert H. Smith School of Business; or must be in Business and Management (Master's) program. Credit only granted for: BMGT600, BUSI662 or BUSM600. Course examines concepts of team-building and leadership which are critical to managerial success. Topics include leadership, decision making, communication and conflict, work motivation, building effective teams, and organizational change and culture.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT602",
+      "title": "Introduction to Financial Accounting",
+      "credits": 2,
+      "description": "Restriction: Must be in Business and Management (Master's) program; or permission of BMGT-Robert H. Smith School of Business. Credit only granted for: BUSI610, BUAC602, BUFN602, or BMGT602. Overview of financial accounting, periodic financial statements and the financial reporting process. Importance of financial statements as information source for creditors and investors and as a means by which managers can communicate information about their firms.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT606",
+      "title": "Data Driven Decision Making",
+      "credits": 2,
+      "description": "Restriction: Must be in one of the following programs (Business and Management (Master's); Business and Management (Master's)) ; or permission of BMGT-Robert H. Smith School of Business. Credit only granted for: BUSI630 or BMGT606. Analytical modeling of business decisions; uncertainty, risk and expected utility; regression modeling to infer relationships among variables.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT610",
+      "title": "Financial Management",
+      "credits": 2,
+      "description": "Restriction: Permission of BMGT-Robert H. Smith School of Business; or must be in Business and Management (Master's) program. Credit only granted for: BUSI640, BUFN610, or BMGT610. Focuses on the valuation of the real assets of firms as well as the valuation of stocks and bonds, the primary financial assets in an economy. While details vary, the conceptual foundations of valuation boil down to three themes: time value of money, no-arbitrage, and systematic risk.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT612",
+      "title": "Marketing Management",
+      "credits": 2,
+      "description": "Restriction: Permission of BMGT-Robert H. Smith School of Business; or must be in Business and Management (Master's) program. Credit only granted for: BUSI650 or BMGT612. Analysis of marketing problems and evaluation of specific marketing efforts regarding the organization's products and services, pricing activities, channel selection, and promotion strategies in both domestic and international markets.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT758E",
+      "title": "Special Topics in Business and Management; Business Ethics",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT758N",
+      "title": "Special Topics in Business and Management; Negotiation and Conflict Management",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT758Z",
+      "title": "Special Topics in Business and Management; Sports Sales and Sponsorship",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT808G",
+      "title": "Special Topics in Information Systems; Applied Microeconomics",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT808R",
+      "title": "Special Topics in Information Systems; Research Seminar in Decision, Operations and Information Technologies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT808V",
+      "title": "Special Topics in Information Systems; Research in Strategy and Information Systems I",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT808W",
+      "title": "Special Topics in Information Systems; Research in Strategy and Information Systems II",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT818R",
+      "title": "Special Topics in Accounting and Information Assurance; Workshop in Accounting Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT818Y",
+      "title": "Special Topics in Accounting and Information Assurance; Management Accounting and Cyber Risk Management",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT828",
+      "title": "Independent Study in Business and Management",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT835",
+      "title": "Simulation of Discrete-Event Systems",
+      "credits": 3,
+      "description": "Prerequisite: Knowledge of Fortran, Basic, C, or Pascal. Simulation modeling and analysis of stochastic discrete-event systems such as manufacturing systems, inventory control systems, and computer/ communications networks.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT838R",
+      "title": "Special Topics in Operations Management/Management Science; Research Seminar in Decision, Operations and Information Technologies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT840",
+      "title": "Seminar in Financial Theory",
+      "credits": 3,
+      "description": "Prerequisite: Permission of BMGT-Robert H. Smith School of Business. Seminar in selected classic and current theoretical and empirical research in the foundations of finance.",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT848A",
+      "title": "Special Topics in Finance; Financial Research Methods",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT848F",
+      "title": "Special Topics in Finance; Workshop in Finance Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT858C",
+      "title": "Special Topics in Marketing; Consumer Behavior",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT858P",
+      "title": "Special Topics in Marketing; Marketing Models",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT858R",
+      "title": "Special Topics in Marketing; Marketing Research Seminar",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT868C",
+      "title": "Special Topics in Organizational Behavior/Human Resource Management; Career and Professionalization Workshop in Management and Organization",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT868L",
+      "title": "Special Topics in Organizational Behavior/Human Resource Management; Seminar in Leadership",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT868N",
+      "title": "Special Topics in Organizational Behavior/Human Resource Management; Open Science Workshop",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT868P",
+      "title": "Special Topics in Organizational Behavior/Human Resource Management; Organizational Behavior and Human Resource Management Presentations",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT868W",
+      "title": "Special Topics in Organizational Behavior/Human Resource Management; Work Motivation",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878C",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Cross Disciplinary Workshop",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878F",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Sociological Foundations",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878P",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Strategy and Entrepreneurship PhD Presentations",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878R",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Strategy and Entrepreneurship Research Design",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878T",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Organizational Theory",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT878Y",
+      "title": "Special Topics in Strategic Management and Entrepreneurship; Best Methods",
+      "credits": 4,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT888L",
+      "title": "Special Topics in Supply Chain Management; Logistics Research",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT888W",
+      "title": "Special Topics in Supply Chain Management; Workshop in Supply Chain Management",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT898",
+      "title": "Pre-Candidacy Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    },
+    {
+      "code": "BMGT899",
+      "title": "Doctoral Dissertation Research",
+      "credits": 6,
+      "description": "",
+      "geneds": [],
+      "department": "BMGT"
+    }
+  ]
+}

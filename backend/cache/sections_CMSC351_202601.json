@@ -1,0 +1,41 @@
+{
+  "cached_at": "2025-10-03T17:24:53.056567",
+  "data": [
+    {
+      "section_id": "0101",
+      "instructor": "Ting Jiang",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "IRB 0324",
+      "open_seats": 200,
+      "total_seats": 200
+    },
+    {
+      "section_id": "0201",
+      "instructor": "Ting Jiang",
+      "days": "MWF",
+      "time": "2:00pm-2:50pm",
+      "location": "IRB 0324",
+      "open_seats": 200,
+      "total_seats": 200
+    },
+    {
+      "section_id": "0301",
+      "instructor": "Clyde Kruskal",
+      "days": "MWF",
+      "time": "11:00am-11:50am",
+      "location": "HJP 0226",
+      "open_seats": 150,
+      "total_seats": 150
+    },
+    {
+      "section_id": "0401",
+      "instructor": "Clyde Kruskal",
+      "days": "MWF",
+      "time": "12:00pm-12:50pm",
+      "location": "HJP 0226",
+      "open_seats": 150,
+      "total_seats": 150
+    }
+  ]
+}

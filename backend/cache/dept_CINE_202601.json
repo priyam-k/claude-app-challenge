@@ -1,0 +1,193 @@
+{
+  "cached_at": "2025-10-03T17:23:42.802287",
+  "data": [
+    {
+      "code": "CINE245",
+      "title": "Film Form and Culture",
+      "credits": 3,
+      "description": "Cross-listed with:ENGL245.Credit only granted for:ENGL245, CINE245 or FILM245.Formerly:FILM245. Introduction to film as art form and how films create meaning. Basic film terminology; fundamental principles of film form, film narrative, and film history. Examination of film technique and style over past one hundred years. Social and economic functions of film within broader institutional, economic, and cultural contexts.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE280",
+      "title": "Film Art in a Global Society",
+      "credits": 3,
+      "description": "Cross-listed with:CMLT280.Credit only granted for:CINE280, FILM298D or CMLT280.Formerly:FILM298D. Comparative study of a variety of film traditions from around the world, including cinema from Hollywood, Europe, Asia and developing countries, with a stress on different cultural contexts for film-making and viewing.",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE282",
+      "title": "Heroes and Villains in American Film",
+      "credits": 3,
+      "description": "Cross-listed with:AMST213.Credit only granted for:AMST213, HONR219F, CINE282 or FILM298V.Formerly:HONR219F, FILM298V. We will examine the complex, changing, and ever-present representations of heroes and villains in American film. Beginning with a foundational understanding of how heroes and, conversely, villains have been defined through classic Hollywood film, we will explore how these definitions have shifted throughout the 20th and 21st century in various narrative genres, including westerns",
+      "geneds": [
+        "DSHU",
+        "DVUP"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE302",
+      "title": "Cinema History II: The Sound Era",
+      "credits": 3,
+      "description": "Prerequisite:ENGL245, FILM245, or CINE245.Restriction:Must have permission of the Film Studies program.Credit only granted for:CINE302 or FILM302.Formerly:FILM302. Introduction to the international history of cinema from sound around 1930 to the present.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE310",
+      "title": "Introduction to Filmmaking 1",
+      "credits": 3,
+      "description": "Restriction:Permission of the Cinema and Media Studies program. Repeatable to 6 credits.Credit only granted for:CINE319M or CINE310.Formerly:CINE319M. This practice-based course offers an introduction to the foundational skills, techniques, and principles of filmmaking. Prior film or video production experience is not necessary.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE319I",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Visual Media; Digital Storyboarding",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE319Q",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Visual Media; The Films of Studio Ghibli",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE329N",
+      "title": "Special Topics in National/International Cinemas; Latin American Cinema",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE329Z",
+      "title": "Special Topics in National/International Cinemas; Migration Cinema",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE359O",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; New Waves of the Soviet Bloc",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE359Q",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; The Cinema of Steven Spielberg",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE359R",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; Cinema and Religion",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE369G",
+      "title": "Special Topics in Film Theories; Cinema and Story Telling",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE376",
+      "title": "Writing the Feature Film",
+      "credits": 3,
+      "description": "Prerequisite:ENGL275, ARHU275, ARHU375 or THET340; or permission of instructor.Cross-listed with:ARHU376.Credit only granted for:ARHU376 or CINE376. Examines the creative process of developing and writing a feature-length screenplay. Students will experience a collaborative workshop environment, researching stories, pitching feature film ideas, creating a logline, developing a detailed beat sheet and, ultimately, writing a complete first draft of the screenplay.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE388",
+      "title": "Experiential Learning: Cinema and Media Studies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE419M",
+      "title": "Special Topics in Documentary, Animation, Experimental Cinema, and Other Media; Babylon Berlin and Global Media Culture",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE420",
+      "title": "French Cinema: A Cultural Approach (in Translation)",
+      "credits": 3,
+      "description": "Cross-listed with:FREN480.Credit only granted for:FREN480, CINE420 or FILM420.Formerly:FILM420. A study of French culture, civilization, and literature through the medium of film. Taught in English.",
+      "geneds": [
+        "DSHU"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE429Q",
+      "title": "Ideology of Stereotyping: American and Middle Eastern Film and Television",
+      "credits": 3,
+      "description": "Cross-listed with:ARAB410.Credit only granted for:ARAB410 or CINE429Q. Exploration of cultural stereotyping, using examples from American and Middle Eastern cinema and television. Students will examine ideological constructs of Otherness and its history, including Orientalism; propaganda techniques; and audiovisual aspects of stereotyping. While the focus is on American and Middle Eastern cultural production, the course will engage broader issues of stereotyping in contemporary society and media",
+      "geneds": [
+        "DVCC"
+      ],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE429W",
+      "title": "Special Topics in National/International Cinemas; Paradise Lost: Cuban Cinematic Culture",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE431",
+      "title": "Italian Cinema II (In Translation)",
+      "credits": 3,
+      "description": "Cross-listed with:ITAL473.Credit only granted for:ITAL473, CINE431 or FILM431.Formerly:FILM431. A study of Italian society and culture through the medium of film from the mid 1970's to the present. Taught in English.",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE459A",
+      "title": "Special Topics in Genres/Auteurs/Cinema Movements; The Heist Film",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    },
+    {
+      "code": "CINE499",
+      "title": "Directed Study in Cinema and Media Studies",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CINE"
+    }
+  ]
+}
