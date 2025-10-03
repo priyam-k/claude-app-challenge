@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { API_URL } from '../config'
 
 function MarkdownText({ text }) {
   // Simple markdown parser for bold, italic, and line breaks
@@ -64,7 +65,7 @@ export default function CampusCompass() {
 
   useEffect(() => {
     // Fetch upcoming events on load
-    fetch('http://localhost:8000/api/events/upcoming')
+    fetch(`${API_URL}/api/events/upcoming`)
       .then(res => res.json())
       .then(data => setEvents(data.events || []))
       .catch(err => console.error('Error fetching events:', err))
@@ -81,7 +82,7 @@ export default function CampusCompass() {
 
     setLoading(true)
     try {
-      const response = await fetch('http://localhost:8000/api/compass/ask', {
+      const response = await fetch(`${API_URL}/api/compass/ask`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query })

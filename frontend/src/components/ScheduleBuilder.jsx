@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import CalendarView from './CalendarView'
+import { API_URL } from '../config'
 
 export default function ScheduleBuilder() {
   const [query, setQuery] = useState('')
@@ -11,7 +12,7 @@ export default function ScheduleBuilder() {
 
   useEffect(() => {
     // Fetch available terms
-    fetch('http://localhost:8000/api/terms')
+    fetch(`${API_URL}/api/terms`)
       .then(res => res.json())
       .then(data => {
         setTerms(data.terms || [])
@@ -25,7 +26,7 @@ export default function ScheduleBuilder() {
 
     setLoading(true)
     try {
-      const response = await fetch('http://localhost:8000/api/schedule/build', {
+      const response = await fetch(`${API_URL}/api/schedule/build`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query, term_id: selectedTerm })

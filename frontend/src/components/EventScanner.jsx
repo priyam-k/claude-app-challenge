@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { API_URL } from '../config'
 
 export default function EventScanner() {
   const [file, setFile] = useState(null)
@@ -22,7 +23,7 @@ export default function EventScanner() {
     formData.append('file', file)
 
     try {
-      const response = await fetch('http://localhost:8000/api/events/scan', {
+      const response = await fetch(`${API_URL}/api/events/scan`, {
         method: 'POST',
         body: formData
       })

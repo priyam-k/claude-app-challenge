@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { API_URL } from '../config'
 
 export default function Advisor() {
   const [query, setQuery] = useState('')
@@ -10,7 +11,7 @@ export default function Advisor() {
 
     setLoading(true)
     try {
-      const response = await fetch('http://localhost:8000/api/advisor/recommend', {
+      const response = await fetch(`${API_URL}/api/advisor/recommend`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query })
