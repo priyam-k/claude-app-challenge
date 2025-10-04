@@ -153,11 +153,21 @@ Return JSON:
             courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
             all_courses.extend(courses)
 
-    # Apply filters
+    # Apply level filter ONLY to department courses (not gen-eds or specific courses)
     if filters.get('level'):
         level_str = str(filters['level'])
-        # Keep specific courses even if wrong level
-        filtered = [c for c in all_courses if c['code'] in [sc.upper() for sc in specific_courses] or (len(c['code']) >= 5 and c['code'][4] == level_str)]
+        gened_codes = [gened.upper() for gened in filters.get('geneds', [])]
+
+        filtered = []
+        for c in all_courses:
+            # Keep if: specific course, OR has matching gen-ed, OR matches level from a department search
+            is_specific = c['code'] in [sc.upper() for sc in specific_courses]
+            has_requested_gened = any(g in c.get('geneds', []) for g in gened_codes)
+            matches_level = len(c['code']) >= 5 and c['code'][4] == level_str
+
+            if is_specific or has_requested_gened or matches_level:
+                filtered.append(c)
+
         if filtered:
             all_courses = filtered
 
@@ -341,8 +351,8 @@ def build_one_schedule(courses_with_sections: List[Dict], best_profs=False, pref
                 dept_counts[dept] = dept_counts.get(dept, 0) + 1
                 break
 
-    # Require at least 4 courses for a valid schedule (typically 12+ credits)
-    if len(selected_sections) < 4:
+    # Require at least 3 courses for a valid schedule
+    if len(selected_sections) < 3:
         return None
 
     return {
