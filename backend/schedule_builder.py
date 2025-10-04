@@ -188,31 +188,22 @@ Return JSON:
             dept = c['code'][:4]
             dept_counts[dept] = dept_counts.get(dept, 0) + 1
 
-    # Then add others with department diversity
-    # First pass: add up to 2 from each department
+    # Then add others - be less restrictive if we have few departments
+    num_depts = len(set(c['code'][:4] for c in all_courses))
+    per_dept_limit = 10 if num_depts == 1 else (5 if num_depts == 2 else 3)
+
+    # Add courses up to the limit
     for c in all_courses:
         if c in final_courses:
             continue
         if len(final_courses) >= 10:
             break
         dept = c['code'][:4]
-        if dept_counts.get(dept, 0) < 2:
+        if dept_counts.get(dept, 0) < per_dept_limit:
             final_courses.append(c)
             dept_counts[dept] = dept_counts.get(dept, 0) + 1
 
-    # Second pass: if we don't have enough, add more (up to 3 per dept)
-    if len(final_courses) < 8:
-        for c in all_courses:
-            if c in final_courses:
-                continue
-            if len(final_courses) >= 10:
-                break
-            dept = c['code'][:4]
-            if dept_counts.get(dept, 0) < 3:
-                final_courses.append(c)
-                dept_counts[dept] = dept_counts.get(dept, 0) + 1
-
-    print(f"Selected {len(final_courses)} courses for schedule building")
+    print(f"Selected {len(final_courses)} courses for schedule building from {len(all_courses)} available courses")
     return final_courses, filters.get('preferences', {}), specific_courses
 
 
