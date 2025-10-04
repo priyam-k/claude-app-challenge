@@ -1,0 +1,414 @@
+{
+  "cached_at": "2025-10-03T19:59:22.264848",
+  "data": [
+    {
+      "code": "CHEM131",
+      "title": "Chemistry I - Fundamentals of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM132. Recommended: For Science majors. Credit only granted for: CHEM103, CHEM131, CHEM135, CHEM153 or CHEM146. Formerly: CHEM103. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM131 is the first course in a four-semester sequence for students majoring in the sciences, other than Chemistry and Bioche",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM132",
+      "title": "General Chemistry I Laboratory",
+      "credits": 1,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM131. Credit only granted for: CHEM103, CHEM132, CHEM136, CHEM143, CHEM147 or CHEM177. Formerly: CHEM103. Introduction to the quantification of chemical substances, including the concept of the mole and chemical stoichiometry. Additional work involves the synthesis of ionic substances and their qualitative characterization. Must be taken concurrently with CHEM131.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM132C",
+      "title": "General Chemistry I Laboratory",
+      "credits": 1,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM131. Credit only granted for: CHEM103, CHEM132, CHEM136, CHEM143, CHEM147 or CHEM177. Formerly: CHEM103. Introduction to the quantification of chemical substances, including the concept of the mole and chemical stoichiometry. Additional work involves the synthesis of ionic substances and their qualitative characterization. Must be taken concurrently with CHEM131.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM132S",
+      "title": "General Chemistry I Laboratory",
+      "credits": 1,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM131. Credit only granted for: CHEM103, CHEM132, CHEM136, CHEM143, CHEM147 or CHEM177. Formerly: CHEM103. Introduction to the quantification of chemical substances, including the concept of the mole and chemical stoichiometry. Additional work involves the synthesis of ionic substances and their qualitative characterization. Must be taken concurrently with CHEM131.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM134",
+      "title": "Chemical Principles for Engineering",
+      "credits": 1,
+      "description": "Prerequisite: Minimum grade of C- in CHEM131; or minimum grade of C- in CHEM146. Credit only granted for: CHEM 134 or CHEM 135. Basic chemistry for engineering students. Introduction to organic structures and polymers, gas laws, liquids, solids, phase changes, chemical kinetics and electrochemistry.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM135",
+      "title": "General Chemistry for Engineers",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Credit only granted for: CHEM103, CHEM113, CHEM131, CHEM135, or CHEM146. The nature and composition of matter, solutions, chemical reactions, equilibria, and electrochemistry, with applications to various fields of engineering.",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM136",
+      "title": "General Chemistry Laboratory for Engineers",
+      "credits": 1,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in CHEM135 and must have math eligibility of MATH120 or higher. Restriction: Must be in a major in ENGR-A. James Clark School of Engineering. A laboratory course for engineering majors intending to take CHEM231 and CHEM232.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM146",
+      "title": "Principles of General Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have math eligibility of MATH140 or higher. Corequisite: CHEM177. Restriction: Must be in one of the following programs (Chemistry; Biochemistry). Credit only granted for: CHEM103, CHEM131, CHEM135, CHEM143, or CHEM146. Formerly: CHEM143. An overview of the Periodic Table, inorganic substances, ionic and covalent bonding, bulk properties of materials, chemical equilibrium, and quantitative chemistry. CHEM146 is the first course in a four-semester sequence for Chemistry and Bio",
+      "geneds": [
+        "DSNL",
+        "DSNS"
+      ],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM177",
+      "title": "Introduction to Laboratory Practices and Research in the Chemical Sciences",
+      "credits": 2,
+      "description": "Prerequisite: Must have math eligibility of MATH120 or higher. Corequisite: CHEM146, CHEM131, or CHEM135. Restriction: Must be in a major within CMNS-Chemistry & Biochemistry department; or permission of CMNS-Chemistry & Biochemistry department. Credit only granted for: CHEM132, CHEM136, CHEM147, or CHEM177. First semester laboratory course required for CHEM and BCHM majors. Introduction to laboratory techniques, including safety practices, scientific ethics, and presentation of current research",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM231",
+      "title": "Organic Chemistry I",
+      "credits": 3,
+      "description": "Prerequisite: CHEM131, CHEM135, or CHEM146; and (CHEM132, CHEM136, CHEM147, or CHEM177); and a grade of C- or better in the prerequisites is required of College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Corequisite: CHEM232. Credit only granted for: CHEM104, CHEM231, CHEM233 or CHEM237. Formerly: CHEM233. The chemistry of carbon: aliphatic compounds, aromatic compounds, stereochemistry, arenes, halides, alcohols, esters and spectroscopy.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM232",
+      "title": "Organic Chemistry Laboratory I",
+      "credits": 1,
+      "description": "Prerequisite: CHEM131 and CHEM132; or (CHEM135 and CHEM136); or (CHEM146 and CHEM147). And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Corequisite: CHEM231. Credit only granted for: CHEM104, CHEM231, CHEM233 or CHEM237. Formerly: CHEM233. Provides experience in developing some basic laboratory techniques, recrystallization, distillation, extraction, chromatography.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM241",
+      "title": "Organic Chemistry II",
+      "credits": 3,
+      "description": "Prerequisite: CHEM231 and CHEM232; or CHEM237. And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Credit only granted for: CHEM241, CHEM243 or CHEM247. Formerly: CHEM243. A continuation of CHEM231 with emphasis on molecular structure; substitution reactions; carbonium ions; aromaticity; synthetic processes; macromolecules.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM242",
+      "title": "Organic Chemistry Laboratory II",
+      "credits": 1,
+      "description": "Prerequisite: CHEM231 and CHEM232; or CHEM237. And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Corequisite: CHEM241. Credit only granted for: CHEM243 or CHEM247. Formerly: CHEM243. Synthetic organic chemistry through functional group manipulation, introduction to instrumentation essential to analysis and structure elucidation.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM247",
+      "title": "Principles of Organic Chemistry II",
+      "credits": 4,
+      "description": "Prerequisite: Minimum grade of C- in CHEM237; or permission of CMNS-Chemistry & Biochemistry department. Restriction: Must be in one of the following programs (Chemistry; Biochemistry) ; or must be an honors student. Credit only granted for: CHEM243 or CHEM247. A continuation of CHEM237 with emphasis on molecular structure, substitution reactions; carbonium ions; aromaticity; synthetic processes; macromolecules.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM271",
+      "title": "General Chemistry and Energetics",
+      "credits": 2,
+      "description": "Prerequisite: CHEM241 and CHEM242; or CHEM247. And a grade of C- or better in the prerequisites for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Corequisite: CHEM272. Credit only granted for: CHEM113, CHEM153, CHEM271 or CHEM276. Formerly: CHEM113. An introduction to the physical aspects of chemistry; chemical kinetics, thermodynamics and electrochemistry in the context of current chemistry research.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM272",
+      "title": "General Bioanalytical Chemistry Laboratory",
+      "credits": 2,
+      "description": "Prerequisite: CHEM241 and CHEM242; or CHEM247. And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students. Corequisite: CHEM271. Credit only granted for: CHEM227, CHEM272 or CHEM277. An introduction to analytical chemistry with an emphasis on bio-analytical instrumentation and techniques.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM277",
+      "title": "Fundamentals of Analytical and Bioanalytical Chemistry Laboratory",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in CHEM241 and CHEM242; or minimum grade of C- in CHEM247. Corequisite: CHEM276. Restriction: Must be in one of the following programs (Chemistry; Biochemistry). Credit only granted for: CHEM153, CHEM227, CHEM272 or CHEM277. Quantitative analysis, inorganic analytical chemistry, and an introduction to bio-analytical instrumentation and techniques.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM398",
+      "title": "Special Projects",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM399A",
+      "title": "Introduction to Chemical Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM399B",
+      "title": "Introduction to Chemical Research",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM399C",
+      "title": "Introduction to Chemical Research",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM399X",
+      "title": "Introduction to Chemical Research; Chemistry Instruction",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM403",
+      "title": "Radiochemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed one year of college chemistry and one year of college physics. Radioactive decay; introduction to properties of atomic nuclei; nuclear processes in cosmology; chemical, biomedical and environmental applications of radioactivity; nuclear processes as chemical tools; interaction of radiation with matter.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM425",
+      "title": "Instrumental Methods of Analysis",
+      "credits": 4,
+      "description": "Prerequisite: CHEM272 and CHEM271; or (CHEM276 and CHEM277). Modern instrumentation in analytical chemistry. Electronics, spectroscopy, chromatography and electrochemistry.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM441",
+      "title": "Advanced Organic Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in CHEM480 or CHEM481; and 1 course with a minimum grade of C- from (CHEM241, CHEM247). Jointly offered with: CHEM641. An advanced study of the compounds of carbon, with special emphasis on molecular orbital theory and organic reaction mechanisms.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM460",
+      "title": "Structure Determination Using Spectroscopic Methods",
+      "credits": 3,
+      "description": "Prerequisite: Must have completed CHEM243; or CHEM247; or (CHEM241 and CHEM242). Formerly: CHEM660. The use of infrared, ultraviolet-visible, proton and carbon-13 nuclear magnetic resonance and mass spectroscopy for structure determination in organic chemistry.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM480",
+      "title": "Principles of Physical Chemistry",
+      "credits": 3,
+      "description": "Prerequisite: (CHEM276 or CHEM271); and (CHEM277 or CHEM272); and (MATH140 or MATH136); and (PHYS260 and PHYS261) or PHYS132. Credit only granted for: CHEM480 or CHEM481; CHEM480, BCHM485 or CHEM482. Covers elementary thermodynamics, principles of kinetics and catalysis and selected topics in molecular quantum mechanics, spectroscopy and statistical mechanics. Topics will emphasize core subjects along with applications to biosciences, materials science, environmental science and related areas.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM481",
+      "title": "Physical Chemistry I",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in CHEM135; or minimum grade of C- in CHEM271 and CHEM272; or minimum grade of C- in CHEM276 and CHEM277. And minimum grade of C- in MATH141. And minimum grade of C- in PHYS260 and PHYS261; or minimum grade of C- in PHYS141. Credit only granted for: CHEM481 or CHEM480. Thermodynamics and kinetics of chemical and molecular systems. Topics may include internal energy, heat, work, enthalpy, entropy, free energy, and spontaneity as well as reaction order, differenti",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM482",
+      "title": "Physical Chemistry II",
+      "credits": 3,
+      "description": "Prerequisite: Minimum grade of C- in CHEM135; or minimum grade of C- in CHEM271 and CHEM272; or minimum grade of C- in CHEM276 and CHEM277. And minimum grade of C- in MATH141. And minimum grade of C- in PHYS260 and PHYS261; or minimum grade of C- in PHYS141. Credit only granted for: CHEM482, BCHM485 or CHEM480. Quantum mechanical nature of atoms and molecules. Topics may include model systems for electronic, vibrational, rotational and translational energies as well as connections to molecular s",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM483",
+      "title": "Physical Chemistry Laboratory I",
+      "credits": 2,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in CHEM481. An introduction to the principles and application of quantitative techniques in physical chemical measurements. Experiments will be coordinated with topics in CHEM481.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM484",
+      "title": "Physical Chemistry Laboratory II",
+      "credits": 2,
+      "description": "Prerequisite: Must have completed or be concurrently enrolled in CHEM482. Advanced quantitative techniques necessary in physical chemical measurements. Experiments will be coordinated with topics in CHEM 482.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM601",
+      "title": "Structure and Bonding of Molecules and Materials",
+      "credits": 3,
+      "description": "Development of the tools necessary to use the knowledge of structure and bonding of molecules and solids in the practice of synthetic inorganic and materials chemistry. Several bonding models are covered, from the simple valence bond and ligand field models to a quantitative group theoretical treatment of molecular orbital theory and band structure descriptions of solids. Concepts of electron counting and oxidation state and ligand characteristics are revisited in terms of the more sophisticated",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM608K",
+      "title": "Selected Topics in Inorganic Chemistry; Chemistry Teaching and Learning in Higher Education",
+      "credits": 2,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM611",
+      "title": "Professional Skills for New Graduate Students",
+      "credits": 1,
+      "description": "Restriction: Must be in one of the following programs (Chemistry (Master's); Biochemistry (Master's); Biochemistry (Doctoral); Chemistry (Doctoral)) ; and must be a new graduate student. Covers a wide range of topics in professional development for new graduate students.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM625",
+      "title": "Separation Methods in Quantitative Analysis",
+      "credits": 3,
+      "description": "Prerequisite: CHEM482; or students who have taken courses with comparable content may contact the department. The theory and application for quantitative analysis of various forms of chromatography, ion exchange, solvent extraction, distillation, and mass spectroscopy.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM640",
+      "title": "Problems in Organic Reaction Mechanisms",
+      "credits": 1,
+      "description": "A tutorial type course dealing with the basic description of the fundamentals of writing organic reaction mechanisms.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM641",
+      "title": "Organic Reaction Mechanisms",
+      "credits": 3,
+      "description": "Jointly offered with CHEM441.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM684",
+      "title": "Chemical Thermodynamics",
+      "credits": 3,
+      "description": "Prerequisite: CHEM482; or students who have taken courses with comparable content may contact the department.",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM689N",
+      "title": "Special Topics in Physical Chemistry; Fundamentals and Applications of Nanochemistry",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM690",
+      "title": "Quantum Chemistry I",
+      "credits": 3,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM699",
+      "title": "Special Problems in Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM799",
+      "title": "Master's Thesis Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889A",
+      "title": "Seminar; Analytical, Nuclear and Environmental Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889C",
+      "title": "Seminar; Inorganic Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889D",
+      "title": "Seminar; Organic Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889E",
+      "title": "Seminar; Physical Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889F",
+      "title": "Seminar; Chemical Physics",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM889M",
+      "title": "Seminar; Materials Chemistry",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM898",
+      "title": "Pre-Candidacy Research",
+      "credits": 1,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    },
+    {
+      "code": "CHEM899",
+      "title": "Doctoral Dissertation Research",
+      "credits": 6,
+      "description": "",
+      "geneds": [],
+      "department": "CHEM"
+    }
+  ]
+}

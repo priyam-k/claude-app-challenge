@@ -1,0 +1,437 @@
+{
+  "cached_at": "2025-10-03T20:01:27.659343",
+  "data": [
+    {
+      "section_id": "1111",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "9:00am-11:50am",
+      "location": "ESJ 1312",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1112",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "9:00am-11:50am",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1122",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1123",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 2,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1131",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1211",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1221",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1222",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1223",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1232",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1233",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1321",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1331",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1332",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1334",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1330",
+      "open_seats": 2,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1341",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "6:00pm-8:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1342",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "7:00pm-9:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 12
+    },
+    {
+      "section_id": "1411",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1412",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1422",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1432",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1434",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 1330",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1531",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1532",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1533",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC11",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "9:00am-11:50am",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC12",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "9:00am-11:50am",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC13",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "9:00am-11:50am",
+      "location": "ESJ 1330",
+      "open_seats": 3,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC21",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC22",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 3,
+      "total_seats": 24
+    },
+    {
+      "section_id": "FC33",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1330",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "SEF1",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "7:00pm-9:50pm",
+      "location": "ESJ 1330",
+      "open_seats": 3,
+      "total_seats": 24
+    },
+    {
+      "section_id": "SEF2",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "7:00pm-9:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 12
+    },
+    {
+      "section_id": "1121",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1132",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1133",
+      "instructor": "Christiana Guest",
+      "days": "M",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1213",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1231",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1323",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1333",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "3:00pm-5:50pm",
+      "location": "ESJ 2324",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1414",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 1330",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1421",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1424",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "12:30pm-3:20pm",
+      "location": "ESJ 1330",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1433",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 2324",
+      "open_seats": 3,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1521",
+      "instructor": "Christiana Guest",
+      "days": "F",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1312",
+      "open_seats": 1,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1212",
+      "instructor": "Christiana Guest",
+      "days": "Tu",
+      "time": "9:30am-12:20pm",
+      "location": "ESJ 1316",
+      "open_seats": 0,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1322",
+      "instructor": "Christiana Guest",
+      "days": "W",
+      "time": "12:00pm-2:50pm",
+      "location": "ESJ 1316",
+      "open_seats": 5,
+      "total_seats": 24
+    },
+    {
+      "section_id": "1431",
+      "instructor": "Christiana Guest",
+      "days": "Th",
+      "time": "3:30pm-6:20pm",
+      "location": "ESJ 1312",
+      "open_seats": 0,
+      "total_seats": 24
+    }
+  ]
+}

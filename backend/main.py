@@ -28,7 +28,11 @@ app = FastAPI(title="Testudo++ API")
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Vite default port
+    allow_origins=[
+        "http://localhost:5173",  # Local development
+        "https://claude-app-challenge-930s3wbyt-priyam-ks-projects-69af5de8.vercel.app",  # Vercel production
+        "https://*.vercel.app",  # Allow all Vercel preview deployments
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

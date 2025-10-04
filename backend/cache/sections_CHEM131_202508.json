@@ -1,0 +1,257 @@
+{
+  "cached_at": "2025-10-03T19:59:24.614300",
+  "data": [
+    {
+      "section_id": "1221",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1222",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1224",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1241",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1242",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1243",
+      "instructor": "Lenea Stocker",
+      "days": "MWF",
+      "time": "10:00am-10:50am",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1325",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1327",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1328",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1345",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1347",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1348",
+      "instructor": "Samuel Lascio",
+      "days": "MWF",
+      "time": "9:00am-9:50am",
+      "location": "PHY 1412",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1425",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1426",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1427",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 6,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1445",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1446",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 3,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1447",
+      "instructor": "Lee Friedman",
+      "days": "MWF",
+      "time": "8:00am-8:50am",
+      "location": "CHM 1407",
+      "open_seats": 5,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1521",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1522",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1523",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1541",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 0,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1542",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "1543",
+      "instructor": "Amanda Schech",
+      "days": "MWF",
+      "time": "1:00pm-1:50pm",
+      "location": "CHM 1407",
+      "open_seats": 1,
+      "total_seats": 40
+    },
+    {
+      "section_id": "FC01",
+      "instructor": "Frances Stump",
+      "days": "TuTh",
+      "time": "4:30pm-5:45pm",
+      "location": "CHM 1402",
+      "open_seats": 1,
+      "total_seats": 44
+    },
+    {
+      "section_id": "FC02",
+      "instructor": "Frances Stump",
+      "days": "TuTh",
+      "time": "4:30pm-5:45pm",
+      "location": "CHM 1402",
+      "open_seats": 0,
+      "total_seats": 44
+    },
+    {
+      "section_id": "FC03",
+      "instructor": "Frances Stump",
+      "days": "TuTh",
+      "time": "4:30pm-5:45pm",
+      "location": "CHM 1402",
+      "open_seats": 4,
+      "total_seats": 44
+    },
+    {
+      "section_id": "SEF1",
+      "instructor": "Amanda Schech",
+      "days": "M",
+      "time": "6:00pm-8:50pm",
+      "location": "PHY 4221",
+      "open_seats": 0,
+      "total_seats": 52
+    }
+  ]
+}
