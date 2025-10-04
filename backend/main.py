@@ -31,7 +31,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",  # Local development
         "https://claude-app-challenge-930s3wbyt-priyam-ks-projects-69af5de8.vercel.app",  # Vercel production
-        "https://*.vercel.app",  # Allow all Vercel preview deployments
+        "https://claude-app-challenge.vercel.app",  # Vercel custom domain
     ],
     allow_credentials=True,
     allow_methods=["*"],
