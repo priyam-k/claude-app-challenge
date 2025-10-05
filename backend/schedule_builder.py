@@ -127,7 +127,7 @@ Return JSON:
     except Exception as e:
         print(f"Parse error: {e}")
 
-    # Fetch courses - MORE GENERIC
+    # Fetch courses - MORE GENERIC and COMPREHENSIVE
     all_courses = []
     specific_courses = filters.get('specific_courses', [])
     excluded_courses = filters.get('excluded_courses', [])
@@ -147,6 +147,7 @@ Return JSON:
         all_courses.extend(courses)
 
     # Add from gen-eds (fetch MORE gen-eds - up to 4)
+    # ALWAYS fetch if geneds mentioned, even if departments also mentioned
     for gened in filters.get('geneds', [])[:4]:
         if gened.upper() in GENED_CODES:
             courses = await fetch_gened_courses(gened.upper(), term_id)
@@ -154,8 +155,18 @@ Return JSON:
             courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
             all_courses.extend(courses)
 
+    # If user mentioned "gen-ed" or "gened" in general but didn't specify which ones,
+    # fetch from multiple popular gen-ed categories
+    query_lower = query.lower()
+    if ('gen' in query_lower or 'gened' in query_lower or 'general education' in query_lower) and not filters.get('geneds'):
+        popular_geneds = ['DSHS', 'DSHU', 'DSNS', 'FSOC', 'FSMA']
+        for gened in popular_geneds[:3]:
+            courses = await fetch_gened_courses(gened, term_id)
+            courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
+            all_courses.extend(courses[:10])  # Take first 10 from each gen-ed
+
     # If no departments or geneds specified, try to infer from query or use defaults
-    if not filters.get('departments') and not filters.get('geneds') and not specific_courses:
+    if not filters.get('departments') and not filters.get('geneds') and not specific_courses and not all_courses:
         # Generic "give me courses" - fetch from popular departments
         default_depts = ['CMSC', 'MATH', 'ENGL', 'HIST']
         for dept in default_depts[:2]:
@@ -230,15 +241,19 @@ async def build_schedules_from_courses(courses: List[Dict], preferences: Dict, t
     """Step 2: Build actual schedules from the course list"""
     from planetterp import enrich_section_with_ratings
 
-    # Calculate target credits: if user lists specific courses, use their total; otherwise target 15
+    # Calculate target credits: be flexible based on user intent
     if specific_courses:
         # Find the total credits from specific courses
         specific_credits = sum(c['credits'] for c in courses if c['code'] in [sc.upper() for sc in specific_courses])
         # Use that as target, but allow some flexibility (e.g., if 19, use 19)
         max_credits = max(specific_credits, 15)
     else:
-        # Default target: 15 credits
-        max_credits = preferences.get('max_credits', 15)
+        # Check if user wants many courses (look at total available)
+        # If we have 15+ courses available, they probably want a big schedule
+        if len(courses) >= 15:
+            max_credits = 21  # Allow up to 21 credits for big requests
+        else:
+            max_credits = preferences.get('max_credits', 15)
 
     # Fetch sections for all courses and enrich with ratings
     courses_with_sections = []
@@ -297,14 +312,15 @@ def build_one_schedule(courses_with_sections: List[Dict], best_profs=False, pref
     ))
 
     for course in sorted_courses:
-        # Check credit limit - be flexible for specific courses
-        if total_credits + course['credits'] > max_credits + 1:
-            # If it's a specific course, allow going over a bit
-            if not course.get('is_specific', False):
-                continue
-            # Even for specific courses, don't go way over
-            if total_credits + course['credits'] > max_credits + 3:
-                continue
+        # Check credit limit - be VERY flexible
+        # Only enforce a hard cap at 30 credits (full overload)
+        if total_credits + course['credits'] > 30:
+            continue
+
+        # If it's a specific course, definitely include it (user requested it)
+        # Otherwise, respect max_credits with some flexibility
+        if not course.get('is_specific', False) and total_credits + course['credits'] > max_credits + 3:
+            continue
 
         sections = course.get('sections', [])
         if not sections:

@@ -10,6 +10,7 @@ export default function ScheduleBuilder() {
   const [selectedTerm, setSelectedTerm] = useState('')
   const [viewMode, setViewMode] = useState('calendar') // 'calendar' or 'list'
   const [explanation, setExplanation] = useState('')
+  const [loadingStatus, setLoadingStatus] = useState('')
 
   useEffect(() => {
     // Fetch available terms
@@ -26,6 +27,28 @@ export default function ScheduleBuilder() {
     if (!query.trim()) return
 
     setLoading(true)
+    setSchedules([])
+    setExplanation('')
+
+    // Simulate loading stages
+    const stages = [
+      'Analyzing your request...',
+      'Searching Schedule of Classes...',
+      'Finding relevant courses...',
+      'Fetching course sections...',
+      'Building schedules...',
+      'Checking for conflicts...',
+      'Finalizing results...'
+    ]
+
+    let stageIndex = 0
+    const statusInterval = setInterval(() => {
+      if (stageIndex < stages.length) {
+        setLoadingStatus(stages[stageIndex])
+        stageIndex++
+      }
+    }, 800)
+
     try {
       const response = await fetch(`${API_URL}/api/schedule/build`, {
         method: 'POST',
@@ -34,6 +57,9 @@ export default function ScheduleBuilder() {
       })
       const data = await response.json()
       console.log('Received data:', data)
+
+      clearInterval(statusInterval)
+      setLoadingStatus('')
 
       if (data.schedules && Array.isArray(data.schedules)) {
         setSchedules(data.schedules)
@@ -44,8 +70,11 @@ export default function ScheduleBuilder() {
         setExplanation(data.explanation || 'Invalid response format')
       }
     } catch (error) {
+      clearInterval(statusInterval)
+      setLoadingStatus('')
       console.error('Error:', error)
-      alert('Failed to build schedule. Is the backend running?')
+      setSchedules([])
+      setExplanation('Failed to build schedule. Is the backend running?')
     } finally {
       setLoading(false)
     }
@@ -118,8 +147,23 @@ export default function ScheduleBuilder() {
         </div>
       </div>
 
+      {/* Loading Status */}
+      {loading && loadingStatus && (
+        <div className="bg-gradient-to-r from-umd-red to-red-600 border-l-4 border-umd-gold p-4 mb-6 rounded-lg animate-pulse">
+          <div className="flex items-center gap-3">
+            <svg className="animate-spin h-5 w-5 text-white" viewBox="0 0 24 24">
+              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none"/>
+              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"/>
+            </svg>
+            <p className="text-white font-semibold">
+              {loadingStatus}
+            </p>
+          </div>
+        </div>
+      )}
+
       {/* Results Summary */}
-      {explanation && (
+      {!loading && explanation && (
         <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6 rounded-lg">
           <p className="text-blue-900 font-semibold">
             {explanation}
