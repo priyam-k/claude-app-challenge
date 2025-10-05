@@ -127,7 +127,7 @@ Return JSON:
     except Exception as e:
         print(f"Parse error: {e}")
 
-    # Fetch courses
+    # Fetch courses - MORE GENERIC
     all_courses = []
     specific_courses = filters.get('specific_courses', [])
     excluded_courses = filters.get('excluded_courses', [])
@@ -138,20 +138,29 @@ Return JSON:
         matching = [c for c in courses if c['code'] == course_code.upper()]
         all_courses.extend(matching)
 
-    # Then add from departments
-    for dept in filters.get('departments', [])[:3]:
+    # Then add from departments (fetch MORE courses - up to 5 depts)
+    for dept in filters.get('departments', [])[:5]:
         courses = await fetch_department_courses(dept.upper(), term_id)
         # Exclude already added specific courses and excluded courses
         courses = [c for c in courses if c['code'] not in [sc.upper() for sc in specific_courses]
                    and c['code'] not in [ec.upper() for ec in excluded_courses]]
         all_courses.extend(courses)
 
-    for gened in filters.get('geneds', [])[:2]:
+    # Add from gen-eds (fetch MORE gen-eds - up to 4)
+    for gened in filters.get('geneds', [])[:4]:
         if gened.upper() in GENED_CODES:
             courses = await fetch_gened_courses(gened.upper(), term_id)
             # Exclude excluded courses
             courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
             all_courses.extend(courses)
+
+    # If no departments or geneds specified, try to infer from query or use defaults
+    if not filters.get('departments') and not filters.get('geneds') and not specific_courses:
+        # Generic "give me courses" - fetch from popular departments
+        default_depts = ['CMSC', 'MATH', 'ENGL', 'HIST']
+        for dept in default_depts[:2]:
+            courses = await fetch_department_courses(dept, term_id)
+            all_courses.extend(courses[:15])  # Take first 15 from each
 
     # Apply level filter ONLY to department courses (not gen-eds or specific courses)
     if filters.get('level'):
@@ -187,7 +196,7 @@ Return JSON:
         if keyword_courses:
             all_courses = keyword_courses
 
-    # Smart filtering: aim for ~10 courses with diversity
+    # Smart filtering: aim for ~20-30 courses with diversity (more forgiving)
     final_courses = []
     dept_counts = {}
 
@@ -198,15 +207,15 @@ Return JSON:
             dept = c['code'][:4]
             dept_counts[dept] = dept_counts.get(dept, 0) + 1
 
-    # Then add others - be less restrictive if we have few departments
+    # Then add others - be MORE generous with limits
     num_depts = len(set(c['code'][:4] for c in all_courses))
-    per_dept_limit = 10 if num_depts == 1 else (5 if num_depts == 2 else 3)
+    per_dept_limit = 25 if num_depts == 1 else (15 if num_depts == 2 else 8)
 
-    # Add courses up to the limit
+    # Add courses up to the limit (increased from 10 to 30)
     for c in all_courses:
         if c in final_courses:
             continue
-        if len(final_courses) >= 10:
+        if len(final_courses) >= 30:
             break
         dept = c['code'][:4]
         if dept_counts.get(dept, 0) < per_dept_limit:
@@ -325,19 +334,19 @@ def build_one_schedule(courses_with_sections: List[Dict], best_profs=False, pref
             if not conflicts:
                 dept = course['code'][:4]
 
-                # Soft limit on same department (unless specific course)
-                if dept_counts.get(dept, 0) >= 3 and not course.get('is_specific', False):
+                # Soft limit on same department (unless specific course) - increased to 4
+                if dept_counts.get(dept, 0) >= 4 and not course.get('is_specific', False):
                     break  # Try next course instead
 
-                # Level consistency check: avoid mixing 1xx/2xx with 4xx (unless specific)
+                # More lenient level consistency check
                 if not course.get('is_specific', False) and selected_sections:
                     course_level = int(course['code'][4]) if len(course['code']) >= 5 and course['code'][4].isdigit() else 0
                     existing_levels = [int(s['course_code'][4]) for s in selected_sections if len(s['course_code']) >= 5 and s['course_code'][4].isdigit()]
 
                     if existing_levels:
                         avg_level = sum(existing_levels) / len(existing_levels)
-                        # Skip if level difference is too large (e.g., 1xx with 4xx)
-                        if abs(course_level - avg_level) > 2:
+                        # More lenient - allow mixing unless difference is huge (e.g., 1xx with 4xx)
+                        if abs(course_level - avg_level) > 2.5:
                             break
 
                 selected_sections.append({
@@ -351,8 +360,8 @@ def build_one_schedule(courses_with_sections: List[Dict], best_profs=False, pref
                 dept_counts[dept] = dept_counts.get(dept, 0) + 1
                 break
 
-    # Require at least 3 courses for a valid schedule
-    if len(selected_sections) < 3:
+    # Return schedule even if only 1+ course found (removed 3-course minimum)
+    if len(selected_sections) < 1:
         return None
 
     return {

@@ -9,6 +9,7 @@ export default function ScheduleBuilder() {
   const [terms, setTerms] = useState([])
   const [selectedTerm, setSelectedTerm] = useState('')
   const [viewMode, setViewMode] = useState('calendar') // 'calendar' or 'list'
+  const [explanation, setExplanation] = useState('')
 
   useEffect(() => {
     // Fetch available terms
@@ -36,10 +37,11 @@ export default function ScheduleBuilder() {
 
       if (data.schedules && Array.isArray(data.schedules)) {
         setSchedules(data.schedules)
+        setExplanation(data.explanation || '')
       } else {
         console.error('Invalid response format:', data)
         setSchedules([])
-        alert('Received invalid data format from server')
+        setExplanation(data.explanation || 'Invalid response format')
       }
     } catch (error) {
       console.error('Error:', error)
@@ -115,6 +117,15 @@ export default function ScheduleBuilder() {
           </div>
         </div>
       </div>
+
+      {/* Results Summary */}
+      {explanation && (
+        <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6 rounded-lg">
+          <p className="text-blue-900 font-semibold">
+            {explanation}
+          </p>
+        </div>
+      )}
 
       {/* Results */}
       {schedules.length > 0 && (

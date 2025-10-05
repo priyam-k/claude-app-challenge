@@ -237,16 +237,10 @@ async def build_schedule(request: ScheduleQuery):
     term_id = request.term_id or get_current_term()
 
     try:
-        # Step 1: Find relevant courses (7-10 courses)
+        # Step 1: Find relevant courses (20-30 courses)
         courses, preferences, specific_courses = await find_relevant_courses(
             request.query, term_id
         )
-
-        if not courses:
-            return {
-                "schedules": [],
-                "explanation": "No courses found matching your criteria.",
-            }
 
         # Step 2: Build schedules with conflict detection
         schedules = await build_schedules_from_courses(
@@ -284,7 +278,8 @@ async def build_schedule(request: ScheduleQuery):
 
         return {
             "schedules": formatted_schedules,
-            "explanation": f"Built {len(formatted_schedules)} schedule option(s) with {len(courses)} courses considered.",
+            "courses_found": len(courses),
+            "explanation": f"{len(formatted_schedules)} schedule(s) from {len(courses)} relevant courses found",
         }
 
     except Exception as e:
@@ -292,7 +287,11 @@ async def build_schedule(request: ScheduleQuery):
         import traceback
 
         traceback.print_exc()
-        return {"schedules": [], "explanation": f"Error building schedule: {str(e)}"}
+        return {
+            "schedules": [],
+            "courses_found": 0,
+            "explanation": f"0 schedules from 0 courses found - Error: {str(e)}"
+        }
 
 
 @app.post("/api/events/scan")
