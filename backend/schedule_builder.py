@@ -127,10 +127,12 @@ Return JSON:
     except Exception as e:
         print(f"Parse error: {e}")
 
-    # Fetch courses - MORE GENERIC and COMPREHENSIVE
+    # Fetch courses - AGGRESSIVE and COMPREHENSIVE scraping
     all_courses = []
     specific_courses = filters.get('specific_courses', [])
     excluded_courses = filters.get('excluded_courses', [])
+    dept_courses = []
+    gened_courses = []
 
     # Add specific courses first
     for course_code in specific_courses:
@@ -138,34 +140,41 @@ Return JSON:
         matching = [c for c in courses if c['code'] == course_code.upper()]
         all_courses.extend(matching)
 
-    # Then add from departments (fetch MORE courses - up to 5 depts)
+    # AGGRESSIVELY fetch from departments - scrape ALL courses from each dept
     for dept in filters.get('departments', [])[:5]:
         courses = await fetch_department_courses(dept.upper(), term_id)
         # Exclude already added specific courses and excluded courses
         courses = [c for c in courses if c['code'] not in [sc.upper() for sc in specific_courses]
                    and c['code'] not in [ec.upper() for ec in excluded_courses]]
-        all_courses.extend(courses)
+        dept_courses.extend(courses)  # Keep ALL department courses
 
-    # Add from gen-eds (fetch MORE gen-eds - up to 4)
-    # ALWAYS fetch if geneds mentioned, even if departments also mentioned
-    for gened in filters.get('geneds', [])[:4]:
-        if gened.upper() in GENED_CODES:
-            courses = await fetch_gened_courses(gened.upper(), term_id)
-            # Exclude excluded courses
-            courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
-            all_courses.extend(courses)
-
-    # If user mentioned "gen-ed" or "gened" in general but didn't specify which ones,
-    # fetch from multiple popular gen-ed categories
+    # AGGRESSIVELY fetch gen-eds - ALWAYS fetch if ANY mention of geneds
+    # Check if "gen" or "gened" appears in the query
     query_lower = query.lower()
-    if ('gen' in query_lower or 'gened' in query_lower or 'general education' in query_lower) and not filters.get('geneds'):
-        popular_geneds = ['DSHS', 'DSHU', 'DSNS', 'FSOC', 'FSMA']
-        for gened in popular_geneds[:3]:
-            courses = await fetch_gened_courses(gened, term_id)
-            courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
-            all_courses.extend(courses[:10])  # Take first 10 from each gen-ed
+    mentioned_geneds = 'gen' in query_lower or 'gened' in query_lower or 'general education' in query_lower
 
-    # If no departments or geneds specified, try to infer from query or use defaults
+    if filters.get('geneds') or mentioned_geneds:
+        # If specific gen-eds mentioned, fetch those
+        if filters.get('geneds'):
+            for gened in filters.get('geneds', [])[:4]:
+                if gened.upper() in GENED_CODES:
+                    courses = await fetch_gened_courses(gened.upper(), term_id)
+                    courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
+                    gened_courses.extend(courses)  # Keep ALL gen-ed courses
+
+        # If generic "geneds" mentioned (not specific), fetch from multiple categories
+        if mentioned_geneds and not filters.get('geneds'):
+            popular_geneds = ['DSHS', 'DSHU', 'DSNS', 'FSOC', 'FSMA', 'DVCC', 'DVUP']
+            for gened in popular_geneds[:5]:  # Fetch from 5 gen-ed categories
+                courses = await fetch_gened_courses(gened, term_id)
+                courses = [c for c in courses if c['code'] not in [ec.upper() for ec in excluded_courses]]
+                gened_courses.extend(courses)  # Keep ALL
+
+    # Combine courses: ENSURE both dept and geneds are represented
+    all_courses.extend(dept_courses)
+    all_courses.extend(gened_courses)
+
+    # If no departments or geneds specified, use defaults
     if not filters.get('departments') and not filters.get('geneds') and not specific_courses and not all_courses:
         # Generic "give me courses" - fetch from popular departments
         default_depts = ['CMSC', 'MATH', 'ENGL', 'HIST']
@@ -207,9 +216,10 @@ Return JSON:
         if keyword_courses:
             all_courses = keyword_courses
 
-    # Smart filtering: aim for ~20-30 courses with diversity (more forgiving)
+    # Smart filtering: ENSURE diversity between departments AND gen-eds
     final_courses = []
     dept_counts = {}
+    gened_count = 0
 
     # First, add all specific courses
     for c in all_courses:
@@ -218,22 +228,44 @@ Return JSON:
             dept = c['code'][:4]
             dept_counts[dept] = dept_counts.get(dept, 0) + 1
 
-    # Then add others - be MORE generous with limits
-    num_depts = len(set(c['code'][:4] for c in all_courses))
-    per_dept_limit = 25 if num_depts == 1 else (15 if num_depts == 2 else 8)
+    # Separate gen-ed courses from department-specific courses
+    gened_only = [c for c in all_courses if c.get('geneds') and len(c.get('geneds', [])) > 0 and c not in final_courses]
+    dept_only = [c for c in all_courses if c not in final_courses and c not in gened_only]
 
-    # Add courses up to the limit (increased from 10 to 30)
-    for c in all_courses:
-        if c in final_courses:
-            continue
-        if len(final_courses) >= 30:
-            break
-        dept = c['code'][:4]
-        if dept_counts.get(dept, 0) < per_dept_limit:
+    # If user asked for geneds, PRIORITIZE adding gen-ed courses first
+    if mentioned_geneds or filters.get('geneds'):
+        # Add 10-15 gen-ed courses
+        for c in gened_only[:15]:
+            if len(final_courses) >= 50:
+                break
             final_courses.append(c)
+            dept = c['code'][:4]
             dept_counts[dept] = dept_counts.get(dept, 0) + 1
+            gened_count += 1
 
-    print(f"Selected {len(final_courses)} courses for schedule building from {len(all_courses)} available courses")
+        # Then add department courses
+        for c in dept_only[:20]:
+            if len(final_courses) >= 50:
+                break
+            final_courses.append(c)
+            dept = c['code'][:4]
+            dept_counts[dept] = dept_counts.get(dept, 0) + 1
+    else:
+        # Normal mode: add from both pools with balance
+        num_depts = len(set(c['code'][:4] for c in all_courses))
+        per_dept_limit = 30 if num_depts == 1 else (20 if num_depts == 2 else 12)
+
+        for c in all_courses:
+            if c in final_courses:
+                continue
+            if len(final_courses) >= 50:
+                break
+            dept = c['code'][:4]
+            if dept_counts.get(dept, 0) < per_dept_limit:
+                final_courses.append(c)
+                dept_counts[dept] = dept_counts.get(dept, 0) + 1
+
+    print(f"Selected {len(final_courses)} courses for schedule building from {len(all_courses)} available courses ({gened_count} gen-eds)")
     return final_courses, filters.get('preferences', {}), specific_courses
 
 
