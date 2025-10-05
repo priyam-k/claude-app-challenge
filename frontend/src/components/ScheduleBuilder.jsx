@@ -11,6 +11,8 @@ export default function ScheduleBuilder() {
   const [viewMode, setViewMode] = useState('calendar') // 'calendar' or 'list'
   const [explanation, setExplanation] = useState('')
   const [loadingStatus, setLoadingStatus] = useState('')
+  const [showInfo, setShowInfo] = useState(false)
+  const [showHeaderInfo, setShowHeaderInfo] = useState(false)
 
   useEffect(() => {
     // Fetch available terms
@@ -84,13 +86,44 @@ export default function ScheduleBuilder() {
     <div className="max-w-6xl mx-auto">
       {/* Hero Card */}
       <div className="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl p-8 mb-8 border border-gray-100">
-        <div className="flex items-center gap-3 mb-6">
-          <div className="p-3 bg-umd-red rounded-xl">
-            <span className="text-3xl">📅</span>
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <div className="flex items-center gap-3">
+            <div className="p-3 bg-umd-red rounded-xl">
+              <span className="text-3xl">📅</span>
+            </div>
+            <div>
+              <h2 className="text-3xl font-bold text-gray-800">Smart Schedule Builder</h2>
+              <p className="text-gray-600">AI-powered schedule generation with conflict detection</p>
+            </div>
           </div>
-          <div>
-            <h2 className="text-3xl font-bold text-gray-800">Smart Schedule Builder</h2>
-            <p className="text-gray-600">AI-powered schedule generation with conflict detection</p>
+
+          {/* Info Icon */}
+          <div className="relative">
+            <button
+              onMouseEnter={() => setShowHeaderInfo(true)}
+              onMouseLeave={() => setShowHeaderInfo(false)}
+              onClick={() => setShowHeaderInfo(!showHeaderInfo)}
+              className="p-2 bg-blue-100 hover:bg-blue-200 rounded-full transition-colors"
+            >
+              <svg className="w-6 h-6 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+            </button>
+
+            {/* Tooltip */}
+            {showHeaderInfo && (
+              <div className="absolute top-12 right-0 w-80 bg-white border-2 border-blue-200 rounded-xl shadow-2xl p-4 z-50 animate-fadeIn">
+                <div className="flex items-start gap-2">
+                  <span className="text-blue-500 text-xl flex-shrink-0">ℹ️</span>
+                  <div>
+                    <h4 className="font-bold text-gray-800 mb-2">About Course Availability</h4>
+                    <p className="text-sm text-gray-700 leading-relaxed">
+                      Some courses may seem unavailable because they're already filled (for current/past semesters) or haven't published sections yet (for future semesters). The system only shows courses with open seats.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         </div>
 
@@ -165,9 +198,49 @@ export default function ScheduleBuilder() {
       {/* Results Summary */}
       {!loading && explanation && (
         <div className="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6 rounded-lg">
-          <p className="text-blue-900 font-semibold">
-            {explanation}
-          </p>
+          <div className="flex items-start justify-between gap-3">
+            <p className="text-blue-900 font-semibold flex-1">
+              {explanation}
+            </p>
+
+            {/* Info Icon */}
+            <div className="relative">
+              <button
+                onMouseEnter={() => setShowInfo(true)}
+                onMouseLeave={() => setShowInfo(false)}
+                onClick={() => setShowInfo(!showInfo)}
+                className="p-1.5 bg-blue-200 hover:bg-blue-300 rounded-full transition-colors flex-shrink-0"
+              >
+                <svg className="w-5 h-5 text-blue-700" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                </svg>
+              </button>
+
+              {/* Tooltip */}
+              {showInfo && (
+                <div className="absolute top-10 right-0 w-80 bg-white border-2 border-blue-300 rounded-xl shadow-2xl p-4 z-50 animate-fadeIn">
+                  <div className="flex items-start gap-2">
+                    <span className="text-blue-500 text-xl flex-shrink-0">ℹ️</span>
+                    <div>
+                      <h4 className="font-bold text-gray-800 mb-2">Why fewer courses than expected?</h4>
+                      <p className="text-sm text-gray-700 leading-relaxed mb-2">
+                        Some courses may be unavailable because:
+                      </p>
+                      <ul className="text-sm text-gray-700 leading-relaxed list-disc list-inside space-y-1">
+                        <li>Already filled (current/past semesters)</li>
+                        <li>Sections not published yet (future semesters)</li>
+                        <li>No open seats available</li>
+                        <li>Time conflicts with other courses</li>
+                      </ul>
+                      <p className="text-xs text-gray-600 mt-2 italic">
+                        Try selecting a different semester or adjusting your requirements.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       )}
 
